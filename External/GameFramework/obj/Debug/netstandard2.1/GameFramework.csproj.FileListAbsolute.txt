@@ -1,0 +1,10 @@
+E:\Project_Unity\Rreplica_Sephiria\External\GameFramework\bin\Debug\netstandard2.1\GameFramework.deps.json
+E:\Project_Unity\Rreplica_Sephiria\External\GameFramework\bin\Debug\netstandard2.1\GameFramework.dll
+E:\Project_Unity\Rreplica_Sephiria\External\GameFramework\bin\Debug\netstandard2.1\GameFramework.pdb
+E:\Project_Unity\Rreplica_Sephiria\External\GameFramework\obj\Debug\netstandard2.1\GameFramework.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project_Unity\Rreplica_Sephiria\External\GameFramework\obj\Debug\netstandard2.1\GameFramework.AssemblyInfoInputs.cache
+E:\Project_Unity\Rreplica_Sephiria\External\GameFramework\obj\Debug\netstandard2.1\GameFramework.AssemblyInfo.cs
+E:\Project_Unity\Rreplica_Sephiria\External\GameFramework\obj\Debug\netstandard2.1\GameFramework.csproj.CoreCompileInputs.cache
+E:\Project_Unity\Rreplica_Sephiria\External\GameFramework\obj\Debug\netstandard2.1\GameFramework.sourcelink.json
+E:\Project_Unity\Rreplica_Sephiria\External\GameFramework\obj\Debug\netstandard2.1\GameFramework.dll
+E:\Project_Unity\Rreplica_Sephiria\External\GameFramework\obj\Debug\netstandard2.1\GameFramework.pdb

@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 870657cb49c606e4aadaa95111168b29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4633617596027801693
+    second: Askard_Phase1_Wave_Burst05_0
+  - first:
+      213: -7390705476019062495
+    second: Askard_Phase1_Wave_Burst05_1
+  - first:
+      213: 1748659327532164229
+    second: Askard_Phase1_Wave_Burst05_2
+  - first:
+      213: 238364469875616721
+    second: Askard_Phase1_Wave_Burst05_3
+  - first:
+      213: 4895941209722329626
+    second: Askard_Phase1_Wave_Burst05_4
+  - first:
+      213: -3357650157290347169
+    second: Askard_Phase1_Wave_Burst05_5
+  - first:
+      213: 4224315876060990727
+    second: Askard_Phase1_Wave_Burst05_6
+  - first:
+      213: -5112392586368126558
+    second: Askard_Phase1_Wave_Burst05_7
+  - first:
+      213: -442381068410959332
+    second: Askard_Phase1_Wave_Burst05_8
+  - first:
+      213: -7531182695754107150
+    second: Askard_Phase1_Wave_Burst05_9
+  - first:
+      213: 4341436081103386493
+    second: Askard_Phase1_Wave_Burst05_10
+  - first:
+      213: 5265009901853157499
+    second: Askard_Phase1_Wave_Burst05_11
+  - first:
+      213: 5219382292288850925
+    second: Askard_Phase1_Wave_Burst05_12
+  - first:
+      213: 904658014803005626
+    second: Askard_Phase1_Wave_Burst05_13
+  - first:
+      213: -2042543863283892804
+    second: Askard_Phase1_Wave_Burst05_14
+  - first:
+      213: 6907740538305697880
+    second: Askard_Phase1_Wave_Burst05_15
+  - first:
+      213: -3255499752641779181
+    second: Askard_Phase1_Wave_Burst05_16
+  - first:
+      213: -5411391682652432873
+    second: Askard_Phase1_Wave_Burst05_17
+  - first:
+      213: 6018997342848615959
+    second: Askard_Phase1_Wave_Burst05_18
+  - first:
+      213: 5317638505677692161
+    second: Askard_Phase1_Wave_Burst05_19
+  - first:
+      213: 7079589515313270030
+    second: Askard_Phase1_Wave_Burst05_20
+  - first:
+      213: -6258206009465020233
+    second: Askard_Phase1_Wave_Burst05_21
+  - first:
+      213: -7369996313132306961
+    second: Askard_Phase1_Wave_Burst05_22
+  - first:
+      213: 7787155278774735001
+    second: Askard_Phase1_Wave_Burst05_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 120
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d509c3457aaed4040800000000000000
+      internalID: 4633617596027801693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 131
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1297956f680fe6990800000000000000
+      internalID: -7390705476019062495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 137
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5846ab2c46c744810800000000000000
+      internalID: 1748659327532164229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 129
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dba202f837de4300800000000000000
+      internalID: 238364469875616721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 127
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a12b62790e1f340800000000000000
+      internalID: 4895941209722329626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 126
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55aca6b8fa3761d0800000000000000
+      internalID: -3357650157290347169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 108
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d88ab68e8cf9a30800000000000000
+      internalID: 4224315876060990727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 120
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1ff2187022d09b0800000000000000
+      internalID: -5112392586368126558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 110
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ac10a13c85cd9f0800000000000000
+      internalID: -442381068410959332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 102
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6f1097d3ddb7790800000000000000
+      internalID: -7531182695754107150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 82
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d773b352d11ef3c30800000000000000
+      internalID: 4341436081103386493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 82
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b782fda4c92111940800000000000000
+      internalID: 5265009901853157499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 101
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb47d69a88fe6840800000000000000
+      internalID: 5219382292288850925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 75
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab01b8fdbadfd8c00800000000000000
+      internalID: 904658014803005626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 62
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd3fce9d2d67a3e0800000000000000
+      internalID: -2042543863283892804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 74
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858d64abb693ddf50800000000000000
+      internalID: 6907740538305697880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 53
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a2a6d293422d2d0800000000000000
+      internalID: -3255499752641779181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 68
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7169ff67fefd6e4b0800000000000000
+      internalID: -5411391682652432873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 59
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716038c7136c78350800000000000000
+      internalID: 6018997342848615959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 69
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d9bdefb0c0cc940800000000000000
+      internalID: 5317638505677692161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 31
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dc3d7a721cf3260800000000000000
+      internalID: 7079589515313270030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 43
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b06f92bac26629a0800000000000000
+      internalID: -6258206009465020233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 33
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed6fcfa66388b990800000000000000
+      internalID: -7369996313132306961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Phase1_Wave_Burst05_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 39
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9901d2ac778811c60800000000000000
+      internalID: 7787155278774735001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Askard_Phase1_Wave_Burst05_0: 4633617596027801693
+      Askard_Phase1_Wave_Burst05_1: -7390705476019062495
+      Askard_Phase1_Wave_Burst05_10: 4341436081103386493
+      Askard_Phase1_Wave_Burst05_11: 5265009901853157499
+      Askard_Phase1_Wave_Burst05_12: 5219382292288850925
+      Askard_Phase1_Wave_Burst05_13: 904658014803005626
+      Askard_Phase1_Wave_Burst05_14: -2042543863283892804
+      Askard_Phase1_Wave_Burst05_15: 6907740538305697880
+      Askard_Phase1_Wave_Burst05_16: -3255499752641779181
+      Askard_Phase1_Wave_Burst05_17: -5411391682652432873
+      Askard_Phase1_Wave_Burst05_18: 6018997342848615959
+      Askard_Phase1_Wave_Burst05_19: 5317638505677692161
+      Askard_Phase1_Wave_Burst05_2: 1748659327532164229
+      Askard_Phase1_Wave_Burst05_20: 7079589515313270030
+      Askard_Phase1_Wave_Burst05_21: -6258206009465020233
+      Askard_Phase1_Wave_Burst05_22: -7369996313132306961
+      Askard_Phase1_Wave_Burst05_23: 7787155278774735001
+      Askard_Phase1_Wave_Burst05_3: 238364469875616721
+      Askard_Phase1_Wave_Burst05_4: 4895941209722329626
+      Askard_Phase1_Wave_Burst05_5: -3357650157290347169
+      Askard_Phase1_Wave_Burst05_6: 4224315876060990727
+      Askard_Phase1_Wave_Burst05_7: -5112392586368126558
+      Askard_Phase1_Wave_Burst05_8: -442381068410959332
+      Askard_Phase1_Wave_Burst05_9: -7531182695754107150
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

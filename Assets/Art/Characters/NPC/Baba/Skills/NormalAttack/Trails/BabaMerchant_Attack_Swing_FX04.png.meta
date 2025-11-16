@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 1aa46a8f0eeab7c43a69feb25dce2fbd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7674148973862216415
+    second: BabaMerchant_Attack_Swing_FX04_0
+  - first:
+      213: -6706061756500773243
+    second: BabaMerchant_Attack_Swing_FX04_1
+  - first:
+      213: -7654651645472333054
+    second: BabaMerchant_Attack_Swing_FX04_2
+  - first:
+      213: 3120919653688303299
+    second: BabaMerchant_Attack_Swing_FX04_3
+  - first:
+      213: 3634558626332044933
+    second: BabaMerchant_Attack_Swing_FX04_4
+  - first:
+      213: 4958240223825545759
+    second: BabaMerchant_Attack_Swing_FX04_5
+  - first:
+      213: 4147232955651949060
+    second: BabaMerchant_Attack_Swing_FX04_6
+  - first:
+      213: 7815251678610907446
+    second: BabaMerchant_Attack_Swing_FX04_7
+  - first:
+      213: -531486469405684145
+    second: BabaMerchant_Attack_Swing_FX04_8
+  - first:
+      213: 1320563450711325488
+    second: BabaMerchant_Attack_Swing_FX04_9
+  - first:
+      213: -7316390164508882213
+    second: BabaMerchant_Attack_Swing_FX04_10
+  - first:
+      213: 1373442063185038776
+    second: BabaMerchant_Attack_Swing_FX04_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_Swing_FX04_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 60
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d938bea22ff7590800000000000000
+      internalID: -7674148973862216415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_Swing_FX04_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 73
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58670f9dc584fe2a0800000000000000
+      internalID: -6706061756500773243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_Swing_FX04_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 62
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203234072e635c590800000000000000
+      internalID: -7654651645472333054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_Swing_FX04_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce50a2c3ebbf4b20800000000000000
+      internalID: 3120919653688303299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_Swing_FX04_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 50
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e6add50db807230800000000000000
+      internalID: 3634558626332044933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_Swing_FX04_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 54
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1acc24b6353fc440800000000000000
+      internalID: 4958240223825545759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_Swing_FX04_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 30
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4028d62766eed8930800000000000000
+      internalID: 4147232955651949060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_Swing_FX04_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 10
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631e0e5aef9557c60800000000000000
+      internalID: 7815251678610907446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_Swing_FX04_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 34
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ec52c3fd7cf98f0800000000000000
+      internalID: -531486469405684145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_Swing_FX04_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 22
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b33073675935210800000000000000
+      internalID: 1320563450711325488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_Swing_FX04_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda4946c8e5f67a90800000000000000
+      internalID: -7316390164508882213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_Swing_FX04_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 8
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd49b797427f0310800000000000000
+      internalID: 1373442063185038776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BabaMerchant_Attack_Swing_FX04_0: -7674148973862216415
+      BabaMerchant_Attack_Swing_FX04_1: -6706061756500773243
+      BabaMerchant_Attack_Swing_FX04_10: -7316390164508882213
+      BabaMerchant_Attack_Swing_FX04_11: 1373442063185038776
+      BabaMerchant_Attack_Swing_FX04_2: -7654651645472333054
+      BabaMerchant_Attack_Swing_FX04_3: 3120919653688303299
+      BabaMerchant_Attack_Swing_FX04_4: 3634558626332044933
+      BabaMerchant_Attack_Swing_FX04_5: 4958240223825545759
+      BabaMerchant_Attack_Swing_FX04_6: 4147232955651949060
+      BabaMerchant_Attack_Swing_FX04_7: 7815251678610907446
+      BabaMerchant_Attack_Swing_FX04_8: -531486469405684145
+      BabaMerchant_Attack_Swing_FX04_9: 1320563450711325488
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
