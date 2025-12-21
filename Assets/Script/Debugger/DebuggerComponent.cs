@@ -24,18 +24,7 @@ namespace UnityGameFramework.Runtime
 
         internal static readonly float DefaultWindowScale = 1f;
 
-        // TextEditor가 오류 생겨 일단 조치함
-        //private static readonly TextEditor s_TextEditor = new TextEditor();
-        private static TextEditor s_TextEditor;
-
-        private static TextEditor GetEditor()
-        {
-            if (s_TextEditor == null)
-                s_TextEditor = new TextEditor();
-
-            return s_TextEditor;
-        }
-
+        private static readonly TextEditor s_TextEditor = new TextEditor();
         private IDebuggerManager mDebuggerManager = null;
         private Rect mDragRect = new Rect(0f, 0f, float.MaxValue, 25f);
         private Rect mIconRect = DefaultIconRect;
