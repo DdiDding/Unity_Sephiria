@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room spawnMonster="false" size="6,14" teleportPoint="3,8">
+  <mainLayer>
+    <ground>36 36 36 36 36 36
+36 26 26 26 26 36
+36 26 26 26 26 36
+36 26 26 26 26 36
+36 26 26 26 26 36
+36 26 26 26 26 36
+36 26 26 26 26 36
+36 26 26 26 26 36
+36 26 26 26 26 36
+36 26 26 26 26 36
+36 26 26 26 26 36
+36 26 26 26 26 36
+36 26 26 26 26 36
+36 36 36 36 36 36</ground>
+    <upperGround>X X X X X X
+X 40 40 40 40 X
+X 40 40 40 40 X
+X 40 40 40 40 X
+X 40 40 40 40 X
+X 40 40 40 40 X
+X 40 40 40 40 X
+X 40 40 40 40 X
+X 40 40 40 40 X
+X 40 40 40 40 X
+X 40 40 40 40 X
+X 40 40 40 40 X
+X X X X X X
+X X X X X X</upperGround>
+    <wall>15 15 15 15 15 15
+15 X X X X 15
+15 X X X X 15
+15 X X X X 15
+15 X X X X 15
+15 X X X X 15
+15 X X X X 15
+15 X X X X 15
+15 X X X X 15
+15 X X X X 15
+15 X X X X 15
+15 X X X X 15
+15 X X X X 15
+15 15 15 15 15 15</wall>
+    <cliff>X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X</cliff>
+    <props>
+      <Torch position="4.5,12.6875" localScale="1,1,1" />
+      <Torch position="1.5,12.5625" localScale="1,1,1" />
+      <Torch position="1.375,1.375" localScale="1,1,1" />
+      <Torch position="4.5,1.375" localScale="1,1,1" />
+      <Library-Book002 position="4.25,7.375" localScale="1,1,1" />
+      <Library-Book001 position="4.5,8.5625" localScale="1,1,1" />
+      <Library-Chair001 position="4.5,6.625" localScale="1,1,1" />
+      <Library-Godray2 position="4.125,5.0625" localScale="1,1,1" />
+      <Library-Godray1 position="2.0625,11.5" localScale="1,1,1" />
+    </props>
+  </mainLayer>
+  <passagepoints>
+    <passagepoint position="2,13" dir="0" />
+    <passagepoint position="2,0" dir="2" />
+  </passagepoints>
+</room>

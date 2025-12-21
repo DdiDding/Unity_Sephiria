@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room teleportablePositionOffset="10,2.65" roomIconPath="Grassland/9,5_Default" spawnMonster="0" monsterCountAmplitude="1" wayUp="false" wayDown="true" wayLeft="false" wayRight="false">
+  <ground>5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 X 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 X 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 X 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 X 
+5 5 5 5 5 5 5 5 5 5 6 6 6 5 5 5 5 5 5 5 5 5 5 X 
+5 5 5 5 5 5 5 5 6 6 6 6 6 5 5 5 5 5 5 5 5 5 5 X 
+5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 5 5 5 5 5 5 5 X 
+5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 5 5 5 5 5 5 5 X 
+5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 5 5 5 5 5 5 5 X 
+5 5 5 5 5 5 5 6 6 6 6 6 5 5 5 5 5 5 5 5 5 5 5 X 
+5 5 5 5 5 5 5 5 6 6 6 6 6 6 5 5 5 5 5 5 5 5 5 X 
+5 5 5 5 5 5 5 6 6 6 6 6 6 5 5 5 5 5 5 5 5 5 5 X 
+5 5 5 5 5 5 5 5 6 6 6 6 6 5 5 5 5 5 5 5 5 5 5 X 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 X 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 X 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 X 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 X 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+</ground>
+  <upperGround>X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+</upperGround>
+  <wall>3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 X 3 3 3 3 X X X 3 3 X 3 3 3 3 3 3 3 3 
+3 3 3 3 3 X 3 X X X X X X X 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 X X X X X X X X X X X X 3 3 3 3 3 3 3 3 
+3 3 3 3 X X X X X X X X X X X X 3 3 3 3 3 3 3 3 
+3 3 3 3 X X X X X X X X X X X X 3 3 3 3 3 3 3 3 
+3 3 3 3 X X X X X X X X X X X X 3 3 3 3 3 3 3 3 
+3 3 3 3 3 X X X X X X X X X X X 3 3 3 3 3 3 3 3 
+3 3 3 3 3 X X X X X X X X X X 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 X X X X X X X X X X 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 X X X X X X X X X X 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 X X X 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 X X X X 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 X X X X 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 X X X X 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 X X X X 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 X X X X 3 3 3 3 3 3 3 3 3 3 3 3 
+</wall>
+  <props>
+    <prop id="Barricade_H" position="9.3125,4.1875" />
+    <prop id="Rail_DownLeft" position="10.5,15.5" />
+    <prop id="Rail_Horizontal" position="11.5,12.5" />
+    <prop id="Rail_Horizontal" position="12.5,12.5" />
+    <prop id="Rail_Horizontal" position="13.5,12.5" />
+    <prop id="Rail_Horizontal" position="14.5,12.5" />
+    <prop id="Rail_Horizontal" position="15.5,12.5" />
+    <prop id="Rail_UpRight" position="10.5,12.5" />
+    <prop id="Rail_Vertical" position="10.5,14.5" />
+    <prop id="Rail_Vertical" position="10.5,13.5" />
+    <prop id="PileOfLumber" position="5,10.9375" />
+    <prop id="PileOfLumber" position="5.8125,8.875" />
+    <prop id="SocialAvatarSpawner" position="10.3125,10.5">
+      <options>
+        <socialAvatarSpawner socialID="Mole_Baraka">
+          <startsDead>False</startsDead>
+        </socialAvatarSpawner>
+      </options>
+    </prop>
+  </props>
+</room>

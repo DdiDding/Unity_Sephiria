@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room spawnMonster="false" size="30,14" teleportPoint="18.5,5">
+  <mainLayer>
+    <ground>X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X 41 41 X X X X X X X X X X X X X X X X X X X X X X X X X X
+X 41 41 41 41 X X X X X X X X X X X X X X X X 41 41 X 41 41 X X X X
+X 41 41 51 41 41 X X X X X X X X X X X X X X 41 41 51 41 41 41 41 X X X
+X 41 41 41 41 41 41 41 41 41 X X X X X X X X X 41 41 41 41 41 41 41 41 41 X X
+X X 41 41 50 41 41 41 41 41 41 X X X 41 41 X 41 41 41 41 41 41 41 41 41 50 41 41 X
+X X 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 50 41 41 41 41 41 41 41 41 41 X
+X X 41 41 41 41 41 41 50 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 51 41 X
+X X X 41 41 51 41 41 41 41 41 41 41 41 41 51 41 41 41 41 41 41 41 41 41 41 41 41 X X
+X X X 41 41 41 41 41 41 41 41 X X X 41 41 41 41 41 41 41 41 41 41 41 41 41 X X X
+X X X X X X 41 41 41 X X X X X X X X X 41 41 41 41 41 X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X</ground>
+    <upperGround>X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X 42 X X X X
+X X X X X X X X X X X X X X X X X X X X X 42 42 X X 42 X X X X
+X X X X X X 49 X X X X X X X X X X X X 49 X 42 42 42 42 42 X X X X
+X X X X X X 42 42 42 42 X X X X X X X X X 42 42 42 X X X X X X X X
+X X X X X X X X X 42 42 X X X 42 42 X 42 42 42 X X X X X X X X X X
+X X X X X X X X X X X X X X X 42 42 42 X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X</upperGround>
+    <wall>X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X</wall>
+    <cliff>X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X 16 X X X X X X X X X X X X X X X X X X
+X 15 X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X 15 X X X X X X X X X X X X X X X X X X X X X X X X X 16 X
+X X X X X X X X X X X 14 10 13 X X X X X X X X X X X X X 16 X X
+X X X 11 10 13 X X X 14 12 X X X 11 10 10 13 X X X X X 101 101 101 101 X X X
+X X X X X X 11 10 12 X X X X X X X X X 11 10 10 10 101 X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X</cliff>
+    <props>
+      <SocialAvatarSpawner position="23.1875,5.84375" localScale="1,1,1">
+        <options>
+          <socialAvatarSpawner socialID="Merchant_Papa">
+            <startsDead>False</startsDead>
+            <additionalHPPercent>0</additionalHPPercent>
+            <additionalATKPercent>0</additionalATKPercent>
+            <overrideMerchantType>false</overrideMerchantType>
+            <merchantType>0</merchantType>
+          </socialAvatarSpawner>
+        </options>
+      </SocialAvatarSpawner>
+      <Badland_CliffTree02 position="16.125,2" localScale="1,1,1" />
+      <Badland_CliffTree00 position="28.5,3.125" localScale="1,1,1" />
+      <Badland_CliffTree04 position="12.4375,3.375" localScale="1,1,1" />
+      <Badland_CliffTree05 position="6.25,13.3125" localScale="1,1,1" />
+      <Badland_CliffTree06 position="1.1875,6.125" localScale="1,1,1" />
+      <Badland_CliffTree07 position="0.875,5.0625" localScale="1,1,1" />
+      <Badland_CliffTree08 position="1.625,4.0625" localScale="1,1,1" />
+      <Badland_WallObject-2 position="7.8125,8" localScale="1,1,1" />
+      <Badland_WallObject-1 position="15.8125,8.125" localScale="1,1,1" />
+      <Badland_Sword-0 position="19.46875,8.59375" localScale="1,1,1" />
+      <Badland_Sword-0 position="15.5625,6.625" localScale="1,1,1" />
+      <Badland_Tree-1 position="22.15625,9.71875" localScale="1,1,1" />
+      <Badland_Tree-0 position="24.875,8.6875" localScale="1,1,1" />
+      <Badland_Stone-1 position="9.09375,7.40625" localScale="1,1,1" />
+      <Badland_Stone-2 position="19.25,7.875" localScale="1,1,1" />
+      <Badland_Stone-3 position="7.625,6.375" localScale="1,1,1" />
+      <Badland_Sword-0 position="3.75,3.53125" localScale="1,1,1" />
+      <Badland_Tree-0 position="10.3125,3.625" localScale="1,1,1" />
+      <Badland_Tree-2 position="18.75,2.5" localScale="1,1,1" />
+      <Badland_WallObject-0 position="15,7" localScale="1,1,1" />
+      <Badland_Tree-2 position="21.53125,9.6875" localScale="1,1,1" />
+      <Badland_HighWall-S-4 position="18,9.9375" localScale="1,1,1" />
+      <Badland_HighWall-S-0 position="9,9" localScale="1,1,1" />
+      <Badland_HighWall-S-6 position="17,7" localScale="1,1,1" />
+      <Badland_HighWall-S-7 position="22,10" localScale="1,1,1" />
+      <EXPShop position="18.03125,6.1875" localScale="1,1,1" />
+    </props>
+  </mainLayer>
+  <passagepoints>
+    <passagepoint position="0,10" dir="3" />
+    <passagepoint position="6,1" dir="2" />
+    <passagepoint position="2,12" dir="0" />
+  </passagepoints>
+</room>

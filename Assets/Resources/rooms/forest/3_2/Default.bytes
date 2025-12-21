@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room teleportablePositionOffset="10,10" roomIconPath="Swampland/3,2_Default" spawnMonster="0" monsterCountAmplitude="1" wayUp="true" wayDown="true" wayLeft="true" wayRight="false">
+  <ground>18 18 18 18 18 18 18 18 18 18 18 17 17 17 16 16 16 18 18 18 
+18 18 18 18 18 18 18 18 18 18 17 17 17 17 16 18 18 18 18 18 
+16 18 18 18 16 16 18 18 18 18 17 17 17 17 18 18 18 18 18 18 
+16 17 16 16 17 17 17 16 17 16 17 17 17 17 16 18 18 18 18 18 
+16 16 17 17 17 17 17 16 16 16 17 17 17 17 16 16 18 18 18 18 
+16 16 16 16 16 17 16 16 16 16 17 17 17 17 17 18 18 18 18 18 
+16 16 16 16 16 16 16 16 16 17 17 17 17 17 17 18 18 18 18 18 
+17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 16 18 18 18 18 
+17 17 17 16 16 16 17 17 17 17 17 17 17 17 16 16 16 18 18 18 
+17 17 17 16 17 16 17 17 17 17 17 17 17 16 16 16 16 18 18 18 
+17 17 17 17 17 17 17 17 17 17 17 17 17 16 16 16 17 18 18 18 
+17 17 17 17 17 17 17 17 17 17 17 17 16 16 16 16 16 18 18 18 
+16 16 16 17 17 17 17 17 17 17 16 16 16 16 18 16 16 18 18 18 
+16 16 16 16 18 16 16 17 17 17 16 18 18 18 18 18 18 18 18 18 
+16 17 18 18 18 16 16 16 17 17 16 18 18 18 18 18 18 18 18 18 
+18 18 18 18 18 18 18 16 17 17 17 16 18 18 18 18 18 18 18 18 
+</ground>
+  <upperGround>X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+</upperGround>
+  <wall>X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+</wall>
+  <props>
+    <prop id="Forest-LizardBuilding0" position="4.625,9.1875" />
+    <prop id="Forest-Grass0" position="8.375,10.75" />
+    <prop id="Forest-Grass0" position="16,15.3125" />
+    <prop id="Forest-Stump0" position="1.4375,2.8125" />
+    <prop id="Forest-Stump0" position="14.75,11.6875" />
+    <prop id="Forest-Lantern" position="15.5,8.4375" />
+    <prop id="Forest-Lantern" position="6.9375,1.5" />
+    <prop id="Forest-Lantern" position="0.75,13" />
+    <prop id="Jar0" position="14.5,12.375" />
+    <prop id="StoneWall1" position="14.8125,4.3125" />
+    <prop id="StoneWall5" position="15.9375,6.75" />
+    <prop id="StoneWall3" position="9,12" />
+  </props>
+</room>

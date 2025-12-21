@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room teleportablePositionOffset="10,10" roomIconPath="Swampland/2,3_Default" spawnMonster="0" monsterCountAmplitude="1" wayUp="false" wayDown="true" wayLeft="true" wayRight="false">
+  <ground>19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 
+19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 
+19 16 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 
+16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 19 19 19 19 
+16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 19 19 19 19 
+17 17 16 16 16 16 16 17 17 17 17 16 16 17 16 16 16 19 19 19 
+17 17 17 17 17 17 17 17 17 17 17 17 16 16 16 16 16 19 19 19 
+17 17 17 17 17 17 17 17 17 17 17 17 16 17 16 16 16 18 18 18 
+17 17 17 17 17 17 17 17 17 17 17 17 16 17 16 16 16 18 18 18 
+17 17 17 17 17 17 17 17 17 17 17 17 17 17 16 16 16 18 18 18 
+17 17 17 17 17 17 17 17 17 17 17 17 17 17 16 16 18 18 18 18 
+17 17 16 16 16 16 17 17 17 17 17 17 17 17 16 16 16 16 18 18 
+16 18 18 16 16 16 16 17 17 17 17 17 17 17 16 16 16 16 18 18 
+18 18 18 18 16 16 16 16 17 17 17 17 17 16 16 16 16 16 18 18 
+18 18 18 18 18 18 18 16 17 17 17 16 16 16 16 16 18 16 18 18 
+18 18 18 18 18 18 18 16 17 17 17 16 16 16 16 17 18 18 18 18 
+</ground>
+  <upperGround>X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+</upperGround>
+  <wall>10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 
+10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 
+10 X 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 
+X X X X X X 3 3 X X X X X X X X 10 10 10 10 
+X X X X X X X X X X X X X X X X 10 10 10 10 
+X X X X X X X X X X X X X X X X X 10 10 10 
+X X X X X X X X X X X X X X X X X 10 10 10 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 
+</wall>
+  <props>
+    <prop id="Forest-Lantern" position="4.4375,3.25" />
+    <prop id="Forest-Lantern" position="16.375,7.4375" />
+    <prop id="Forest-Lantern" position="1.3125,11.625" />
+  </props>
+</room>

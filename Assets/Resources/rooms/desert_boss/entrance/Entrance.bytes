@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room spawnMonster="false" size="20,20" teleportPoint="9,12.5">
+  <mainLayer>
+    <ground>38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38
+38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38
+38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38
+38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38
+38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38
+38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38
+38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38
+38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38
+38 38 38 38 38 38 38 38 38 39 38 38 38 38 38 38 38 38 38 38
+38 38 38 38 38 38 38 38 38 39 39 38 38 38 38 38 38 38 38 38
+38 38 38 38 38 38 38 38 38 38 39 39 38 38 38 38 38 38 38 38
+38 38 38 38 38 38 38 38 38 38 39 39 38 38 38 38 38 38 38 38
+38 38 38 38 38 38 38 38 38 38 39 39 38 38 38 38 39 39 38 38
+38 38 38 38 38 38 38 38 38 38 39 39 39 38 38 38 38 38 38 38
+38 38 38 38 38 38 38 38 38 38 39 39 39 38 38 38 38 38 38 38
+38 38 38 38 38 38 38 38 38 38 39 38 38 38 38 38 38 38 38 38
+38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38
+38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38
+38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38
+38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38 38</ground>
+    <upperGround>X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X</upperGround>
+    <wall>20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20
+20 20 20 20 20 20 20 20 X X X X 20 20 20 20 20 20 20 20
+20 20 20 20 X X 20 20 20 X X X 20 20 20 20 20 20 20 20
+20 20 20 20 X X X X X X X 20 20 20 20 20 20 20 20 20
+20 20 20 20 20 X X X X X X X X 20 20 20 20 20 20 20
+20 20 20 20 20 X X X X X X X X X 20 20 20 20 20 20
+20 20 20 20 20 X X X X X X X X X X 20 20 20 20 20
+20 20 20 20 20 20 X X X X X X X X X X 20 20 20 20
+20 20 20 20 20 20 20 X X X X X X X X X X X 20 20
+20 20 20 20 20 20 X X X X X X X X X X X X 20 20
+20 20 20 20 20 X X X X X X X X X X 20 20 20 20 20
+20 20 20 20 20 X X X X X X X X X X 20 20 20 20 20
+20 20 20 20 20 20 20 X X X X X X X X 20 X X 20 20
+20 20 20 20 20 20 20 20 X X X X X X X 20 20 20 20 20
+20 20 20 20 20 20 20 X X X X X X X X X X X 20 20
+20 20 20 20 20 20 X X X X X X X X X X X X 20 20
+20 20 20 20 X X X X X X X X X X X X X X 20 20
+20 20 20 20 X X 20 X X 20 20 20 20 20 20 X X 20 20 20
+20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20
+20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20</wall>
+    <props>
+      <FloorMover_Passage_Up position="11.375,6">
+        <options>
+          <stair>
+            <spawnPointOffset>0,2,0</spawnPointOffset>
+            <target>STAIR_DOWN</target>
+            <isLocked>0</isLocked>
+            <unlockKey></unlockKey>
+            <unlockKeyName>Key_XXXX</unlockKeyName>
+          </stair>
+        </options>
+      </FloorMover_Passage_Up>
+    </props>
+  </mainLayer>
+  <passagepoints>
+    <passagepoint position="9,19" dir="0" />
+  </passagepoints>
+</room>

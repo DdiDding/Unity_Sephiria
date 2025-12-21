@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room size="17,7" teleportPoint="3,3">
+  <mainLayer>
+    <ground>X X X X X X X X X X X X X X X X X
+X 0 0 X X X X X X X X X X X X X X
+X 0 0 X X X X X X X X X X X X X X
+X 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 X
+X 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 X
+X 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 X
+X X X X X X X X X X X X X X X X X</ground>
+    <upperGround>X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X</upperGround>
+    <wall>1 1 1 1 X X X X X X X X X X X X X
+1 X X 1 X X X X X X X X X X X X X
+1 X X 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+1 X X X X X X X X X X X X X X X 1
+1 X X X X X X X X X X X X X X X 1
+1 X X X X X X X X X X X X X X X 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</wall>
+    <props>
+    </props>
+  </mainLayer>
+  <passagepoints>
+    <passagepoint position="1,6" dir="0"/>
+    <passagepoint position="16,3" dir="1"/>
+  </passagepoints>
+</room>

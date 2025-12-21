@@ -1,0 +1,2639 @@
+fileFormatVersion: 2
+guid: 2c0da6b6428ff3f4eb69ac5ade6f8655
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3622606405105764688
+    second: aline_fallback_font_0
+  - first:
+      213: -8589156908862931192
+    second: aline_fallback_font_1
+  - first:
+      213: 3958369483107603336
+    second: aline_fallback_font_2
+  - first:
+      213: 5323385296899873459
+    second: aline_fallback_font_3
+  - first:
+      213: 1072122392154150240
+    second: aline_fallback_font_4
+  - first:
+      213: -4352303821771230519
+    second: aline_fallback_font_5
+  - first:
+      213: 3127345159079147286
+    second: aline_fallback_font_6
+  - first:
+      213: -64258292579018734
+    second: aline_fallback_font_7
+  - first:
+      213: 3953291270411223786
+    second: aline_fallback_font_8
+  - first:
+      213: 9003874415318192660
+    second: aline_fallback_font_9
+  - first:
+      213: -2003458130050076978
+    second: aline_fallback_font_10
+  - first:
+      213: 6402866916214849614
+    second: aline_fallback_font_11
+  - first:
+      213: 3466076798850504821
+    second: aline_fallback_font_12
+  - first:
+      213: 591332310588251710
+    second: aline_fallback_font_13
+  - first:
+      213: 6006411688853065118
+    second: aline_fallback_font_14
+  - first:
+      213: 6500246111226772979
+    second: aline_fallback_font_15
+  - first:
+      213: 6681734057491728160
+    second: aline_fallback_font_16
+  - first:
+      213: -8984461161293018462
+    second: aline_fallback_font_17
+  - first:
+      213: 3299091995569215413
+    second: aline_fallback_font_18
+  - first:
+      213: 7870739850319501399
+    second: aline_fallback_font_19
+  - first:
+      213: 5270742747120311352
+    second: aline_fallback_font_20
+  - first:
+      213: 4621371020722430983
+    second: aline_fallback_font_21
+  - first:
+      213: 6100411153365294297
+    second: aline_fallback_font_22
+  - first:
+      213: -612542641657660895
+    second: aline_fallback_font_23
+  - first:
+      213: 1961119461959591939
+    second: aline_fallback_font_24
+  - first:
+      213: -4976406820748570549
+    second: aline_fallback_font_25
+  - first:
+      213: 1164269405571244014
+    second: aline_fallback_font_26
+  - first:
+      213: 109008754055618252
+    second: aline_fallback_font_27
+  - first:
+      213: 6878094133488859918
+    second: aline_fallback_font_28
+  - first:
+      213: -7658549147895993522
+    second: aline_fallback_font_29
+  - first:
+      213: 5693489763534615593
+    second: aline_fallback_font_30
+  - first:
+      213: -6452250212602241976
+    second: aline_fallback_font_31
+  - first:
+      213: 1062501668727305475
+    second: aline_fallback_font_32
+  - first:
+      213: -8962458304917722283
+    second: aline_fallback_font_33
+  - first:
+      213: 797186119926408904
+    second: aline_fallback_font_34
+  - first:
+      213: -6544933482329754381
+    second: aline_fallback_font_35
+  - first:
+      213: 2736625304923584978
+    second: aline_fallback_font_36
+  - first:
+      213: -8989332224981929247
+    second: aline_fallback_font_37
+  - first:
+      213: -2908189133153187449
+    second: aline_fallback_font_38
+  - first:
+      213: 6319026062368878916
+    second: aline_fallback_font_39
+  - first:
+      213: -6766247176907237445
+    second: aline_fallback_font_40
+  - first:
+      213: -5648059300255505242
+    second: aline_fallback_font_41
+  - first:
+      213: -3845613966295191004
+    second: aline_fallback_font_42
+  - first:
+      213: -4321890446713774400
+    second: aline_fallback_font_43
+  - first:
+      213: 6470165701273001434
+    second: aline_fallback_font_44
+  - first:
+      213: 5083138405581593501
+    second: aline_fallback_font_45
+  - first:
+      213: -6182204442252127348
+    second: aline_fallback_font_46
+  - first:
+      213: 2248780394132489671
+    second: aline_fallback_font_47
+  - first:
+      213: -8808343699996423591
+    second: aline_fallback_font_48
+  - first:
+      213: 2275160329595313658
+    second: aline_fallback_font_49
+  - first:
+      213: -6739617897326335413
+    second: aline_fallback_font_50
+  - first:
+      213: 6667219895745393754
+    second: aline_fallback_font_51
+  - first:
+      213: 6060446541489223185
+    second: aline_fallback_font_52
+  - first:
+      213: 8807961699797825117
+    second: aline_fallback_font_53
+  - first:
+      213: 4647558215995573883
+    second: aline_fallback_font_54
+  - first:
+      213: 4217709016204520718
+    second: aline_fallback_font_55
+  - first:
+      213: -7384636543495025561
+    second: aline_fallback_font_56
+  - first:
+      213: -1561210719574902324
+    second: aline_fallback_font_57
+  - first:
+      213: 8200307503608935194
+    second: aline_fallback_font_58
+  - first:
+      213: -3473274589853316558
+    second: aline_fallback_font_59
+  - first:
+      213: -7202726394325635945
+    second: aline_fallback_font_60
+  - first:
+      213: -1412155613774853791
+    second: aline_fallback_font_61
+  - first:
+      213: 7744823549238423430
+    second: aline_fallback_font_62
+  - first:
+      213: -4370020430480058038
+    second: aline_fallback_font_63
+  - first:
+      213: -2603773449531686803
+    second: aline_fallback_font_64
+  - first:
+      213: 3515083267744163659
+    second: aline_fallback_font_65
+  - first:
+      213: 2859727692279887975
+    second: aline_fallback_font_66
+  - first:
+      213: -3104742277861151325
+    second: aline_fallback_font_67
+  - first:
+      213: 1889562399161691981
+    second: aline_fallback_font_68
+  - first:
+      213: 7471592439355842406
+    second: aline_fallback_font_69
+  - first:
+      213: -3323170321527197719
+    second: aline_fallback_font_70
+  - first:
+      213: -996620796914384425
+    second: aline_fallback_font_71
+  - first:
+      213: 1866590787914599715
+    second: aline_fallback_font_72
+  - first:
+      213: -423319093427633763
+    second: aline_fallback_font_73
+  - first:
+      213: -2872078773735000695
+    second: aline_fallback_font_74
+  - first:
+      213: -8407031325618622677
+    second: aline_fallback_font_75
+  - first:
+      213: -7787458161498750414
+    second: aline_fallback_font_76
+  - first:
+      213: -1594746728668604044
+    second: aline_fallback_font_77
+  - first:
+      213: -3794462737597634933
+    second: aline_fallback_font_78
+  - first:
+      213: 639194047058076297
+    second: aline_fallback_font_79
+  - first:
+      213: 1329251735988844112
+    second: aline_fallback_font_80
+  - first:
+      213: -4741916635917657436
+    second: aline_fallback_font_81
+  - first:
+      213: 1417513773748409069
+    second: aline_fallback_font_82
+  - first:
+      213: -1766089005498450394
+    second: aline_fallback_font_83
+  - first:
+      213: -8748300855013421952
+    second: aline_fallback_font_84
+  - first:
+      213: -7308505439311141185
+    second: aline_fallback_font_85
+  - first:
+      213: 8907396310040048026
+    second: aline_fallback_font_86
+  - first:
+      213: -7674737054594118418
+    second: aline_fallback_font_87
+  - first:
+      213: 3941369919309754241
+    second: aline_fallback_font_88
+  - first:
+      213: -5946547025492084129
+    second: aline_fallback_font_89
+  - first:
+      213: 6781943914557056676
+    second: aline_fallback_font_90
+  - first:
+      213: 6037841567465287803
+    second: aline_fallback_font_91
+  - first:
+      213: 2117614782408643899
+    second: aline_fallback_font_92
+  - first:
+      213: -4473558510678455036
+    second: aline_fallback_font_93
+  - first:
+      213: 7123710348273017165
+    second: aline_fallback_font_94
+  - first:
+      213: 7738723774154443101
+    second: aline_fallback_font_95
+  - first:
+      213: -3250403344820907917
+    second: aline_fallback_font_96
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aline_fallback_font_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 89
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6bd9efaaae9bdc0800000000000000
+      internalID: -3622606405105764688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 117
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ff1277c4f2dc880800000000000000
+      internalID: -8589156908862931192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 91
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88310629214fee630800000000000000
+      internalID: 3958369483107603336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 93
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba114819b670e940800000000000000
+      internalID: 5323385296899873459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 93
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0651714a2a1f0ee00800000000000000
+      internalID: 1072122392154150240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 93
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c230cccbb28993c0800000000000000
+      internalID: -4352303821771230519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 93
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61733f05adf866b20800000000000000
+      internalID: 3127345159079147286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 93
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21854f06c65bb1ff0800000000000000
+      internalID: -64258292579018734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 93
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2838a0779ecd630800000000000000
+      internalID: 3953291270411223786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 95
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412d44f731034fc70800000000000000
+      internalID: 9003874415318192660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 94
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece2ffb02794234e0800000000000000
+      internalID: -2003458130050076978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 96
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e404615598d8bd850800000000000000
+      internalID: 6402866916214849614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_12
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 96
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57815b70c7af91030800000000000000
+      internalID: 3466076798850504821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_13
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 96
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ed2dc7a95d43800800000000000000
+      internalID: 591332310588251710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 96
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d47d09b9f0b5350800000000000000
+      internalID: 6006411688853065118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_15
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 96
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd394cf563853a50800000000000000
+      internalID: 6500246111226772979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_16
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 97
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0278c6459b94abc50800000000000000
+      internalID: 6681734057491728160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_17
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 97
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa06deec28c05380800000000000000
+      internalID: -8984461161293018462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_18
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 97
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7dc3dc0bab8cd20800000000000000
+      internalID: 3299091995569215413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_19
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 96
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7581ec1613c7a3d60800000000000000
+      internalID: 7870739850319501399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_20
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 97
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c92985a90752940800000000000000
+      internalID: 5270742747120311352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_21
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 97
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704e1715578622040800000000000000
+      internalID: 4621371020722430983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_22
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 97
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc5b246f9309a450800000000000000
+      internalID: 6100411153365294297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_23
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 97
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a373a76bfcf77f0800000000000000
+      internalID: -612542641657660895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_24
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 97
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308e43c92cb473b10800000000000000
+      internalID: 1961119461959591939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_25
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 97
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b405377dc5040fab0800000000000000
+      internalID: -4976406820748570549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_26
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 97
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefdde51bd0582010800000000000000
+      internalID: 1164269405571244014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_27
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 96
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce94ee52e6438100800000000000000
+      internalID: 109008754055618252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_28
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 96
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b3d463c26e37f50800000000000000
+      internalID: 6878094133488859918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_29
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 97
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4be9c0702e57b590800000000000000
+      internalID: -7658549147895993522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_30
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 104
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924bdc746c6530f40800000000000000
+      internalID: 5693489763534615593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_31
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 96
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c97ebfd900576a0800000000000000
+      internalID: -6452250212602241976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_32
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30530c963a3cebe00800000000000000
+      internalID: 1062501668727305475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_33
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 96
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b212528a3fe9380800000000000000
+      internalID: -8962458304917722283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_34
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 98
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6e51a6d8c201b00800000000000000
+      internalID: 797186119926408904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_35
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 98
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4bc23aca9bb25a0800000000000000
+      internalID: -6544933482329754381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_36
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 98
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9b05f27327af520800000000000000
+      internalID: 2736625304923584978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_37
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 98
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2faf908f97f3380800000000000000
+      internalID: -8989332224981929247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_38
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 97
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789c0c2446904a7d0800000000000000
+      internalID: -2908189133153187449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_39
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 96
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441beed59b0b1b750800000000000000
+      internalID: 6319026062368878916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 54
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb754fdaa067912a0800000000000000
+      internalID: -6766247176907237445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_41
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 54
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4ede9bdff0e91b0800000000000000
+      internalID: -5648059300255505242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_42
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 54
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422b1bbf872a1aac0800000000000000
+      internalID: -3845613966295191004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_43
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 54
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce987d798f8504c0800000000000000
+      internalID: -4321890446713774400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_44
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 54
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add1b46cc65aac950800000000000000
+      internalID: 6470165701273001434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_45
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 54
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b16d0c27fea8640800000000000000
+      internalID: 5083138405581593501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_46
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 54
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8358b280d5643aa0800000000000000
+      internalID: -6182204442252127348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_47
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 54
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5412a9ad5453f10800000000000000
+      internalID: 2248780394132489671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_48
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 54
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ac92ec21a72c580800000000000000
+      internalID: -8808343699996423591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_49
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 53
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdd694f34ef29f10800000000000000
+      internalID: 2275160329595313658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_50
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 54
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4aaffbfa311872a0800000000000000
+      internalID: -6739617897326335413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_51
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 53
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a543255bb29b68c50800000000000000
+      internalID: 6667219895745393754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_52
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 54
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116b5b515080b1450800000000000000
+      internalID: 6060446541489223185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_53
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 39
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56f1b7df7a2c3a70800000000000000
+      internalID: 8807961699797825117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_54
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 54
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b764d59d2917f7040800000000000000
+      internalID: 4647558215995573883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_55
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 54
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d25dcf000588a30800000000000000
+      internalID: 4217709016204520718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_56
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 53
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c4c9d6030848990800000000000000
+      internalID: -7384636543495025561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_57
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 54
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9b4384f17755ae0800000000000000
+      internalID: -1561210719574902324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_58
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 54
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13b4993a385dc170800000000000000
+      internalID: 8200307503608935194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_59
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 54
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a0768a9237ccfc0800000000000000
+      internalID: -3473274589853316558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_60
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 53
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ce3eb8186ca0c90800000000000000
+      internalID: -7202726394325635945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_61
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 54
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169406183f3076ce0800000000000000
+      internalID: -1412155613774853791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_62
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 54
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68faf64fbf32b7b60800000000000000
+      internalID: 7744823549238423430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_63
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 54
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49590462919a53c0800000000000000
+      internalID: -4370020430480058038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_64
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 54
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d600211d7d98ddbd0800000000000000
+      internalID: -2603773449531686803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_65
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 60
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b476fc9bb9518c030800000000000000
+      internalID: 3515083267744163659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_66
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 54
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768b0b44f2bcfa720800000000000000
+      internalID: 2859727692279887975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_67
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ade2f0195db9e4d0800000000000000
+      internalID: -3104742277861151325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_68
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 59
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fa7fe9df2193a10800000000000000
+      internalID: 1889562399161691981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_69
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 59
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f9c46ccbd60b760800000000000000
+      internalID: 7471592439355842406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_70
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 59
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef2041133ab1e1d0800000000000000
+      internalID: -3323170321527197719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_71
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 59
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1c6206aaa4b22f0800000000000000
+      internalID: -996620796914384425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_72
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 59
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d8aa69e6677e910800000000000000
+      internalID: 1866590787914599715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_73
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d910b910781102af0800000000000000
+      internalID: -423319093427633763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_74
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 60
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985f59c72935428d0800000000000000
+      internalID: -2872078773735000695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_75
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 59
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fabec3d89345b80800000000000000
+      internalID: -8407031325618622677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_76
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 60
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23286a4df046de390800000000000000
+      internalID: -7787458161498750414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_77
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 60
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479ddf2bc425ed9e0800000000000000
+      internalID: -1594746728668604044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_78
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 59
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86690c7e3c575bc0800000000000000
+      internalID: -3794462737597634933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_79
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 53
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982e075699fded800800000000000000
+      internalID: 639194047058076297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_80
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 55
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056bfa44963727210800000000000000
+      internalID: 1329251735988844112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_81
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 59
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aadc9181f3513eb0800000000000000
+      internalID: -4741916635917657436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_82
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 24
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de25f7454450ca310800000000000000
+      internalID: 1417513773748409069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_83
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 25
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62eba8918679d77e0800000000000000
+      internalID: -1766089005498450394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_84
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 24
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ccdac09bac79680800000000000000
+      internalID: -8748300855013421952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_85
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 26
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb669da6609f29a90800000000000000
+      internalID: -7308505439311141185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_86
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 26
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91ff8520cd6d9b70800000000000000
+      internalID: 8907396310040048026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_87
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 27
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecc364bf4bdd7590800000000000000
+      internalID: -7674737054594118418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_88
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 27
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f2ed03f0f82b630800000000000000
+      internalID: 3941369919309754241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_89
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 27
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a73698cfe997da0800000000000000
+      internalID: -5946547025492084129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_90
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 33
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6abc9de0e4e1e50800000000000000
+      internalID: 6781943914557056676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_91
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 33
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b703bde6ae8bac350800000000000000
+      internalID: 6037841567465287803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_92
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 33
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35559ccc67436d10800000000000000
+      internalID: 2117614782408643899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_93
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 33
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dc5198c3abae1c0800000000000000
+      internalID: -4473558510678455036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_94
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 36
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41669791d08cd260800000000000000
+      internalID: 7123710348273017165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_95
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 36
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5988556548756b60800000000000000
+      internalID: 7738723774154443101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_fallback_font_96
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 37
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3705537116f34e2d0800000000000000
+      internalID: -3250403344820907917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aline_fallback_font_0: -3622606405105764688
+      aline_fallback_font_1: -8589156908862931192
+      aline_fallback_font_10: -2003458130050076978
+      aline_fallback_font_11: 6402866916214849614
+      aline_fallback_font_12: 3466076798850504821
+      aline_fallback_font_13: 591332310588251710
+      aline_fallback_font_14: 6006411688853065118
+      aline_fallback_font_15: 6500246111226772979
+      aline_fallback_font_16: 6681734057491728160
+      aline_fallback_font_17: -8984461161293018462
+      aline_fallback_font_18: 3299091995569215413
+      aline_fallback_font_19: 7870739850319501399
+      aline_fallback_font_2: 3958369483107603336
+      aline_fallback_font_20: 5270742747120311352
+      aline_fallback_font_21: 4621371020722430983
+      aline_fallback_font_22: 6100411153365294297
+      aline_fallback_font_23: -612542641657660895
+      aline_fallback_font_24: 1961119461959591939
+      aline_fallback_font_25: -4976406820748570549
+      aline_fallback_font_26: 1164269405571244014
+      aline_fallback_font_27: 109008754055618252
+      aline_fallback_font_28: 6878094133488859918
+      aline_fallback_font_29: -7658549147895993522
+      aline_fallback_font_3: 5323385296899873459
+      aline_fallback_font_30: 5693489763534615593
+      aline_fallback_font_31: -6452250212602241976
+      aline_fallback_font_32: 1062501668727305475
+      aline_fallback_font_33: -8962458304917722283
+      aline_fallback_font_34: 797186119926408904
+      aline_fallback_font_35: -6544933482329754381
+      aline_fallback_font_36: 2736625304923584978
+      aline_fallback_font_37: -8989332224981929247
+      aline_fallback_font_38: -2908189133153187449
+      aline_fallback_font_39: 6319026062368878916
+      aline_fallback_font_4: 1072122392154150240
+      aline_fallback_font_40: -6766247176907237445
+      aline_fallback_font_41: -5648059300255505242
+      aline_fallback_font_42: -3845613966295191004
+      aline_fallback_font_43: -4321890446713774400
+      aline_fallback_font_44: 6470165701273001434
+      aline_fallback_font_45: 5083138405581593501
+      aline_fallback_font_46: -6182204442252127348
+      aline_fallback_font_47: 2248780394132489671
+      aline_fallback_font_48: -8808343699996423591
+      aline_fallback_font_49: 2275160329595313658
+      aline_fallback_font_5: -4352303821771230519
+      aline_fallback_font_50: -6739617897326335413
+      aline_fallback_font_51: 6667219895745393754
+      aline_fallback_font_52: 6060446541489223185
+      aline_fallback_font_53: 8807961699797825117
+      aline_fallback_font_54: 4647558215995573883
+      aline_fallback_font_55: 4217709016204520718
+      aline_fallback_font_56: -7384636543495025561
+      aline_fallback_font_57: -1561210719574902324
+      aline_fallback_font_58: 8200307503608935194
+      aline_fallback_font_59: -3473274589853316558
+      aline_fallback_font_6: 3127345159079147286
+      aline_fallback_font_60: -7202726394325635945
+      aline_fallback_font_61: -1412155613774853791
+      aline_fallback_font_62: 7744823549238423430
+      aline_fallback_font_63: -4370020430480058038
+      aline_fallback_font_64: -2603773449531686803
+      aline_fallback_font_65: 3515083267744163659
+      aline_fallback_font_66: 2859727692279887975
+      aline_fallback_font_67: -3104742277861151325
+      aline_fallback_font_68: 1889562399161691981
+      aline_fallback_font_69: 7471592439355842406
+      aline_fallback_font_7: -64258292579018734
+      aline_fallback_font_70: -3323170321527197719
+      aline_fallback_font_71: -996620796914384425
+      aline_fallback_font_72: 1866590787914599715
+      aline_fallback_font_73: -423319093427633763
+      aline_fallback_font_74: -2872078773735000695
+      aline_fallback_font_75: -8407031325618622677
+      aline_fallback_font_76: -7787458161498750414
+      aline_fallback_font_77: -1594746728668604044
+      aline_fallback_font_78: -3794462737597634933
+      aline_fallback_font_79: 639194047058076297
+      aline_fallback_font_8: 3953291270411223786
+      aline_fallback_font_80: 1329251735988844112
+      aline_fallback_font_81: -4741916635917657436
+      aline_fallback_font_82: 1417513773748409069
+      aline_fallback_font_83: -1766089005498450394
+      aline_fallback_font_84: -8748300855013421952
+      aline_fallback_font_85: -7308505439311141185
+      aline_fallback_font_86: 8907396310040048026
+      aline_fallback_font_87: -7674737054594118418
+      aline_fallback_font_88: 3941369919309754241
+      aline_fallback_font_89: -5946547025492084129
+      aline_fallback_font_9: 9003874415318192660
+      aline_fallback_font_90: 6781943914557056676
+      aline_fallback_font_91: 6037841567465287803
+      aline_fallback_font_92: 2117614782408643899
+      aline_fallback_font_93: -4473558510678455036
+      aline_fallback_font_94: 7123710348273017165
+      aline_fallback_font_95: 7738723774154443101
+      aline_fallback_font_96: -3250403344820907917
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

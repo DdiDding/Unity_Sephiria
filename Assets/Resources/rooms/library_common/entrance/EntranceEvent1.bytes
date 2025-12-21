@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room spawnMonster="false" size="25,25" teleportPoint="13,14.5">
+  <mainLayer>
+    <ground>36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36
+36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36 36 36 36 36 36 36 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36 36 36 36 36 36 36 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36 36 36 36 36 36 36 36
+36 36 36 36 36 36 36 36 36 36 26 26 26 26 26 26 36 36 36 36 36 36 36 36 36
+36 36 36 36 36 36 36 36 36 36 26 26 26 26 26 26 36 36 36 36 36 36 36 36 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36 36 36 36 36 36 36 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36 36 36 36 36 36 36 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36 36 36 36 36 36 36 36
+36 36 36 36 36 36 36 36 36 36 26 26 26 26 26 26 36 36 36 36 36 36 36 36 36
+36 36 36 36 36 36 36 36 36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 36 36 36 36 36 36 36 36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 36 36 36 36 36 36 36 36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 36 36 36 36 36 36 36 36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 36 36 36 36 36 36 36 36 36 36 26 26 26 26 36 36 36 36 36 36 36 36 36 36
+36 36 36 36 36 36 36 36 36 36 26 26 26 26 26 26 36 36 36 36 36 36 36 36 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36</ground>
+    <upperGround>X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X 52 X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X 52 X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X 37 X 37 37 37 37 37 37 37 X X
+X X X X X X X X X X X X X X 37 37 37 37 37 37 37 11 X X X
+X X X X X X X X X X X X X X 37 37 37 11 37 11 11 11 11 11 X
+X X X X X X X X X X X X X X 37 37 37 11 11 11 11 11 11 X X
+X X X X X X X X X X X X X 37 37 37 37 37 11 X 11 11 11 X X
+X X X X X X X X X X X X X 37 37 37 37 X X X X X X X X
+X 32 32 32 32 32 32 32 32 32 X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X</upperGround>
+    <wall>15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15
+15 16 16 16 16 16 16 16 16 16 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15
+15 X X X X X X X X X X X X X X X 15 15 15 15 15 15 15 15 15
+15 X X X X X X X X X X X X X X X 15 15 15 15 15 15 15 15 15
+15 X X X X X X X X X X X X X X X 15 15 15 15 15 15 15 15 15
+15 15 15 15 15 15 15 15 15 15 X X X X X X 15 15 15 15 15 15 15 15 15
+15 16 16 16 16 16 16 16 16 16 18 X X X X 18 15 15 15 15 15 15 15 15 15
+15 X X X X X X X X X X X X X X X 15 15 15 15 15 15 15 15 15
+15 X X X X X X X X X X X X X X X 15 15 15 15 15 15 15 15 15
+15 X X X X X X X X X X X X X X X 15 15 15 15 15 15 15 15 15
+15 16 16 16 16 16 16 16 16 16 18 X X X X 19 16 16 16 16 16 16 16 16 15
+15 15 15 15 15 15 15 15 15 15 X X X X X X X X X X X X X X 15
+15 15 15 15 15 15 15 15 15 15 X X X X X X X X X X X X X X 15
+15 15 15 15 15 15 15 15 15 15 X X X X X X X X X X X X X X 15
+15 15 15 15 15 15 15 15 15 15 X X X X X X X X X X X X X X 15
+15 15 15 15 15 15 15 15 15 15 17 X X X X 17 16 16 16 16 16 16 16 16 15
+15 15 15 15 15 15 15 15 15 15 X X X X X X 15 15 15 15 15 15 15 15 15
+15 X X X X X X X X X X X X X X X X X X X X X X X 15
+15 X X X X X X X X X X X X X X X X X X X X X X X 15
+15 X X X X X X X X X X X X X X X X X X X X X X X 15
+15 X X X X X X X X X X X X X X X X X X X X X X X 15
+15 X X X X X X X X X X X X X X X X X X X X X X X 15
+15 X X X X X X X X X X X X X X X X X X X X X X X 15
+15 X X X X X X X X X X X X X X X X X X X X X X X 15
+15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15</wall>
+    <cliff>X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X</cliff>
+    <props>
+      <FloorMover_Stair_Up_Library position="3.8125,6.25" localScale="1,1,1">
+        <options>
+          <stair>
+            <spawnPointOffset>0,-1,0</spawnPointOffset>
+            <target>FLOORSTARTING</target>
+            <isLocked>0</isLocked>
+            <unlockKey></unlockKey>
+            <unlockKeyName>Key_XXXX</unlockKeyName>
+          </stair>
+        </options>
+      </FloorMover_Stair_Up_Library>
+      <Library-Grass1 position="20.25,5.3125" localScale="1,1,1" />
+      <Library-Grass2 position="20.9375,5.125" localScale="1,1,1" />
+      <Library-Grass0 position="21.0625,5" localScale="1,1,1" />
+      <Library-Flower_001 position="22,4.375" localScale="1,1,1" />
+      <Library-Flower_002 position="18.8125,4.4375" localScale="1,1,1" />
+      <Library-Flower_003 position="21.25,3.8125" localScale="1,1,1" />
+      <Library-Godray0 position="14.5,16.3125" localScale="1,1,1" />
+      <Library-Godray1 position="20.375,4.9375" localScale="1,1,1" />
+      <Library-Ladder position="7.6875,8.5" localScale="1,1,1" />
+      <Library-Pot position="10.5625,8.75" localScale="1,1,1" />
+      <Library-Pot position="10.375,7.875" localScale="1,1,1" />
+      <Moss1 position="2,8.125" localScale="1,1,1" />
+      <Moss2 position="4.625,8" localScale="1,1,1" />
+      <Library-Chair002 position="11.75,13.625" localScale="1,1,1" />
+      <Library-Chair002 position="14.6875,8.0625" localScale="1,1,1" />
+      <Torch position="11,22.875" localScale="1,1,1" />
+      <Torch position="15,22.875" localScale="1,1,1" />
+      <Library-ArmadilloEvent2 position="10.3125,5" localScale="1,1,1" />
+    </props>
+  </mainLayer>
+  <passagepoints>
+    <passagepoint position="12,23" dir="0" />
+    <passagepoint position="24,13" dir="1" />
+  </passagepoints>
+</room>

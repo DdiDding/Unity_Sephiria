@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room teleportablePositionOffset="6.46,10.74" roomIconPath="Grassland/5,4_Default" spawnMonster="0" monsterCountAmplitude="1" wayUp="false" wayDown="false" wayLeft="true" wayRight="true">
+  <ground>5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 5 5 5 6 5 6 5 
+5 6 6 6 6 6 6 6 5 6 5 5 5 5 5 6 6 6 6 6 6 6 5 5 
+5 5 6 6 6 6 6 6 5 6 6 6 6 5 5 6 6 6 5 5 5 5 5 5 
+6 6 5 5 5 5 5 5 5 5 5 5 6 5 5 5 6 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 6 6 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+</ground>
+  <upperGround>X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+</upperGround>
+  <wall>3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 X 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 X 3 3 3 3 3 3 X 3 3 3 3 3 3 3 3 X X X X X 3 
+X X X 3 3 3 X X X X X X X X X X 3 3 X X X X X 3 
+X X X 3 3 3 X X X X X X X X X 3 3 3 X X X X X 3 
+X X X X X X X X X X X X X X X X X X X X X X X 3 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X 3 
+X X X X X X X X X X X X X X X X X X 3 3 X X X 3 
+X 3 3 3 X X X X X X X X X X X X X 3 3 3 3 3 X 3 
+3 3 3 3 3 X X X X X X X 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 X 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+</wall>
+  <props>
+    <prop id="Grassland-Building3" position="20.4375,11.25" />
+    <prop id="Grassland-Fence2" position="13.9375,8.6875" />
+    <prop id="Grassland-Fence0" position="13.9375,9.6875" />
+    <prop id="Grassland-Fence2" position="14,7.6875" />
+    <prop id="Grassland-Fence4" position="14,6.75" />
+    <prop id="Grassland-CampFire" position="16.375,8.75" />
+    <prop id="Tree-Grassland-0" position="12.75,13" />
+    <prop id="Tree-Grassland-0" position="6.75,4.875" />
+    <prop id="SocialAvatarSpawner" position="15.125,10.0625">
+      <options>
+        <socialAvatarSpawner socialID="Grasstown_Roux">
+          <startsDead>False</startsDead>
+        </socialAvatarSpawner>
+      </options>
+    </prop>
+    <prop id="Tree-Grassland-0" position="7.9375,13.1875" />
+  </props>
+</room>

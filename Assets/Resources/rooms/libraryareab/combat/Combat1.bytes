@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room spawnMonster="true" monsterDensity="1" size="15,10" teleportPoint="7,4.5">
+  <mainLayer>
+    <ground>X X X X X X X X X X X X X X X
+X 0 0 0 0 0 0 0 0 0 0 0 0 0 X
+X 0 0 0 0 0 0 0 0 0 0 0 0 0 X
+X 0 0 0 0 0 0 0 0 0 0 0 0 0 X
+X 0 0 0 0 0 0 0 0 0 0 0 0 0 X
+X 0 0 0 0 0 0 0 0 0 0 0 0 0 X
+X 0 0 0 0 0 0 0 0 0 0 0 0 0 X
+X 0 0 0 0 0 0 0 0 0 0 0 0 0 X
+X 0 0 0 0 0 0 0 0 0 0 0 0 0 X
+X X X X X X X X X X X X X X X</ground>
+    <upperGround>X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X</upperGround>
+    <wall>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+1 X X X X X X X X X X X X X 1
+1 X X X X X X X X X X X X X 1
+1 X X X X X X X X X X X X X 1
+1 X X X X X X X X X X X X X 1
+1 X X X X X X X X X X X X X 1
+1 X X X X X X X X X X X X X 1
+1 X X X X X X X X X X X X X 1
+1 X X X X X X X X X X X X X 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</wall>
+    <props>
+    </props>
+  </mainLayer>
+  <passagepoints>
+    <passagepoint position="2,0" dir="2"/>
+    <passagepoint position="11,0" dir="2"/>
+    <passagepoint position="2,9" dir="0"/>
+    <passagepoint position="11,9" dir="0"/>
+    <passagepoint position="14,4" dir="1"/>
+    <passagepoint position="14,7" dir="1"/>
+    <passagepoint position="0,4" dir="3"/>
+    <passagepoint position="0,7" dir="3"/>
+  </passagepoints>
+</room>

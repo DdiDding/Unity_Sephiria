@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room spawnMonster="false" size="6,10" teleportPoint="3,5.5">
+  <mainLayer>
+    <ground>36 36 36 36 36 36
+36 26 26 26 26 36
+36 26 26 26 26 36
+36 26 26 26 26 36
+36 26 26 26 26 36
+36 26 26 26 26 36
+36 26 26 26 26 36
+36 26 26 26 26 36
+36 26 26 26 26 36
+36 36 36 36 36 36</ground>
+    <upperGround>X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X 27 X X X X
+X X X X X X</upperGround>
+    <wall>15 15 15 15 15 15
+15 X X X X 15
+15 X X X X 15
+15 X X X X 15
+15 X X X X 15
+15 X X X X 15
+15 X X X X 15
+15 X X X X 15
+15 X X X X 15
+15 15 15 15 15 15</wall>
+    <cliff>X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X</cliff>
+    <props>
+      <Library-Pot position="4.25,3.3125" localScale="1,1,1" />
+      <Library-Book002 position="3.4375,4.6875" localScale="1,1,1" />
+      <Library-Godray2 position="3.4375,3.6875" localScale="1,1,1" />
+    </props>
+  </mainLayer>
+  <passagepoints>
+    <passagepoint position="2,9" dir="0" />
+    <passagepoint position="2,0" dir="2" />
+  </passagepoints>
+</room>

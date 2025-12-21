@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room spawnMonster="true" size="22,13" teleportPoint="12,8">
+  <mainLayer>
+    <ground>X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X 41 41 41 X X X X X 41 41 41 X X X
+X X X X X X X 41 41 41 41 41 41 41 41 41 41 41 41 X X X
+X X X X X 41 41 41 41 41 41 41 41 41 50 41 41 41 41 41 X X
+X X X X X 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 X X
+X X 41 41 41 48 41 41 41 41 41 41 41 41 41 41 41 41 41 41 X X
+X X 41 51 41 41 41 41 41 X X 41 41 41 41 41 41 41 41 41 X X
+X X 41 41 41 41 41 41 X X X X X 41 41 X X X 41 41 X X
+X X 41 X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X</ground>
+    <upperGround>X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X 42 X X X X X X X X X X X X X X X
+X X X X X X 42 X X X X X X X X X X X X X X X
+X X X X X 42 42 X X X X X X X X X X X X X X X
+X X 42 42 42 42 X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X</upperGround>
+    <wall>X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X</wall>
+    <cliff>X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X 15 X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X 101 101 X X X X X X X X X X X
+X X X X X X X X 101 X X 101 101 X X 101 101 101 X X X X
+X X X 101 101 101 101 101 X X X X X 101 101 X X X 101 101 X X
+X X 101 X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X</cliff>
+    <props>
+      <Badland_WallObject-2 position="4.3125,6" localScale="1,1,1" />
+      <Badland_WallObject-0 position="2.625,6" localScale="1,1,1" />
+      <Badland_Tree-0 position="13.59375,9.53125" localScale="1,1,1" />
+      <Badland_Tree-1 position="18.5,10.5625" localScale="1,1,1" />
+      <Badland_Tree-2 position="17.64,5.96" localScale="1,1,1" />
+      <Badland_Sword-0 position="14.83,6.82" localScale="1,1,1" />
+      <Badland_Stone-1 position="16.90625,10.4375" localScale="1,1,1" />
+      <Badland_Stone-2 position="17.9375,9.8125" localScale="1,1,1" />
+      <Badland_Tree-0 position="6.25,8.75" localScale="1,1,1" />
+      <Badland_Stone-3 position="8.085,7.365" localScale="1,1,1" />
+      <Badland_Stone-2 position="10.75,9.15" localScale="1,1,1" />
+      <Badland_Stone-0 position="12.21875,5.375" localScale="1,1,1" />
+      <Badland_Sword-0 position="7.96,6.49" localScale="1,1,1" />
+      <Badland_HighWall-M-0 position="3,7" localScale="1,1,1" />
+      <Box00 position="14.6875,9.25" localScale="1,1,1" />
+      <Box01 position="15.5625,8.9375" localScale="1,1,1" />
+      <Barrel00 position="5.5625,6.25" localScale="1,1,1" />
+    </props>
+  </mainLayer>
+  <passagepoints>
+    <passagepoint position="8,11" dir="0" />
+    <passagepoint position="13,3" dir="2" />
+    <passagepoint position="1,5" dir="3" />
+    <passagepoint position="20,7" dir="1" />
+  </passagepoints>
+</room>

@@ -1,0 +1,452 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room spawnMonster="true" monsterDensity="1" teleportPoint="13,7.5" type="0" passages="11110000" tag="">
+  <customSpawnArea lb="5,4" rt="21,15.5" />
+  <mainLayer>
+    <ground>5 X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X 5 X X X 5 5 X X X X X 5 5 5 X X 5 X X X X 
+X X 5 X 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 X X X X 
+X X 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 X X 
+X X X 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 X X 
+X X X X 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 X 
+X X 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 X 
+X X 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 5 6 X X 
+X 6 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 5 5 6 6 X 
+X 6 6 6 6 5 5 6 6 6 6 6 6 5 5 5 5 5 5 5 5 5 5 5 5 X 
+X X 6 6 5 5 5 5 5 5 6 6 5 5 5 5 5 5 5 5 5 5 5 5 5 X 
+X 6 6 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 5 5 5 5 5 5 5 X 
+X X 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 X X X X 
+X X 5 5 5 7 7 7 5 5 5 5 5 5 5 5 5 5 6 6 6 X X X 7 X 
+X X X X 7 7 7 7 5 5 5 5 5 5 5 5 5 5 7 7 7 7 5 5 7 X 
+X 7 7 X 7 7 7 5 5 5 5 5 5 5 5 5 5 7 7 7 7 7 7 7 X X 
+X 7 7 7 5 X X X X X 5 5 5 X X 5 X 7 7 7 X X 5 X X X 
+X X X X X X X 5 X X X X X X X X X X X X X X X X X X 
+</ground>
+    <upperGround>X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X 85 85 85 X X 85 X X X X 
+X X X X X X X X X X X X X X X X 85 85 85 85 85 85 X X X X 
+X X X X X X X X X X X X X X X X 85 85 85 85 85 85 85 85 X X 
+X X X X X X X X X X X X X 85 X X X 85 85 85 85 85 85 85 X X 
+X X X X X X X X X X 85 85 85 85 X X X 85 85 85 85 85 85 X X X 
+X X X X X X X X X 85 85 85 85 X X X X X X X X 85 X X X X 
+X X X X X X X X 85 85 85 X X X X X X X X X X X X X X X 
+X X X X X X X 85 85 X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X 85 85 85 X X X X X X X 
+X X X X X X X X X X X X X X X 85 85 85 85 85 85 X X X X X 
+X X X X 85 85 X X X X X X X X X 85 X X X X 85 85 X X X X 
+X X 85 85 85 85 X X X X X X X X X 85 85 X X X X X X X X X 
+X X 85 85 85 X X X X X X X X X X 85 X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+</upperGround>
+    <wall>X 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 X 3 3 3 X X 3 3 3 3 3 X X X 3 3 X 3 3 3 3 
+3 3 X 3 X X X X X X X X X X X X X X X X X X 3 3 3 3 
+3 3 X X X X X X X X X X X X X X X X X X X X X X 3 3 
+3 3 3 X X X X X X X X X X X X X X X X X X X X X 3 3 
+3 3 3 3 X X X X X X X X X X X X X X X X X X X X X 3 
+3 3 X X X X X X X X X X X X X X X X X X X X X X X 3 
+3 3 X X X X X X X X X X X X X X X X X X X X X X 3 3 
+3 X X X X X X X X X X X X X X X X X X X X X X X X 3 
+3 X X X X X X X X X X X X X X X X X X X X X X X X 3 
+3 3 X X X X X X X X X X X X X X X X X X X X X X X 3 
+3 X X X X X X X X X X X X X X X X X X X X X X X X 3 
+3 3 X X X X X X X X X X X X X X X X X X X X 3 3 3 3 
+3 3 X X X X X X X X X X X X X X X X X X X 3 3 3 X 3 
+3 3 3 3 X X X X X X X X X X X X X X X X X X X X X 3 
+3 X X 3 X X X X X X X X X X X X X X X X X X X X 3 3 
+3 X X X X 3 3 3 3 3 X X X 3 3 X 3 X X X 3 3 X 3 3 3 
+3 3 3 3 3 3 3 X 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+</wall>
+    <cliff>X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+</cliff>
+    <props>
+      <Stone-Grassland-0 position="5.75,15.1875" localScale="1,1,1" />
+      <Stone-Grassland-0 position="17.1875,3.8125" localScale="1,1,1" />
+      <Tree-Grassland-0 position="9,10.3125" localScale="1,1,1" />
+      <Tree-Grassland-0 position="10.5,11.9375" localScale="1,1,1" />
+      <Tree-Grassland-0 position="19.75,6.9375" localScale="1,1,1" />
+      <Tree-Grassland-0 position="15.5625,5.3125" localScale="1,1,1" />
+      <Tree-Grassland-0 position="17.5625,7.6875" localScale="1,1,1" />
+      <Grassland-WaterStone1 position="18.1875,1.6875" localScale="1,1,1" />
+      <Grassland-WaterLeaf1 position="19.125,2.4375" localScale="1,1,1" />
+      <Grassland-WaterGrass position="20.5625,3.125" localScale="1,1,1" />
+      <Grassland-WaterGrass position="21.3125,3.125" localScale="1,1,1" />
+      <Grassland-WaterStone3 position="24.5,4.125" localScale="1,1,1" />
+      <Grassland-WaterLeaf1 position="6.4375,3.75" localScale="1,1,1" />
+      <Grassland-WaterGrass position="4.625,3.0625" localScale="1,1,1" />
+      <Grassland-WaterGrass position="5.375,3.3125" localScale="1,1,1" />
+      <Grassland-WaterGrass position="2.4375,2.0625" localScale="1,1,1" />
+      <Grassland-CampFireStone position="18.6875,4.3125" localScale="1,1,1" />
+      <Grassland-Fence1 position="11.125,10" localScale="1,1,1" />
+      <Grassland-Fence1 position="8.625,5.125" localScale="1,1,1" />
+      <Grassland-Fence2 position="9.25,4.3125" localScale="1,1,1" />
+      <Grassland-Fence2 position="9.125,3.5" localScale="1,1,1" />
+      <Grassland-Fence2 position="9.3125,2.6875" localScale="1,1,1" />
+      <Grassland-CampFire position="19.75,4.8125" localScale="1,1,1" />
+      <Grassland-PillagerCamp-Oink0 position="20.1875,15.625" localScale="1,1,1" />
+      <Grassland-AmbushGrass2 position="21.5625,13.5625" localScale="1,1,1" />
+      <Grassland-AmbushGrass2 position="16.75,10.9375" localScale="1,1,1" />
+      <Grassland-AmbushGrass0 position="17.1875,14.375" localScale="1,1,1" />
+      <Grassland-AmbushGrass1 position="18.3125,13.375" localScale="1,1,1" />
+      <Grassland-AmbushGrass2 position="19.4375,12.3125" localScale="1,1,1" />
+      <Grass-Grassland-1 position="15.4375,14.1875" localScale="1,1,1" />
+      <Grass-Grassland-1 position="13.75,11.125" localScale="1,1,1" />
+      <Bush-Grassland-0 position="8.4375,15.6875" localScale="1,1,1" />
+      <Bush-Grassland-0 position="8.875,15.25" localScale="1,1,1" />
+      <Grassland-AmbushGrass0 position="4.5,13.3125" localScale="1,1,1" />
+      <Grassland-AmbushGrass0 position="4.1875,4.5" localScale="1,1,1" />
+      <Grass-Grassland-1 position="6.9375,6.6875" localScale="1,1,1" />
+      <Grass-Grassland-1 position="12.9375,4.1875" localScale="1,1,1" />
+      <Grass-Grassland-1 position="21.75,7.625" localScale="1,1,1" />
+      <Grass-Grassland-0 position="22.125,11.875" localScale="1,1,1" />
+      <Grass-Grassland-0 position="8.3125,10.875" localScale="1,1,1" />
+      <Grassland-Boxes position="17.25,15.75" localScale="1,1,1" />
+      <Grassland-Box position="5.3125,5.25" localScale="1,1,1" />
+      <Grassland-Box position="4.3125,5.25" localScale="1,1,1" />
+      <Grassland-Woods position="6.875,5.3125" localScale="1,1,1" />
+      <Stone-Grassland-1 position="22.75,14.1875" localScale="1,1,1" />
+      <Grassland-Fence2 position="11.625,11.125" localScale="1,1,1" />
+      <Grassland-Fence4 position="7.1875,9.3125" localScale="1,1,1" />
+      <Grassland-Fence2 position="7.25,10.0625" localScale="1,1,1" />
+      <Grassland-Fence2 position="7.25,10.6875" localScale="1,1,1" />
+      <Torch-Oink position="18.5625,14.375" localScale="1,1,1" />
+      <Torch-Oink position="12.5625,9.4375" localScale="1,1,1" />
+      <Grassland-Fence4 position="11.625,9.125" localScale="1,1,1" />
+    </props>
+  </mainLayer>
+  <passageLayer0 position="10,16" size="6,2">
+    <ground>X X X X X X X X X X 5 5 5 5 5 5 X X X X X X X X X X 
+X X X X X X X X X X 5 5 5 5 5 5 X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+</ground>
+    <upperGround>X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+</upperGround>
+    <wall>X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+</wall>
+    <cliff>X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+</cliff>
+    <props />
+  </passageLayer0>
+  <passageLayer1 position="24,6" size="2,6">
+    <ground>X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 5 5 
+X X X X X X X X X X X X X X X X X X X X X X X X 5 5 
+X X X X X X X X X X X X X X X X X X X X X X X X 5 5 
+X X X X X X X X X X X X X X X X X X X X X X X X 5 5 
+X X X X X X X X X X X X X X X X X X X X X X X X 5 5 
+X X X X X X X X X X X X X X X X X X X X X X X X 5 5 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+</ground>
+    <upperGround>X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+</upperGround>
+    <wall>X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+</wall>
+    <cliff>X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+</cliff>
+    <props />
+  </passageLayer1>
+  <passageLayer2 position="10,0" size="6,2">
+    <ground>X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X 5 5 5 5 5 5 X X X X X X X X X X 
+X X X X X X X X X X 5 5 5 5 5 5 X X X X X X X X X X 
+</ground>
+    <upperGround>X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+</upperGround>
+    <wall>X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+</wall>
+    <cliff>X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+</cliff>
+    <props />
+  </passageLayer2>
+  <passageLayer3 position="0,6" size="2,6">
+    <ground>X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+5 5 X X X X X X X X X X X X X X X X X X X X X X X X 
+5 5 X X X X X X X X X X X X X X X X X X X X X X X X 
+5 5 X X X X X X X X X X X X X X X X X X X X X X X X 
+5 5 X X X X X X X X X X X X X X X X X X X X X X X X 
+5 5 X X X X X X X X X X X X X X X X X X X X X X X X 
+5 5 X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+</ground>
+    <upperGround>X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+</upperGround>
+    <wall>X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+</wall>
+    <cliff>X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+</cliff>
+    <props />
+  </passageLayer3>
+</room>

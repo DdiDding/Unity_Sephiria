@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room spawnMonster="false" size="22,13" teleportPoint="10.5,6.5">
+  <mainLayer>
+    <ground>36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36
+36 36 36 36 26 26 26 26 36 36 36 36 36 36 36 36 36 36 36 36 36 36
+36 36 36 36 26 26 26 26 36 36 36 36 36 36 36 36 36 36 36 36 36 36
+36 36 36 26 26 26 26 26 26 36 36 36 36 36 36 36 36 36 36 36 36 36
+36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36 36
+36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36 36
+36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36 36
+36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36 36
+36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36 36
+36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36 36
+36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36 36
+36 36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36 36
+36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36</ground>
+    <upperGround>X X X X X X X X X X X X X X X X X X X X X X
+X X X X 53 X X 52 X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X 60 X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X 61 X X 62 X X X X X X X X X X X X X X
+X X 37 X X X X X X X X X X X X X X X X X X X
+X X 37 37 37 X X X X X X X X X X X X X X X X X
+X X X 37 37 X X X X X X X X X X X 60 X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X</upperGround>
+    <wall>15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15
+15 15 15 15 X X X X 15 15 15 15 15 15 15 15 15 15 15 15 15 15
+15 15 15 15 X X X X 15 15 15 15 15 15 15 15 15 15 15 15 15 15
+15 15 15 X X X X X X 15 15 15 15 15 15 15 15 15 15 15 15 15
+15 15 X X X X X X X X X X X X X X X X X 15 15 15
+15 15 X X X X X X X X X X X X X X X X X 15 15 15
+15 15 X X X X X X X X X X X X X X X X X 15 15 15
+15 15 X X X X X X X X X X X X X X X X X 15 15 15
+15 15 X X X X X X X X X X X X X X X X X 15 15 15
+15 15 X X X X X X X X X X X X X X X X X 15 15 15
+15 15 X X X X X X X X X X X X X X X X X 15 15 15
+15 15 15 X X X X X X X X X X X X X X X X 15 15 15
+15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15</wall>
+    <cliff>X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X</cliff>
+    <props>
+      <Torch position="3.489,9.98" localScale="1,1,1" />
+      <Torch position="8.5625,10" localScale="1,1,1" />
+      <CaveFloorProp_0 position="8.6875,8.375" localScale="1,1,1" />
+      <CaveFloorProp_1 position="12.3125,7.75" localScale="1,1,1" />
+      <FloorMover_Stair_Up_Library position="5.9375,10" localScale="1,1,1">
+        <options>
+          <stair>
+            <spawnPointOffset>0,-1,0</spawnPointOffset>
+            <target>FLOORSTARTING</target>
+            <isLocked>0</isLocked>
+            <unlockKey></unlockKey>
+            <unlockKeyName>Key_XXXX</unlockKeyName>
+          </stair>
+        </options>
+      </FloorMover_Stair_Up_Library>
+      <Library-Godray1 position="9.625,7.4375" localScale="1,1,1" />
+      <Library-Godray2 position="13.4375,2.75" localScale="1,1,1" />
+      <Library-Godray0 position="17.5,9.25" localScale="1,1,1" />
+      <Library-ArmadilloEvent3 position="9.8125,5.125" localScale="1,1,1" />
+    </props>
+  </mainLayer>
+  <passagepoints>
+    <passagepoint position="19,6" dir="1" />
+  </passagepoints>
+</room>

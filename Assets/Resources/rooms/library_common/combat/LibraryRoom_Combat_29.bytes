@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room spawnMonster="true" size="18,17" teleportPoint="9,10">
+  <mainLayer>
+    <ground>36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36
+36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 26 26 26 26 26 36 36 26 26 36 36 26 26 26 26 26 36
+36 26 26 26 26 36 36 36 26 26 36 36 36 26 26 26 26 36
+36 26 26 36 36 36 36 36 26 26 36 36 36 36 36 26 26 36
+36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36</ground>
+    <upperGround>X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X
+X X X X X 40 40 40 40 40 40 40 40 X X X X X
+X X X X X 40 40 40 40 40 40 40 40 X X X X X
+X X X X X 40 40 40 40 40 40 40 40 X X X X X
+X X X X X 40 40 40 40 40 40 40 40 X X X X X
+X X X X X 40 40 40 40 40 40 40 40 X X X X X
+X X X X X 40 40 40 40 40 40 40 40 X X X X X
+X X X X X 40 40 40 40 40 40 40 40 X X X X X
+X X X X X X X X 32 33 X X X X X X X X
+X X X X X X X X 34 35 X X X X X X X X
+X 37 37 37 X X X X X X X X X X X X X X
+X 37 37 37 37 X X X X X X X X 37 37 37 37 X
+X 37 37 37 37 X X X 112 112 X X X X 37 37 37 X
+X 37 37 37 37 X X X X X X X X X X 37 37 X
+X 37 X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X</upperGround>
+    <wall>15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15
+15 16 16 16 17 16 16 15 15 15 15 16 16 15 16 16 16 15
+15 X X X X X X X X X X X X X X X X 15
+15 X X X X X X X X X X X X X X X X 15
+15 X X X X X X X X X X X X X X X X 15
+15 X X X X X X X X X X X X X X X X 15
+15 X X X X X X X X X X X X X X X X 15
+15 X X X X X X X X X X X X X X X X 15
+15 X X X X X X X X X X X X X X X X 15
+15 X X X X X X X X X X X X X X X X 15
+15 X X X X X X X X X X X X X X X X 15
+15 X X X X X X X X X X X X X X X X 15
+15 X X X X X X X X X X X X X X X X 15
+15 X X X X X 15 15 X X 15 15 X X X X X 15
+15 X X X X 15 15 15 X X 15 15 15 X X X X 15
+15 X X 15 15 15 15 15 X X 15 15 15 15 15 X X 15
+15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15</wall>
+    <cliff>X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X</cliff>
+    <props>
+      <Library-Book001 position="3.8125,14.875" localScale="1,1,1" />
+      <Library-Book003 position="12.9375,14.875" localScale="1,1,1" />
+      <Library-Chair001 position="16.25,13.6875" localScale="1,1,1" />
+      <Library-Ladder position="10.6875,15.375" localScale="1,1,1" />
+      <Library-Pot position="16.1875,12.875" localScale="1,1,1" />
+      <Library-Book002 position="11.625,14.8125" localScale="1,1,1" />
+      <Library-Scroll position="7,9.375" localScale="1,1,1" />
+      <Torch-Stand position="7,7.8125" localScale="1,1,1" />
+      <Torch-Stand position="11,7.8125" localScale="1,1,1" />
+      <Library-Godray1 position="13.5625,13.375" localScale="1,1,1" />
+      <Lore_Library_010 position="11.5,14.75" localScale="1,1,1" />
+    </props>
+  </mainLayer>
+  <passagepoints>
+    <passagepoint position="8,15" dir="0" />
+    <passagepoint position="8,0" dir="2" />
+    <passagepoint position="0,10" dir="3" />
+    <passagepoint position="17,10" dir="1" />
+  </passagepoints>
+</room>

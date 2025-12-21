@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room teleportablePositionOffset="12,10" roomIconPath="Grassland/4,4_Default" spawnMonster="1" monsterCountAmplitude="1" wayUp="true" wayDown="false" wayLeft="false" wayRight="true">
+  <ground>5 5 5 5 5 5 5 5 5 5 5 6 6 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 6 6 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 6 6 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 6 6 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 6 6 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 6 6 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 6 6 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 6 6 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 6 6 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 6 6 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 6 6 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 5 6 6 6 6 6 6 6 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 6 5 5 6 6 5 6 6 6 6 6 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+</ground>
+  <upperGround>X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+</upperGround>
+  <wall>3 3 3 3 3 3 3 X X X X X X X 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 X X X X X X X X X 3 3 3 3 3 3 3 3 
+3 3 3 3 3 X X X X X X X X X X X 3 3 3 3 3 3 3 3 
+3 3 3 3 X X X X X X X X X X X X X X X X X X 3 3 
+3 X X 3 X X X X X X X X X X X X X X X X X X 3 3 
+3 3 3 3 X X X X X X X X X X X X X X X X X X 3 3 
+3 3 X X X X X X X X X X X X X X X X X X X X X X 
+3 3 X X X X X X X X X X X X X X X X X X X X X X 
+3 3 X X X X X X X X X X X X X X X X X X X X X X 
+3 3 X X X X X X X X X X X X X X X X X X X X X X 
+3 3 X X X X X X X X X X X X X X X X X X X X X X 
+3 3 X X X X X X X X X X X X X X X X X X X X X X 
+3 3 X X X X X X X X X X X X X X X X X X X X X X 
+3 3 3 X X X X X X X X X X X X X X X X X X X X X 
+3 3 3 3 3 3 X X X X X X X X X X X X X X X X X X 
+3 3 3 3 3 3 X X X X X X X X X X X X X X X X X X 
+3 3 3 3 3 3 3 X X X X X X X X X X X X X X X X X 
+3 3 3 3 3 3 3 3 X 3 X 3 3 X X X X X X X X X X X 
+3 3 3 3 3 3 3 3 3 3 X 3 3 X X X X 3 X X X X 3 3 
+3 3 3 3 3 3 3 3 3 X 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+</wall>
+  <props>
+    <prop id="Bush-Grassland-0" position="21,16.25" />
+    <prop id="Bush-Grassland-0" position="10.5625,2.125" />
+    <prop id="Grassland-CampFireStone 3" position="11.25,8.25" />
+    <prop id="Tree-Grassland-0" position="4,8.8125" />
+    <prop id="Stone-Grassland-0" position="16.8125,15.8125" />
+    <prop id="Bush-Grassland-0" position="22.75,13.25" />
+  </props>
+</room>

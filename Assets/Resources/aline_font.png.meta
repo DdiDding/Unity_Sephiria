@@ -1,0 +1,2561 @@
+fileFormatVersion: 2
+guid: bdb51f99f1be5784dbbc5377111710d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4523362776103055104
+    second: aline_font_0
+  - first:
+      213: 470229455215821679
+    second: aline_font_1
+  - first:
+      213: 5351629161631364855
+    second: aline_font_2
+  - first:
+      213: -3567673404565679294
+    second: aline_font_3
+  - first:
+      213: 3806050013075378825
+    second: aline_font_4
+  - first:
+      213: 1938971832784734750
+    second: aline_font_5
+  - first:
+      213: 1579876993998563109
+    second: aline_font_6
+  - first:
+      213: -2354108090573373931
+    second: aline_font_7
+  - first:
+      213: 8676724307495052803
+    second: aline_font_8
+  - first:
+      213: 4358211362896156968
+    second: aline_font_9
+  - first:
+      213: 551991200006243461
+    second: aline_font_10
+  - first:
+      213: -4082755544390991728
+    second: aline_font_11
+  - first:
+      213: -1476944839038979190
+    second: aline_font_12
+  - first:
+      213: -3307835925500227599
+    second: aline_font_13
+  - first:
+      213: -4855979433512291869
+    second: aline_font_14
+  - first:
+      213: 5663250779364464697
+    second: aline_font_15
+  - first:
+      213: 695611556623779292
+    second: aline_font_16
+  - first:
+      213: 1172055962988515831
+    second: aline_font_17
+  - first:
+      213: 7467199735417146998
+    second: aline_font_18
+  - first:
+      213: 4026379264420271067
+    second: aline_font_19
+  - first:
+      213: -6705591364611894361
+    second: aline_font_20
+  - first:
+      213: -2212345904514886596
+    second: aline_font_21
+  - first:
+      213: 4103864687984496511
+    second: aline_font_22
+  - first:
+      213: 266885084655957371
+    second: aline_font_23
+  - first:
+      213: 7709279708899579371
+    second: aline_font_24
+  - first:
+      213: 567675328424570726
+    second: aline_font_25
+  - first:
+      213: 5712142380042165137
+    second: aline_font_26
+  - first:
+      213: 2588839572575398229
+    second: aline_font_27
+  - first:
+      213: -8361705748731886721
+    second: aline_font_28
+  - first:
+      213: -5600901151951618978
+    second: aline_font_29
+  - first:
+      213: -4697237077145688711
+    second: aline_font_30
+  - first:
+      213: -7075129781016734017
+    second: aline_font_31
+  - first:
+      213: 3600048698877681541
+    second: aline_font_32
+  - first:
+      213: -2602237953507530035
+    second: aline_font_33
+  - first:
+      213: 6518372567022136783
+    second: aline_font_34
+  - first:
+      213: 9117167999782883768
+    second: aline_font_35
+  - first:
+      213: 99696956368602893
+    second: aline_font_36
+  - first:
+      213: -819153585497182614
+    second: aline_font_37
+  - first:
+      213: -7636740202892073448
+    second: aline_font_38
+  - first:
+      213: -699589729503999829
+    second: aline_font_39
+  - first:
+      213: 7639968707532755955
+    second: aline_font_40
+  - first:
+      213: -2794229666098463982
+    second: aline_font_41
+  - first:
+      213: 6666814829925999414
+    second: aline_font_42
+  - first:
+      213: -4883635387886874147
+    second: aline_font_43
+  - first:
+      213: 3270053754795013362
+    second: aline_font_44
+  - first:
+      213: 7338342443121892471
+    second: aline_font_45
+  - first:
+      213: 7356446595460040315
+    second: aline_font_46
+  - first:
+      213: 433838189329586869
+    second: aline_font_47
+  - first:
+      213: -7029488962799392436
+    second: aline_font_48
+  - first:
+      213: 9193580808282803102
+    second: aline_font_49
+  - first:
+      213: 9145975748999436988
+    second: aline_font_50
+  - first:
+      213: -1694396386536168302
+    second: aline_font_51
+  - first:
+      213: 7371179723125607329
+    second: aline_font_52
+  - first:
+      213: 9060277085552380196
+    second: aline_font_53
+  - first:
+      213: -8489380409128012043
+    second: aline_font_54
+  - first:
+      213: 4768005029380850141
+    second: aline_font_55
+  - first:
+      213: 5628786524263321240
+    second: aline_font_56
+  - first:
+      213: 1957056018915978293
+    second: aline_font_57
+  - first:
+      213: 5730025563168437610
+    second: aline_font_58
+  - first:
+      213: 3306782482546430847
+    second: aline_font_59
+  - first:
+      213: -7650710575361466221
+    second: aline_font_60
+  - first:
+      213: -6907821171019815103
+    second: aline_font_61
+  - first:
+      213: 2029361670565818707
+    second: aline_font_62
+  - first:
+      213: 7857927518865432725
+    second: aline_font_63
+  - first:
+      213: 6664551072882281918
+    second: aline_font_64
+  - first:
+      213: 3547188106260018745
+    second: aline_font_65
+  - first:
+      213: 872735945607621764
+    second: aline_font_66
+  - first:
+      213: -6386689194440932188
+    second: aline_font_67
+  - first:
+      213: 8049707305481338347
+    second: aline_font_68
+  - first:
+      213: -6166899185834150126
+    second: aline_font_69
+  - first:
+      213: 4382586778753066991
+    second: aline_font_70
+  - first:
+      213: -5614989520208744040
+    second: aline_font_71
+  - first:
+      213: 3238194123814899189
+    second: aline_font_72
+  - first:
+      213: -2447155656524764673
+    second: aline_font_73
+  - first:
+      213: 3323723852078049822
+    second: aline_font_74
+  - first:
+      213: 7931561459386617413
+    second: aline_font_75
+  - first:
+      213: -4503764443230277026
+    second: aline_font_76
+  - first:
+      213: -2867267398206633907
+    second: aline_font_77
+  - first:
+      213: 8377180747078259240
+    second: aline_font_78
+  - first:
+      213: -4410447261063822860
+    second: aline_font_79
+  - first:
+      213: -8826723298739850802
+    second: aline_font_80
+  - first:
+      213: 916072768131937184
+    second: aline_font_81
+  - first:
+      213: 4737122166883251432
+    second: aline_font_82
+  - first:
+      213: 8906452059918725424
+    second: aline_font_83
+  - first:
+      213: -6620342253019433860
+    second: aline_font_84
+  - first:
+      213: 6184438740667101194
+    second: aline_font_85
+  - first:
+      213: -830000176526999901
+    second: aline_font_86
+  - first:
+      213: 497029478711585863
+    second: aline_font_87
+  - first:
+      213: 6801424688147412996
+    second: aline_font_88
+  - first:
+      213: -4024250483712031819
+    second: aline_font_89
+  - first:
+      213: 4627460838488607824
+    second: aline_font_90
+  - first:
+      213: 3437222450539965721
+    second: aline_font_91
+  - first:
+      213: -5232679460844900573
+    second: aline_font_92
+  - first:
+      213: 8740530458416191752
+    second: aline_font_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aline_font_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001172c5589c931c0800000000000000
+      internalID: -4523362776103055104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 84
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f638019b237968600800000000000000
+      internalID: 470229455215821679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 86
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6b8ac4e5ec44a40800000000000000
+      internalID: 5351629161631364855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 88
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243114ed0f31d7ec0800000000000000
+      internalID: -3567673404565679294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 88
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9829ab2525ec1d430800000000000000
+      internalID: 3806050013075378825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 88
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a4f9adb9c98ea10800000000000000
+      internalID: 1938971832784734750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 88
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527a81861c9dce510800000000000000
+      internalID: 1579876993998563109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 88
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e308a0a27845fd0800000000000000
+      internalID: -2354108090573373931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 88
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3066d3259cae96870800000000000000
+      internalID: 8676724307495052803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 90
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8291f7dc42a7b7c30800000000000000
+      internalID: 4358211362896156968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 90
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5848383621119a700800000000000000
+      internalID: 551991200006243461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_11
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 91
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09081d7b6732757c0800000000000000
+      internalID: -4082755544390991728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_12
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 91
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a833c3c7e76d08be0800000000000000
+      internalID: -1476944839038979190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 91
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff884d50c43812d0800000000000000
+      internalID: -3307835925500227599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 91
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1b5ecee681c9cb0800000000000000
+      internalID: -4855979433512291869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_15
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 91
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93819f12498e79e40800000000000000
+      internalID: 5663250779364464697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_16
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 92
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd58736760f47a900800000000000000
+      internalID: 695611556623779292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_17
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 92
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f11fc240baf34010800000000000000
+      internalID: 1172055962988515831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_18
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 92
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e0e60b892d0a760800000000000000
+      internalID: 7467199735417146998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_19
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 92
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3d4cabb9290e730800000000000000
+      internalID: 4026379264420271067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_20
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 92
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3916f7e24f0f2a0800000000000000
+      internalID: -6705591364611894361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_21
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 92
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3499111f1b2c41e0800000000000000
+      internalID: -2212345904514886596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_22
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 92
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fc595c03bd3f830800000000000000
+      internalID: 4103864687984496511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_23
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 92
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75b4ca029a24b300800000000000000
+      internalID: 266885084655957371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_24
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 92
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5161bbc0ddcfa60800000000000000
+      internalID: 7709279708899579371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_25
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 92
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fef7a14b9c0e700800000000000000
+      internalID: 567675328424570726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_26
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 92
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b1edcfa3b954f40800000000000000
+      internalID: 5712142380042165137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 92
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559a4dfffd76de320800000000000000
+      internalID: 2588839572575398229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_28
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 92
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f738e7a7ce045fb80800000000000000
+      internalID: -8361705748731886721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_29
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 92
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cf8dfb31a9542b0800000000000000
+      internalID: -5600901151951618978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_30
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 92
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975efeee3cf00deb0800000000000000
+      internalID: -4697237077145688711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_31
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 92
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6d5b623f610dd90800000000000000
+      internalID: -7075129781016734017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_32
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 92
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f16beb731f5f130800000000000000
+      internalID: 3600048698877681541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_33
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 92
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcae4285e5ef2ebd0800000000000000
+      internalID: -2602237953507530035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_34
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 93
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd610b5059e57a50800000000000000
+      internalID: 6518372567022136783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_35
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 93
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b11e90bdffa68e70800000000000000
+      internalID: 9117167999782883768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_36
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 93
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07c9858ad1326100800000000000000
+      internalID: 99696956368602893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_37
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 93
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ee3ff6728c1a4f0800000000000000
+      internalID: -819153585497182614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8166ca42f39d40690800000000000000
+      internalID: -7636740202892073448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_39
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 49
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8076cf8de8a46f0800000000000000
+      internalID: -699589729503999829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_40
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 49
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3179baf0f960a60800000000000000
+      internalID: 7639968707532755955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 49
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bb7535ce6e839d0800000000000000
+      internalID: -2794229666098463982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_42
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 49
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633ab09f3c8458c50800000000000000
+      internalID: 6666814829925999414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 49
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1d9744d77d93cb0800000000000000
+      internalID: -4883635387886874147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_44
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 49
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f43df28090916d20800000000000000
+      internalID: 3270053754795013362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_45
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 49
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cd372629707d560800000000000000
+      internalID: 7338342443121892471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_46
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 49
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b760783d339571660800000000000000
+      internalID: 7356446595460040315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_47
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 49
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba1dfcd88d450600800000000000000
+      internalID: 433838189329586869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_48
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 49
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4920db380d327e90800000000000000
+      internalID: -7029488962799392436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_49
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 49
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b8b831909269f70800000000000000
+      internalID: 9193580808282803102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_50
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 49
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbad27b7c780dee70800000000000000
+      internalID: 9145975748999436988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_51
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 49
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2946ec7b67b4c78e0800000000000000
+      internalID: -1694396386536168302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_52
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 49
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abc67c67e0bb4660800000000000000
+      internalID: 7371179723125607329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_53
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 49
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42906f281029cbd70800000000000000
+      internalID: 9060277085552380196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_54
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 49
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6b3ce1f79af2a80800000000000000
+      internalID: -8489380409128012043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_55
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 49
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1858fef4b5b2240800000000000000
+      internalID: 4768005029380850141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_56
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 49
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e883f65877d1e40800000000000000
+      internalID: 5628786524263321240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_57
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 49
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ce60d841cd82b10800000000000000
+      internalID: 1957056018915978293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_58
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 49
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65ff8604e3258f40800000000000000
+      internalID: 5730025563168437610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_59
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 49
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f731aa5d52d04ed20800000000000000
+      internalID: 3306782482546430847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_60
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 49
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3906144544733d590800000000000000
+      internalID: -7650710575361466221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_61
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 49
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147e0718e3d7220a0800000000000000
+      internalID: -6907821171019815103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_62
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 49
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3517ed6ffadb92c10800000000000000
+      internalID: 2029361670565818707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_63
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 49
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590adb00277fc0d60800000000000000
+      internalID: 7857927518865432725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_64
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 50
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdc896f3ed3d7c50800000000000000
+      internalID: 6664551072882281918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_65
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 50
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9367e11f9c42a3130800000000000000
+      internalID: 3547188106260018745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_66
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 54
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c28a4f7b49c1c00800000000000000
+      internalID: 872735945607621764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_67
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 54
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4c58a040ced57a0800000000000000
+      internalID: -6386689194440932188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_68
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 54
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedf419252e46bf60800000000000000
+      internalID: 8049707305481338347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_69
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 54
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217b5b63dd5ca6aa0800000000000000
+      internalID: -6166899185834150126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_70
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 54
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe766e0947312dc30800000000000000
+      internalID: 4382586778753066991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_71
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 54
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891ba66e7cc8312b0800000000000000
+      internalID: -5614989520208744040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_72
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 55
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd8ebf166060fc20800000000000000
+      internalID: 3238194123814899189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_73
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 55
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9e0ce55e4f90ed0800000000000000
+      internalID: -2447155656524764673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_74
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 55
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1aea9ecb3d302e20800000000000000
+      internalID: 3323723852078049822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_75
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 55
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e0be4cf11921e60800000000000000
+      internalID: 7931561459386617413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_76
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 55
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e527931d91a6f71c0800000000000000
+      internalID: -4503764443230277026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48c5d52e7b6538d0800000000000000
+      internalID: -2867267398206633907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_78
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 20
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82257d85189b14470800000000000000
+      internalID: 8377180747078259240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_79
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 20
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f142b76591fac2c0800000000000000
+      internalID: -4410447261063822860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_80
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 21
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec172fffced218580800000000000000
+      internalID: -8826723298739850802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_81
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 21
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3b9ec345b86bc00800000000000000
+      internalID: 916072768131937184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_82
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 23
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e474be2383adb140800000000000000
+      internalID: 4737122166883251432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_83
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 23
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0317088c5f21a9b70800000000000000
+      internalID: 8906452059918725424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_84
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 23
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7474450cc1df14a0800000000000000
+      internalID: -6620342253019433860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_85
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 28
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0070a0a44a83d550800000000000000
+      internalID: 6184438740667101194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_86
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 28
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aeb89aac3f3b74f0800000000000000
+      internalID: -830000176526999901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_87
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 29
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c60817dadc5e600800000000000000
+      internalID: 497029478711585863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_88
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 29
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4083997e7b3836e50800000000000000
+      internalID: 6801424688147412996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_89
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 32
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b38627a18df628c0800000000000000
+      internalID: -4024250483712031819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_90
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 32
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c05228d1b083040800000000000000
+      internalID: 4627460838488607824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_91
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 33
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dae6a8b9773bf20800000000000000
+      internalID: 3437222450539965721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_92
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 34
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f6bd811c9c167b0800000000000000
+      internalID: -5232679460844900573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aline_font_93
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 35
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8091162842a9c4970800000000000000
+      internalID: 8740530458416191752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aline_font_0: -4523362776103055104
+      aline_font_1: 470229455215821679
+      aline_font_10: 551991200006243461
+      aline_font_11: -4082755544390991728
+      aline_font_12: -1476944839038979190
+      aline_font_13: -3307835925500227599
+      aline_font_14: -4855979433512291869
+      aline_font_15: 5663250779364464697
+      aline_font_16: 695611556623779292
+      aline_font_17: 1172055962988515831
+      aline_font_18: 7467199735417146998
+      aline_font_19: 4026379264420271067
+      aline_font_2: 5351629161631364855
+      aline_font_20: -6705591364611894361
+      aline_font_21: -2212345904514886596
+      aline_font_22: 4103864687984496511
+      aline_font_23: 266885084655957371
+      aline_font_24: 7709279708899579371
+      aline_font_25: 567675328424570726
+      aline_font_26: 5712142380042165137
+      aline_font_27: 2588839572575398229
+      aline_font_28: -8361705748731886721
+      aline_font_29: -5600901151951618978
+      aline_font_3: -3567673404565679294
+      aline_font_30: -4697237077145688711
+      aline_font_31: -7075129781016734017
+      aline_font_32: 3600048698877681541
+      aline_font_33: -2602237953507530035
+      aline_font_34: 6518372567022136783
+      aline_font_35: 9117167999782883768
+      aline_font_36: 99696956368602893
+      aline_font_37: -819153585497182614
+      aline_font_38: -7636740202892073448
+      aline_font_39: -699589729503999829
+      aline_font_4: 3806050013075378825
+      aline_font_40: 7639968707532755955
+      aline_font_41: -2794229666098463982
+      aline_font_42: 6666814829925999414
+      aline_font_43: -4883635387886874147
+      aline_font_44: 3270053754795013362
+      aline_font_45: 7338342443121892471
+      aline_font_46: 7356446595460040315
+      aline_font_47: 433838189329586869
+      aline_font_48: -7029488962799392436
+      aline_font_49: 9193580808282803102
+      aline_font_5: 1938971832784734750
+      aline_font_50: 9145975748999436988
+      aline_font_51: -1694396386536168302
+      aline_font_52: 7371179723125607329
+      aline_font_53: 9060277085552380196
+      aline_font_54: -8489380409128012043
+      aline_font_55: 4768005029380850141
+      aline_font_56: 5628786524263321240
+      aline_font_57: 1957056018915978293
+      aline_font_58: 5730025563168437610
+      aline_font_59: 3306782482546430847
+      aline_font_6: 1579876993998563109
+      aline_font_60: -7650710575361466221
+      aline_font_61: -6907821171019815103
+      aline_font_62: 2029361670565818707
+      aline_font_63: 7857927518865432725
+      aline_font_64: 6664551072882281918
+      aline_font_65: 3547188106260018745
+      aline_font_66: 872735945607621764
+      aline_font_67: -6386689194440932188
+      aline_font_68: 8049707305481338347
+      aline_font_69: -6166899185834150126
+      aline_font_7: -2354108090573373931
+      aline_font_70: 4382586778753066991
+      aline_font_71: -5614989520208744040
+      aline_font_72: 3238194123814899189
+      aline_font_73: -2447155656524764673
+      aline_font_74: 3323723852078049822
+      aline_font_75: 7931561459386617413
+      aline_font_76: -4503764443230277026
+      aline_font_77: -2867267398206633907
+      aline_font_78: 8377180747078259240
+      aline_font_79: -4410447261063822860
+      aline_font_8: 8676724307495052803
+      aline_font_80: -8826723298739850802
+      aline_font_81: 916072768131937184
+      aline_font_82: 4737122166883251432
+      aline_font_83: 8906452059918725424
+      aline_font_84: -6620342253019433860
+      aline_font_85: 6184438740667101194
+      aline_font_86: -830000176526999901
+      aline_font_87: 497029478711585863
+      aline_font_88: 6801424688147412996
+      aline_font_89: -4024250483712031819
+      aline_font_9: 4358211362896156968
+      aline_font_90: 4627460838488607824
+      aline_font_91: 3437222450539965721
+      aline_font_92: -5232679460844900573
+      aline_font_93: 8740530458416191752
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room spawnMonster="false" size="19,17" teleportPoint="5,5">
+  <mainLayer>
+    <ground>X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X 41 41 41 41 41 X X
+X X X X X X X X X X X 41 41 41 41 41 41 41 X
+X X X X X X X X X 41 41 41 41 41 41 50 41 41 X
+X X X X X X X X 41 41 50 41 41 41 41 41 41 41 X
+X X 41 41 41 41 X 41 41 41 41 41 41 41 41 41 41 X X
+X 41 41 41 41 41 41 41 41 41 41 41 41 41 41 X X X X
+X 41 41 51 41 41 41 41 41 41 41 41 41 X X X X X X
+X 41 41 41 41 41 41 41 41 41 41 41 X X X X X X X
+X X 41 41 41 41 50 41 41 41 X X X X X X X X X
+X X 41 41 41 41 41 41 X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X</ground>
+    <upperGround>X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X 42 X X X X X
+X X X X X X X X X X X X X 42 X X X X X
+X X X X X X X X X X X 42 42 42 X X X X X
+X X X X X X X X X 42 42 42 X X X X X X X
+X X X 49 X X X X X 42 X X X X X X X X X
+X X X 42 42 42 X 42 42 42 X X X X X X X X X
+X X X X X 42 42 42 X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X 49 X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X</upperGround>
+    <wall>X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X</wall>
+    <cliff>X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X 16 X
+X X X X X X X X X X X X X X X 14 101 X X
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X 15 X X X X X X X X X X X X 101 X X X X
+X X X X X X X X 14 13 X X X 101 X X X X X
+X X 11 10 10 10 10 12 X X 101 X X X X X X X X
+X X X X X X X X X X X 101 101 X X X X X X
+X X X X X X X X X X X X X X X X X X X</cliff>
+    <props>
+      <Badland_CliffTree01 position="2.3125,12.875" localScale="1,1,1" />
+      <Badland_CliffTree05 position="5.8125,16.25" localScale="1,1,1" />
+      <Badland_CliffTree02 position="17.875,15.0625" localScale="1,1,1" />
+      <Badland_CliffTree06 position="17.0625,6.3125" localScale="1,1,1" />
+      <Badland_CliffTree07 position="2.6875,16.6875" localScale="1,1,1" />
+      <Badland_CliffTree05 position="3.75,2.8125" localScale="1,1,1" />
+      <Badland_CliffTree03 position="7.28125,1.96875" localScale="1,1,1" />
+      <Badland_CliffTree01 position="15.6875,2.9375" localScale="1,1,1" />
+      <Badland_Stone-3 position="13.3125,10.5625" localScale="1,1,1" />
+      <Badland_Stone-2 position="10.0625,9.3125" localScale="1,1,1" />
+      <Badland_Stone-1 position="9.40625,4.4375" localScale="1,1,1" />
+      <Badland_Stone-1 position="5.15625,7.4375" localScale="1,1,1" />
+      <Badland_Sword-0 position="15.5625,8.375" localScale="1,1,1" />
+      <Badland_Tree-0 position="16.0625,8.625" localScale="1,1,1" />
+      <Box00 position="9.53125,8.375" localScale="1,1,1" />
+      <Box01 position="11.53125,10.34375" localScale="1,1,1" />
+      <Box01 position="7.5,6.8125" localScale="1,1,1" />
+      <Box00 position="8.0625,7.5" localScale="1,1,1" />
+      <Badland_HighWall-S-4 position="13,5" localScale="1,1,1" />
+      <Badland_HighWall-S-6 position="7,8" localScale="1,1,1" />
+      <Badland_HighWall-M-1 position="10,11" localScale="1,1,1" />
+    </props>
+  </mainLayer>
+  <passagepoints>
+    <passagepoint position="0,7" dir="3" />
+    <passagepoint position="18,11" dir="1" />
+    <passagepoint position="13,13" dir="0" />
+  </passagepoints>
+</room>

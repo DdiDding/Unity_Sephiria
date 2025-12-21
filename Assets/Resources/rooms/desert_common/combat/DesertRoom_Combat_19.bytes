@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room spawnMonster="true" size="38,20" teleportPoint="17,10.5">
+  <mainLayer>
+    <ground>X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X 41 41 41 X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X 41 41 41 41 41 41 X X X X X 41 41 41 X X X X X X X X X X X X X X X X
+X X X X X X X 41 41 41 41 41 41 41 41 41 X 41 41 41 50 41 41 41 41 X X X X X X X X X X X X X
+X X X X X X 41 41 41 50 41 41 41 41 41 41 41 41 41 41 41 41 41 50 41 41 41 41 41 X X X X X X X X X
+X X X X 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 51 41 41 X X X X X X X X X
+X X 41 41 41 41 41 41 41 41 51 41 41 41 41 41 41 41 50 41 41 41 41 41 41 41 41 41 41 X X X X X X X X X
+X X 41 41 48 48 48 48 41 41 41 41 41 41 41 41 41 41 41 41 41 51 41 41 41 41 41 41 41 X X X X X X X X X
+X X 41 41 48 48 86 48 41 41 41 41 41 50 41 41 41 41 41 41 41 41 41 41 92 41 41 41 41 X X X X X X X X X
+X X 41 41 48 48 48 48 41 88 41 41 41 41 41 51 41 41 41 41 41 41 41 41 41 41 41 41 41 X X X X X X X X X
+X X X 41 41 48 48 48 41 41 41 50 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 X X X X X X X X X
+X X X X 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 41 X X X X X X X X X X X X
+X X X X 41 41 41 41 50 41 41 41 41 X 41 41 41 41 41 41 41 41 41 41 41 41 X X X X X X X X X X X X
+X X X X X X 41 41 41 41 41 41 41 X 41 41 X 41 41 41 41 41 41 41 41 X X X X X X X X X X X X X
+X X X X X X X X X 41 41 X 41 X X X X X X 41 41 41 41 41 X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X</ground>
+    <upperGround>X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X 12 12 12 12 12 12 X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X 12 12 12 12 12 12 12 12 X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X 12 12 12 12 12 12 12 12 X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X 12 12 12 12 12 12 12 12 X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X 12 12 12 12 12 12 X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X</upperGround>
+    <wall>X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X</wall>
+    <cliff>X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X 101 101 X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X 101 101 X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X 15 X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X 15 X X X X X X X X X X X X X X X X X X X X X X 14 101 101 X X X X X X X X X
+X X X X X X X X X X X X X 18 X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X 11 13 X X X X X X X X X X 16 X X X X X X X X 101 X X X X X X X X X X X X
+X X X X X X 11 10 13 X X 18 X X 11 12 X 11 13 X X X X X 14 X X X X X X X X X X X X X
+X X X X X X X X X 11 12 X 17 X X X X X X 11 10 10 10 12 X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X</cliff>
+    <props>
+      <Badland_CliffTree00 position="3.5625,4.625" localScale="1,1,1" />
+      <Badland_CliffTree01 position="34.53125,5.59375" localScale="1,1,1" />
+      <Badland_CliffTree02 position="23.95,2.99" localScale="1,1,1" />
+      <Badland_CliffTree03 position="28.6875,3.125" localScale="1,1,1" />
+      <Badland_CliffTree04 position="15.375,18.8125" localScale="1,1,1" />
+      <Badland_CliffTree05 position="21.3125,20" localScale="1,1,1" />
+      <Badland_CliffTree00 position="6.59,18.41" localScale="1,1,1" />
+      <Badland_CliffTree01 position="2.74,15.91" localScale="1,1,1" />
+      <Badland_CliffTree02 position="18.03,18.51" localScale="1,1,1" />
+      <Badland_CliffTree03 position="23.84,18.52" localScale="1,1,1" />
+      <Badland_CliffTree03 position="29.13,17.76" localScale="1,1,1" />
+      <Badland_CliffTree06 position="25.8125,18.25" localScale="1,1,1" />
+      <Badland_CliffTree07 position="27,18.0625" localScale="1,1,1" />
+      <Badland_Stone-0 position="23.625,14.875" localScale="1,1,1" />
+      <Badland_Stone-0 position="14.1875,15.1875" localScale="1,1,1" />
+      <Badland_Stone-0 position="5.9375,6.4375" localScale="1,1,1" />
+      <Badland_Stone-0 position="18.75,5.6875" localScale="1,1,1" />
+      <Badland_Stone-0 position="24.5625,7.375" localScale="1,1,1" />
+      <Badland_Stone-1 position="10.0625,5.3125" localScale="1,1,1" />
+      <Badland_Sword-0 position="11.9375,5.8125" localScale="1,1,1" />
+      <Badland_Tree-0 position="6.3125,13.6875" localScale="1,1,1" />
+      <Badland_Tree-2 position="17.6875,14.6875" localScale="1,1,1" />
+      <Badland_HighWall-M-4 position="33,15" localScale="1,1,1" />
+      <Torch-Oink position="25.25,14.6875" localScale="1,1,1" />
+      <Library-Book002 position="27.90625,13.21875" localScale="1,1,1" />
+      <Torch-Stand position="9,16.4375" localScale="1,1,1" />
+      <Torch-Stand position="8,5.9375" localScale="1,1,1" />
+      <Lore_Badland_002 position="28,13.25" localScale="1,1,1" />
+      <Grass-Badland-0 position="21.6875,15.3125" localScale="1,1,1" />
+      <Badland_Tree-1 position="19.0625,15.5" localScale="1,1,1" />
+      <Badland-AmbushGrass1 position="21.4375,15.6875" localScale="1,1,1" />
+    </props>
+  </mainLayer>
+  <passagepoints>
+    <passagepoint position="10,18" dir="0" />
+    <passagepoint position="1,12" dir="3" />
+    <passagepoint position="29,10" dir="1" />
+    <passagepoint position="14,4" dir="2" />
+  </passagepoints>
+</room>

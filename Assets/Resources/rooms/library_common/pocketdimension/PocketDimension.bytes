@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room spawnMonster="false" size="20,14" teleportPoint="10,6">
+  <mainLayer>
+    <ground>36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36
+36 26 26 36 36 36 36 36 36 36 36 36 36 36 36 36 36 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36
+36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36
+36 36 36 36 36 26 26 26 26 26 26 26 26 26 26 36 36 36 36 36
+36 36 36 36 36 26 36 26 26 26 26 26 26 36 26 36 36 36 36 36
+36 36 36 36 36 26 26 26 26 26 26 26 26 26 26 36 36 36 36 36
+36 36 36 36 36 26 26 26 26 26 26 26 26 26 26 36 36 36 36 36
+36 36 36 36 36 26 26 26 26 26 26 26 26 26 26 36 36 36 36 36
+36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 26 26 36 36 36 36 36 36 36 36 36 36 36 36 36 36 26 26 36
+36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36</ground>
+    <upperGround>X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X 59 X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X 60 X X X X X 58 60 X X X X X X
+X X X X X X 59 X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X</upperGround>
+    <wall>15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15
+15 X X 15 15 15 15 15 15 15 15 15 15 15 15 15 15 X X 15
+15 X X X X X X X X X X X X X X X X X X 15
+15 15 X X X X X X X X X X X X X X X X 15 15
+15 15 X X X X X X X X X X X X X X X X 15 15
+15 15 15 15 15 X X X X X X X X X X 15 15 15 15 15
+15 15 15 15 15 X 15 X X X X X X 15 X 15 15 15 15 15
+15 15 15 15 15 X X X X X X X X X X 15 15 15 15 15
+15 15 15 15 15 X X X X X X X X X X 15 15 15 15 15
+15 15 16 16 16 X X X X X X X X X X 16 16 16 15 15
+15 15 X X X X X X X X X X X X X X X X 15 15
+15 X X X X X X X X X X X X X X X X X X 15
+15 X X 15 15 15 15 15 15 15 15 15 15 15 15 15 15 X X 15
+15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15</wall>
+    <cliff>X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X</cliff>
+    <props>
+      <PocketDimensionPortal position="9.9375,8.6875" localScale="1,1,1">
+        <options>
+          <customSpawnPoint>
+            <spawnPointId>POCKETDIMENSIONPORTAL</spawnPointId>
+            <spawnOffset>0,-2.25</spawnOffset>
+          </customSpawnPoint>
+        </options>
+      </PocketDimensionPortal>
+    </props>
+  </mainLayer>
+  <passagepoints>
+    <passagepoint position="9,1" dir="2" />
+    <passagepoint position="9,12" dir="0" />
+    <passagepoint position="4,7" dir="3" />
+    <passagepoint position="15,7" dir="1" />
+  </passagepoints>
+</room>

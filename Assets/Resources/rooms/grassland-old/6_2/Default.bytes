@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room teleportablePositionOffset="8,16.75" roomIconPath="Grassland/6,2_Default" spawnMonster="0" monsterCountAmplitude="1" wayUp="true" wayDown="true" wayLeft="false" wayRight="false">
+  <ground>5 5 5 5 5 5 6 6 6 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 6 6 6 6 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 6 6 6 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 6 6 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+7 7 7 7 5 5 5 5 5 7 5 5 5 7 7 7 7 7 7 7 7 7 7 5 
+7 7 7 7 7 7 7 7 7 7 7 7 5 7 7 7 7 7 7 7 7 7 7 7 
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+5 5 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+5 5 5 5 7 7 7 7 7 7 7 7 7 7 7 7 5 5 5 5 5 5 5 5 
+5 5 5 5 5 7 7 7 7 7 7 7 7 7 7 7 5 5 5 5 5 5 5 5 
+5 5 5 5 7 7 7 7 7 7 7 7 7 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 7 7 7 7 7 7 7 7 6 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 6 6 5 5 5 5 6 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 6 6 5 5 5 5 6 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 6 6 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+</ground>
+  <upperGround>X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+</upperGround>
+  <wall>3 3 3 3 3 X X X X X X X X X X X 3 3 3 3 3 3 3 3 
+3 3 3 3 3 X X X X X X X X X X 3 3 3 3 3 3 3 3 3 
+3 3 3 3 X 3 X X X X X 3 3 3 3 3 3 3 3 3 X 3 3 3 
+3 3 3 3 X 3 X X X X X 3 X 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 X X X X X X X 3 3 3 3 3 3 3 3 3 3 3 3 
+X X X X 3 X X X X X X X 3 X X X X X X X X X X 3 
+X X X X X X X X X X X X 3 X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X 
+3 3 3 3 X X X X X X X X X X X X 3 3 3 3 3 3 3 3 
+3 3 3 3 3 X X X X X X X X X X 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 X X X X X X X X 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 X X X X X X X X 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 X X X X X X X 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 X X X X X X X 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 X X X X X X X X 3 3 3 3 3 3 3 3 3 3 3 3 
+</wall>
+  <props />
+</room>

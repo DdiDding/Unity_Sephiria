@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room spawnMonster="true" size="25,22" teleportPoint="12,12.5">
+  <mainLayer>
+    <ground>36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36
+36 36 36 26 26 36 26 26 26 26 26 26 26 26 26 26 36 36 36 36 36 26 26 26 36
+36 36 36 26 26 26 26 26 26 26 26 36 36 36 26 26 36 26 26 26 26 36 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 36 36 26 26 26 26 26 36 36 36 36 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36 26 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36 26 26 26 26 26 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36 26 36
+36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36 26 36
+36 36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 36 36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 36 36 36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 36 36 36 36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 36 36 36 36 36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 36 36 36 36 36 36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 36 36 36 36 36 36 36 36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 36 36 36 36 36 36 36 36 36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 36 36 36 36 36 36 36 36 36 36 36 36 26 26 26 26 36 36 36 36 36 36 36 36
+36 36 36 36 36 36 36 36 36 36 36 36 36 36 26 36 36 36 36 36 36 36 36 36 36
+36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36
+36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36</ground>
+    <upperGround>X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X 37 37 37 37 37 37 37 X X X X X 37 37 37 X
+X X X X X X X X X X X X X X 37 37 X 37 37 37 37 X 37 37 X
+X X X X X X X X X X X X X X 37 37 37 37 37 X X X X 37 X
+X X X X X X X X X X X X X X 37 37 37 37 37 X X 37 37 37 X
+X X X X X X X X X X X X X X X 37 37 37 37 37 37 37 37 37 X
+X X X X X X X X X X X X X X X X X 37 37 37 37 37 37 37 X
+X X X X X X X X X X X X X X X X X 37 37 37 37 37 37 37 X
+X X X X X X X X X X X X X X X X X X 37 37 37 X X 37 X
+X X X X X X X X X X X X X X X X X X X X 37 37 X 37 X
+X X X X X X X X X X X X X X X X X X X X X 37 37 37 X
+X X X X X X X X X X X X X X X X X X X X X X X 37 X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X</upperGround>
+    <wall>15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15
+15 15 15 X X 17 X X X X X X X X X X 15 15 15 15 15 X X X 15
+15 15 15 X X X X X X X X 15 15 15 X X 15 X X X X 15 X X 15
+15 X X X X X X X X X X X 15 15 X X X X X 15 15 15 15 X 15
+15 X X X X X X X X X X X X 19 X X X X X 15 15 X X X 15
+15 X X X X X X X X X X X X X X X X X X X X X X X 15
+15 17 X X X X X X X X X X X X X X 15 X X X X X X X 15
+15 X X X X X X X X X X X X X X X X X X X X X X X 15
+15 X X X X X X X X X X X X X X X X X X X X 15 15 X 15
+15 15 X X X X X X X X X X X X X X X X X X X X 15 X 15
+15 15 15 18 X X X X X X X X X X X X X X X X X X X X 15
+15 15 15 15 X X X X X X X X X X X X X X X X X X X X 15
+15 15 15 15 15 X X X X X X X X X X X X X X X X X X 19 15
+15 15 15 15 15 15 X X X X X X X X X X X X X X X X X X 15
+15 15 15 15 15 15 15 X X X X X X X X X X X X X X X X X 15
+15 15 15 15 15 15 15 15 X X X X X X X X X X X X X X X X 15
+15 15 15 15 15 15 15 15 15 15 18 X X X X X X X X X X X X X 15
+15 15 15 15 15 15 15 15 15 15 15 X X X X X X X X X X X X X 15
+15 15 15 15 15 15 15 15 15 15 15 15 15 X X X X 15 15 15 15 15 15 15 15
+15 15 15 15 15 15 15 15 15 15 15 15 15 15 18 15 15 15 15 15 15 15 15 15 15
+15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15
+15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15</wall>
+    <cliff>X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X</cliff>
+    <props>
+      <Library-DisplayCase_002 position="10.0625,17.125" localScale="1,1,1" />
+      <Library-DisplayCase_001 position="17.9375,11.0625" localScale="1,1,1" />
+      <Library-Light position="6.625,19.8125" localScale="1,1,1" />
+      <Library-Light position="7.9375,18.5" localScale="1,1,1" />
+      <Library-Light position="13.125,14.375" localScale="1,1,1" />
+      <Library-Light position="14.9375,12.8125" localScale="1,1,1" />
+      <Library-Light position="20.6875,9" localScale="1,1,1" />
+      <Library-Light position="22.25,7.4375" localScale="1,1,1" />
+      <Library-Book003 position="8,19.9375" localScale="1,1,1" />
+      <Library-Chair001 position="7.5,8.6875" localScale="1,1,1" />
+      <Library-Scroll position="14.625,6.8125" localScale="1,1,1" />
+      <Library-Book002 position="10.75,9.4375" localScale="1,1,1" />
+      <Library-Book001 position="15.8125,10.875" localScale="1,1,1" />
+      <Library-Pot position="12.25,17.4375" localScale="1,1,1" />
+      <Library-Pot position="14.1875,5.1875" localScale="1,1,1" />
+      <Library-Chair000 position="14.4375,16.5" localScale="1,1,1" />
+      <Library-Godray0 position="10.375,8.6875" localScale="1,1,1" />
+      <Library-Godray1 position="7.3125,15.6875" localScale="1,1,1" />
+      <Library-Godray1 position="19,9" localScale="1,1,1" />
+      <Library-Godray2 position="17.5625,7.6875" localScale="1,1,1" />
+      <Torch position="16.5,18.6875" localScale="1,1,1" />
+      <Torch position="21.9375,17.875" localScale="1,1,1" />
+      <Torch position="22.5,11.5625" localScale="1,1,1" />
+      <Torch position="16.5,14.6875" localScale="1,1,1" />
+      <Torch position="8,20.6875" localScale="1,1,1" />
+    </props>
+  </mainLayer>
+  <passagepoints>
+    <passagepoint position="24,8" dir="1" />
+    <passagepoint position="0,18" dir="3" />
+  </passagepoints>
+</room>

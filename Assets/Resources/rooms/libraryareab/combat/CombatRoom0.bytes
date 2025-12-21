@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room spawnMonster="true" monsterDensity="1" size="10,10" teleportPoint="4.5,4.5">
+  <mainLayer>
+    <ground>X X X X X X X X X X
+X 0 0 0 0 0 0 0 0 X
+X 0 0 0 0 0 0 0 0 X
+X 0 0 0 0 0 0 0 0 X
+X 0 0 0 0 0 0 0 0 X
+X 0 0 0 0 0 0 0 0 X
+X 0 0 0 0 0 0 0 0 X
+X 0 0 0 0 0 0 0 0 X
+X 0 0 0 0 0 0 0 0 X
+X X X X X X X X X X</ground>
+    <upperGround>X X X X X X X X X X
+X 9 9 9 X X X X X X
+X 9 9 X X X X 9 9 X
+X X X X X X X 9 9 X
+X X X X X X X X 9 X
+X X X X X X X X X X
+X X X X X X X X X X
+X X 9 9 9 X X X X X
+X X 9 9 9 X X X X X
+X X X X X X X X X X</upperGround>
+    <wall>0 0 0 0 0 0 0 0 0 0
+0 X X X X X X X X 0
+0 X X X X X X X X 0
+0 X X X X X X X X 0
+0 X X X X X X X X 0
+0 X X X X X X X X 0
+0 X X X X X X X X 0
+0 X X X X X X X X 0
+0 X X X X X X X X 0
+0 0 0 0 0 0 0 0 0 0</wall>
+    <props>
+      <Wall_Wooden_Blocked position="5,9" />
+      <Torch position="5.8125,9" />
+      <Torch position="4.1875,9" />
+      <Torch position="8.1875,9" />
+      <Torch position="1.8125,9" />
+    </props>
+  </mainLayer>
+  <passagepoints>
+    <passagepoint position="2,0" dir="2"/>
+    <passagepoint position="6,0" dir="2"/>
+    <passagepoint position="2,9" dir="0"/>
+    <passagepoint position="6,9" dir="0"/>
+    <passagepoint position="9,4" dir="1"/>
+    <passagepoint position="9,7" dir="1"/>
+    <passagepoint position="0,4" dir="3"/>
+    <passagepoint position="0,7" dir="3"/>
+  </passagepoints>
+</room>

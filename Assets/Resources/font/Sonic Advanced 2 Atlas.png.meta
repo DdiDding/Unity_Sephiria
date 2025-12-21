@@ -1,0 +1,2509 @@
+fileFormatVersion: 2
+guid: 51164720b55165a4f92a242691cdc8e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3132484183985391777
+    second: Sonic Advanced 2 Atlas_0
+  - first:
+      213: 7755532507283107686
+    second: Sonic Advanced 2 Atlas_1
+  - first:
+      213: 9189307802361678188
+    second: Sonic Advanced 2 Atlas_2
+  - first:
+      213: 1788317942386550873
+    second: Sonic Advanced 2 Atlas_3
+  - first:
+      213: 4336006980076463981
+    second: Sonic Advanced 2 Atlas_4
+  - first:
+      213: 3299167622420351512
+    second: Sonic Advanced 2 Atlas_5
+  - first:
+      213: 7573159149778259378
+    second: Sonic Advanced 2 Atlas_6
+  - first:
+      213: -2959600770082563226
+    second: Sonic Advanced 2 Atlas_7
+  - first:
+      213: -7327678296261453257
+    second: Sonic Advanced 2 Atlas_8
+  - first:
+      213: -4624736053632716987
+    second: Sonic Advanced 2 Atlas_9
+  - first:
+      213: 7649922597852366379
+    second: Sonic Advanced 2 Atlas_10
+  - first:
+      213: 3336273292131014261
+    second: Sonic Advanced 2 Atlas_11
+  - first:
+      213: 3073562843788363836
+    second: Sonic Advanced 2 Atlas_12
+  - first:
+      213: 7038388898404992466
+    second: Sonic Advanced 2 Atlas_13
+  - first:
+      213: -274353491245504297
+    second: Sonic Advanced 2 Atlas_14
+  - first:
+      213: 2634881479933670945
+    second: Sonic Advanced 2 Atlas_15
+  - first:
+      213: 8378722288489420317
+    second: Sonic Advanced 2 Atlas_16
+  - first:
+      213: -3888941461771806272
+    second: Sonic Advanced 2 Atlas_17
+  - first:
+      213: -8380666690066610603
+    second: Sonic Advanced 2 Atlas_18
+  - first:
+      213: 5362561455727349897
+    second: Sonic Advanced 2 Atlas_19
+  - first:
+      213: -5773756484910092528
+    second: Sonic Advanced 2 Atlas_20
+  - first:
+      213: 2360924834786817990
+    second: Sonic Advanced 2 Atlas_21
+  - first:
+      213: -6094393819318427104
+    second: Sonic Advanced 2 Atlas_22
+  - first:
+      213: 2226983455367128368
+    second: Sonic Advanced 2 Atlas_23
+  - first:
+      213: -5912014038845513853
+    second: Sonic Advanced 2 Atlas_24
+  - first:
+      213: -3159428902084671938
+    second: Sonic Advanced 2 Atlas_25
+  - first:
+      213: 966045528318385640
+    second: Sonic Advanced 2 Atlas_26
+  - first:
+      213: 3496001898020951113
+    second: Sonic Advanced 2 Atlas_27
+  - first:
+      213: -1788542017696476581
+    second: Sonic Advanced 2 Atlas_28
+  - first:
+      213: -7405273646280736687
+    second: Sonic Advanced 2 Atlas_29
+  - first:
+      213: 9031366643848903169
+    second: Sonic Advanced 2 Atlas_30
+  - first:
+      213: -4917641097553239783
+    second: Sonic Advanced 2 Atlas_31
+  - first:
+      213: 6272749434181850185
+    second: Sonic Advanced 2 Atlas_32
+  - first:
+      213: 779723052918708131
+    second: Sonic Advanced 2 Atlas_33
+  - first:
+      213: 1312041085560654224
+    second: Sonic Advanced 2 Atlas_34
+  - first:
+      213: 4729530048107589208
+    second: Sonic Advanced 2 Atlas_35
+  - first:
+      213: 4399032551043724296
+    second: Sonic Advanced 2 Atlas_36
+  - first:
+      213: 7455452069259413009
+    second: Sonic Advanced 2 Atlas_37
+  - first:
+      213: 1356550787058516843
+    second: Sonic Advanced 2 Atlas_38
+  - first:
+      213: 8260472617730697721
+    second: Sonic Advanced 2 Atlas_39
+  - first:
+      213: -9113026633982254948
+    second: Sonic Advanced 2 Atlas_40
+  - first:
+      213: -6021650640411659273
+    second: Sonic Advanced 2 Atlas_41
+  - first:
+      213: 7408519815685078551
+    second: Sonic Advanced 2 Atlas_42
+  - first:
+      213: 7607986185174448074
+    second: Sonic Advanced 2 Atlas_43
+  - first:
+      213: -171626076119196246
+    second: Sonic Advanced 2 Atlas_44
+  - first:
+      213: 7557974913286023677
+    second: Sonic Advanced 2 Atlas_45
+  - first:
+      213: -8221647166041284136
+    second: Sonic Advanced 2 Atlas_46
+  - first:
+      213: 527710827162229718
+    second: Sonic Advanced 2 Atlas_47
+  - first:
+      213: 4659422047166468946
+    second: Sonic Advanced 2 Atlas_48
+  - first:
+      213: -4371224030008730787
+    second: Sonic Advanced 2 Atlas_49
+  - first:
+      213: -2260524944459365079
+    second: Sonic Advanced 2 Atlas_50
+  - first:
+      213: 9047312688480324144
+    second: Sonic Advanced 2 Atlas_51
+  - first:
+      213: 8320203829898113102
+    second: Sonic Advanced 2 Atlas_52
+  - first:
+      213: 3051231993407501429
+    second: Sonic Advanced 2 Atlas_53
+  - first:
+      213: 3279816020544734627
+    second: Sonic Advanced 2 Atlas_54
+  - first:
+      213: 2963277121288346732
+    second: Sonic Advanced 2 Atlas_55
+  - first:
+      213: -640440620546518558
+    second: Sonic Advanced 2 Atlas_56
+  - first:
+      213: 6481180061875563988
+    second: Sonic Advanced 2 Atlas_57
+  - first:
+      213: -8091116608850346044
+    second: Sonic Advanced 2 Atlas_58
+  - first:
+      213: -862907236882067240
+    second: Sonic Advanced 2 Atlas_59
+  - first:
+      213: 8240039572918893802
+    second: Sonic Advanced 2 Atlas_60
+  - first:
+      213: -2328535338566272515
+    second: Sonic Advanced 2 Atlas_61
+  - first:
+      213: -1860807114081321072
+    second: Sonic Advanced 2 Atlas_62
+  - first:
+      213: 7764908301182184637
+    second: Sonic Advanced 2 Atlas_63
+  - first:
+      213: -6780682950787694333
+    second: Sonic Advanced 2 Atlas_64
+  - first:
+      213: 7194515007201481559
+    second: Sonic Advanced 2 Atlas_65
+  - first:
+      213: -1885415820570539056
+    second: Sonic Advanced 2 Atlas_66
+  - first:
+      213: -6744647901782524913
+    second: Sonic Advanced 2 Atlas_67
+  - first:
+      213: -4842018300073424375
+    second: Sonic Advanced 2 Atlas_68
+  - first:
+      213: 1865809743868515915
+    second: Sonic Advanced 2 Atlas_69
+  - first:
+      213: -3423312858420901810
+    second: Sonic Advanced 2 Atlas_70
+  - first:
+      213: -3943700788245110537
+    second: Sonic Advanced 2 Atlas_71
+  - first:
+      213: 3828245840002598318
+    second: Sonic Advanced 2 Atlas_72
+  - first:
+      213: -5143998000979245665
+    second: Sonic Advanced 2 Atlas_73
+  - first:
+      213: -1669121009051429527
+    second: Sonic Advanced 2 Atlas_74
+  - first:
+      213: -5538862176990558454
+    second: Sonic Advanced 2 Atlas_75
+  - first:
+      213: -2857655677601049242
+    second: Sonic Advanced 2 Atlas_76
+  - first:
+      213: -6905804051396208734
+    second: Sonic Advanced 2 Atlas_77
+  - first:
+      213: -6617360320625347839
+    second: Sonic Advanced 2 Atlas_78
+  - first:
+      213: 9101959031243755395
+    second: Sonic Advanced 2 Atlas_79
+  - first:
+      213: -70657806192856807
+    second: Sonic Advanced 2 Atlas_80
+  - first:
+      213: -3793040105344369654
+    second: Sonic Advanced 2 Atlas_81
+  - first:
+      213: 6817810768564734050
+    second: Sonic Advanced 2 Atlas_82
+  - first:
+      213: 5414127354637774007
+    second: Sonic Advanced 2 Atlas_83
+  - first:
+      213: -4984833063315086167
+    second: Sonic Advanced 2 Atlas_84
+  - first:
+      213: 8094307095220698036
+    second: Sonic Advanced 2 Atlas_85
+  - first:
+      213: -2641216164685283421
+    second: Sonic Advanced 2 Atlas_86
+  - first:
+      213: -1796142642015809715
+    second: Sonic Advanced 2 Atlas_87
+  - first:
+      213: 5911202584895870742
+    second: Sonic Advanced 2 Atlas_88
+  - first:
+      213: 4567141638006531106
+    second: Sonic Advanced 2 Atlas_89
+  - first:
+      213: -2881783245520783815
+    second: Sonic Advanced 2 Atlas_90
+  - first:
+      213: -3983378976232057884
+    second: Sonic Advanced 2 Atlas_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a88afac4c1d87b20800000000000000
+      internalID: 3132484183985391777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66faa9c89bf21ab60800000000000000
+      internalID: 7755532507283107686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 107
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c694e7b52caf68f70800000000000000
+      internalID: 9189307802361678188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 122
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958686591b161d810800000000000000
+      internalID: 1788317942386550873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 120
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67621f00679c2c30800000000000000
+      internalID: 4336006980076463981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 120
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ac5dc097ff8cd20800000000000000
+      internalID: 3299167622420351512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd48065f14491960800000000000000
+      internalID: 7573159149778259378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 120
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b914eb7c26de6d0800000000000000
+      internalID: -2959600770082563226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 120
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a1ffac96bde4a90800000000000000
+      internalID: -7327678296261453257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 120
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fa747ef03a1dfb0800000000000000
+      internalID: -4624736053632716987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 120
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26493c521cf92a60800000000000000
+      internalID: 7649922597852366379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 120
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576971302e2dc4e20800000000000000
+      internalID: 3336273292131014261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3848da3f1d77aa20800000000000000
+      internalID: 3073562843788363836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 92
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d58b7089616da160800000000000000
+      internalID: 7038388898404992466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 105
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d86c6b04fc413cf0800000000000000
+      internalID: -274353491245504297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 90
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126b3bceebaf09420800000000000000
+      internalID: 2634881479933670945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 105
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d165f0d6783374470800000000000000
+      internalID: 8378722288489420317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 90
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c99dc25854b70ac0800000000000000
+      internalID: -3888941461771806272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 105
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55681ad4c04e1bb80800000000000000
+      internalID: -8380666690066610603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 90
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98094de5b35ab6a40800000000000000
+      internalID: 5362561455727349897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 105
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f6351511f7fdfa0800000000000000
+      internalID: -5773756484910092528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 90
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7bdd6e0a0b3c020800000000000000
+      internalID: 2360924834786817990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 105
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022603e5c1d5c6ba0800000000000000
+      internalID: -6094393819318427104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 90
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03564d157a5d7ee10800000000000000
+      internalID: 2226983455367128368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 105
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f9d7b0e8e44fda0800000000000000
+      internalID: -5912014038845513853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36042627247724d0800000000000000
+      internalID: -3159428902084671938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed95482a45186d00800000000000000
+      internalID: 966045528318385640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 77
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94451a1243b448030800000000000000
+      internalID: 3496001898020951113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 62
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b525751d282dd27e0800000000000000
+      internalID: -1788542017696476581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 75
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15000e08ade2b3990800000000000000
+      internalID: -7405273646280736687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 75
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10afce2cc1cd55d70800000000000000
+      internalID: 9031366643848903169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 75
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9112a7ff97701cbb0800000000000000
+      internalID: -4917641097553239783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 75
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944117d30684d0750800000000000000
+      internalID: 6272749434181850185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 75
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a717684cf122da00800000000000000
+      internalID: 779723052918708131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0998f837a6e453210800000000000000
+      internalID: 1312041085560654224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 45
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e2df7458aa2a140800000000000000
+      internalID: 4729530048107589208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 60
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80477505cc08c0d30800000000000000
+      internalID: 4399032551043724296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 45
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11688240826177760800000000000000
+      internalID: 7455452069259413009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b634666e0cf63d210800000000000000
+      internalID: 1356550787058516843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 45
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9eda8741813a270800000000000000
+      internalID: 8260472617730697721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 60
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9060dc2f86088180800000000000000
+      internalID: -9113026633982254948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 45
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f372c885acce6ca0800000000000000
+      internalID: -6021650640411659273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 60
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ef955358950d660800000000000000
+      internalID: 7408519815685078551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 45
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7f667602ff49960800000000000000
+      internalID: 7607986185174448074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad98ba3ef24e9df0800000000000000
+      internalID: -171626076119196246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 45
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df92ab7c32253e860800000000000000
+      internalID: 7557974913286023677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 45
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1238f6677d6ed80800000000000000
+      internalID: -8221647166041284136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 55
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbd12d833ec25700800000000000000
+      internalID: 527710827162229718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2531bfb4aa799a040800000000000000
+      internalID: 4659422047166468946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 30
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b9da987ea4653c0800000000000000
+      internalID: -4371224030008730787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 30
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925079f2a8001a0e0800000000000000
+      internalID: -2260524944459365079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 30
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a01c894f28e8d70800000000000000
+      internalID: 9047312688480324144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 30
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40fbeb0d4d477370800000000000000
+      internalID: 8320203829898113102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 30
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5747c56f457285a20800000000000000
+      internalID: 3051231993407501429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 30
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a544312b4f348d20800000000000000
+      internalID: 3279816020544734627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 30
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c1f6977dcaf1920800000000000000
+      internalID: 2963277121288346732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 45
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1189816a2bc17f0800000000000000
+      internalID: -640440620546518558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 30
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddef617de6c1f950800000000000000
+      internalID: 6481180061875563988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 44
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf3635105496bf80800000000000000
+      internalID: -8091116608850346044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 30
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0d78f90765604f0800000000000000
+      internalID: -862907236882067240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 41
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecfdfe75508a5270800000000000000
+      internalID: 8240039572918893802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df930d952716fafd0800000000000000
+      internalID: -2328535338566272515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fb9a9e9c51d26e0800000000000000
+      internalID: -1860807114081321072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 15
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc227da5fe72cb60800000000000000
+      internalID: 7764908301182184637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 15
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30180c728cc26e1a0800000000000000
+      internalID: -6780682950787694333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 15
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7531677e74d08d360800000000000000
+      internalID: 7194515007201481559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 15
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbcdf0fc48a5d5e0800000000000000
+      internalID: -1885415820570539056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 15
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c3b2fc7723662a0800000000000000
+      internalID: -6744647901782524913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 15
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ace2c9202bdccb0800000000000000
+      internalID: -4842018300073424375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 29
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46deb99310b4e910800000000000000
+      internalID: 1865809743868515915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 29
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e488bceb713fd70d0800000000000000
+      internalID: -3423312858420901810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 29
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0e83817092549c0800000000000000
+      internalID: -3943700788245110537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 29
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5c83efe49a02530800000000000000
+      internalID: 3828245840002598318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 19
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95005a7219dc98b0800000000000000
+      internalID: -5143998000979245665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 30
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9651950294716d8e0800000000000000
+      internalID: -1669121009051429527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0781a832320223b0800000000000000
+      internalID: -5538862176990558454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665163e3d419758d0800000000000000
+      internalID: -2857655677601049242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a75314cdc7a920a0800000000000000
+      internalID: -6905804051396208734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1037c5249d96a24a0800000000000000
+      internalID: -6617360320625347839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f4171c387a05e70800000000000000
+      internalID: 9101959031243755395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91134418919f40ff0800000000000000
+      internalID: -70657806192856807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c732ede1a6c5bc0800000000000000
+      internalID: -3793040105344369654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268422e85cabd9e50800000000000000
+      internalID: 6817810768564734050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 14
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bce8edc428d22b40800000000000000
+      internalID: 5414127354637774007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a46b7c5db052dab0800000000000000
+      internalID: -4984833063315086167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 14
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbbd89ea61c45070800000000000000
+      internalID: 8094307095220698036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aff9e854e3885bd0800000000000000
+      internalID: -2641216164685283421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 14
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f47b098c1d217e0800000000000000
+      internalID: -1796142642015809715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617d61c9e6fc80250800000000000000
+      internalID: 5911202584895870742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 14
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224664c3f1fb16f30800000000000000
+      internalID: 4567141638006531106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 10
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936bf031869d108d0800000000000000
+      internalID: -2881783245520783815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Advanced 2 Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3ddeb0de138b8c0800000000000000
+      internalID: -3983378976232057884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sonic Advanced 2 Atlas_0: 3132484183985391777
+      Sonic Advanced 2 Atlas_1: 7755532507283107686
+      Sonic Advanced 2 Atlas_10: 7649922597852366379
+      Sonic Advanced 2 Atlas_11: 3336273292131014261
+      Sonic Advanced 2 Atlas_12: 3073562843788363836
+      Sonic Advanced 2 Atlas_13: 7038388898404992466
+      Sonic Advanced 2 Atlas_14: -274353491245504297
+      Sonic Advanced 2 Atlas_15: 2634881479933670945
+      Sonic Advanced 2 Atlas_16: 8378722288489420317
+      Sonic Advanced 2 Atlas_17: -3888941461771806272
+      Sonic Advanced 2 Atlas_18: -8380666690066610603
+      Sonic Advanced 2 Atlas_19: 5362561455727349897
+      Sonic Advanced 2 Atlas_2: 9189307802361678188
+      Sonic Advanced 2 Atlas_20: -5773756484910092528
+      Sonic Advanced 2 Atlas_21: 2360924834786817990
+      Sonic Advanced 2 Atlas_22: -6094393819318427104
+      Sonic Advanced 2 Atlas_23: 2226983455367128368
+      Sonic Advanced 2 Atlas_24: -5912014038845513853
+      Sonic Advanced 2 Atlas_25: -3159428902084671938
+      Sonic Advanced 2 Atlas_26: 966045528318385640
+      Sonic Advanced 2 Atlas_27: 3496001898020951113
+      Sonic Advanced 2 Atlas_28: -1788542017696476581
+      Sonic Advanced 2 Atlas_29: -7405273646280736687
+      Sonic Advanced 2 Atlas_3: 1788317942386550873
+      Sonic Advanced 2 Atlas_30: 9031366643848903169
+      Sonic Advanced 2 Atlas_31: -4917641097553239783
+      Sonic Advanced 2 Atlas_32: 6272749434181850185
+      Sonic Advanced 2 Atlas_33: 779723052918708131
+      Sonic Advanced 2 Atlas_34: 1312041085560654224
+      Sonic Advanced 2 Atlas_35: 4729530048107589208
+      Sonic Advanced 2 Atlas_36: 4399032551043724296
+      Sonic Advanced 2 Atlas_37: 7455452069259413009
+      Sonic Advanced 2 Atlas_38: 1356550787058516843
+      Sonic Advanced 2 Atlas_39: 8260472617730697721
+      Sonic Advanced 2 Atlas_4: 4336006980076463981
+      Sonic Advanced 2 Atlas_40: -9113026633982254948
+      Sonic Advanced 2 Atlas_41: -6021650640411659273
+      Sonic Advanced 2 Atlas_42: 7408519815685078551
+      Sonic Advanced 2 Atlas_43: 7607986185174448074
+      Sonic Advanced 2 Atlas_44: -171626076119196246
+      Sonic Advanced 2 Atlas_45: 7557974913286023677
+      Sonic Advanced 2 Atlas_46: -8221647166041284136
+      Sonic Advanced 2 Atlas_47: 527710827162229718
+      Sonic Advanced 2 Atlas_48: 4659422047166468946
+      Sonic Advanced 2 Atlas_49: -4371224030008730787
+      Sonic Advanced 2 Atlas_5: 3299167622420351512
+      Sonic Advanced 2 Atlas_50: -2260524944459365079
+      Sonic Advanced 2 Atlas_51: 9047312688480324144
+      Sonic Advanced 2 Atlas_52: 8320203829898113102
+      Sonic Advanced 2 Atlas_53: 3051231993407501429
+      Sonic Advanced 2 Atlas_54: 3279816020544734627
+      Sonic Advanced 2 Atlas_55: 2963277121288346732
+      Sonic Advanced 2 Atlas_56: -640440620546518558
+      Sonic Advanced 2 Atlas_57: 6481180061875563988
+      Sonic Advanced 2 Atlas_58: -8091116608850346044
+      Sonic Advanced 2 Atlas_59: -862907236882067240
+      Sonic Advanced 2 Atlas_6: 7573159149778259378
+      Sonic Advanced 2 Atlas_60: 8240039572918893802
+      Sonic Advanced 2 Atlas_61: -2328535338566272515
+      Sonic Advanced 2 Atlas_62: -1860807114081321072
+      Sonic Advanced 2 Atlas_63: 7764908301182184637
+      Sonic Advanced 2 Atlas_64: -6780682950787694333
+      Sonic Advanced 2 Atlas_65: 7194515007201481559
+      Sonic Advanced 2 Atlas_66: -1885415820570539056
+      Sonic Advanced 2 Atlas_67: -6744647901782524913
+      Sonic Advanced 2 Atlas_68: -4842018300073424375
+      Sonic Advanced 2 Atlas_69: 1865809743868515915
+      Sonic Advanced 2 Atlas_7: -2959600770082563226
+      Sonic Advanced 2 Atlas_70: -3423312858420901810
+      Sonic Advanced 2 Atlas_71: -3943700788245110537
+      Sonic Advanced 2 Atlas_72: 3828245840002598318
+      Sonic Advanced 2 Atlas_73: -5143998000979245665
+      Sonic Advanced 2 Atlas_74: -1669121009051429527
+      Sonic Advanced 2 Atlas_75: -5538862176990558454
+      Sonic Advanced 2 Atlas_76: -2857655677601049242
+      Sonic Advanced 2 Atlas_77: -6905804051396208734
+      Sonic Advanced 2 Atlas_78: -6617360320625347839
+      Sonic Advanced 2 Atlas_79: 9101959031243755395
+      Sonic Advanced 2 Atlas_8: -7327678296261453257
+      Sonic Advanced 2 Atlas_80: -70657806192856807
+      Sonic Advanced 2 Atlas_81: -3793040105344369654
+      Sonic Advanced 2 Atlas_82: 6817810768564734050
+      Sonic Advanced 2 Atlas_83: 5414127354637774007
+      Sonic Advanced 2 Atlas_84: -4984833063315086167
+      Sonic Advanced 2 Atlas_85: 8094307095220698036
+      Sonic Advanced 2 Atlas_86: -2641216164685283421
+      Sonic Advanced 2 Atlas_87: -1796142642015809715
+      Sonic Advanced 2 Atlas_88: 5911202584895870742
+      Sonic Advanced 2 Atlas_89: 4567141638006531106
+      Sonic Advanced 2 Atlas_9: -4624736053632716987
+      Sonic Advanced 2 Atlas_90: -2881783245520783815
+      Sonic Advanced 2 Atlas_91: -3983378976232057884
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

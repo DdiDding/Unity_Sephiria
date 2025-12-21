@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<room spawnMonster="true" size="17,18" teleportPoint="8.5,9.5">
+  <mainLayer>
+    <ground>36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36
+36 36 36 26 36 26 36 26 26 26 36 26 36 26 36 36 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36
+36 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 36
+36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36
+36 36 26 26 26 26 26 26 26 26 26 26 26 26 26 36 36
+36 26 26 26 36 26 36 26 26 26 36 26 36 26 26 26 36
+36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36</ground>
+    <upperGround>X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X 27 28 28 29 28 29 113 29 30 29 30 30 31 X X
+X 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 X
+X 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 X
+X 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 X
+X X 112 112 112 29 112 29 112 29 112 29 112 112 112 X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X</upperGround>
+    <wall>15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15
+15 17 15 18 15 18 15 X X X 15 18 15 19 15 17 15
+15 X X X X X X X X X X X X X X X 15
+15 X X X X X X X X X X X X X X X 15
+15 15 X X X X X X X X X X X X X 15 15
+15 19 X X X X X X X X X X X X X 19 15
+15 15 X X X X X X X X X X X X X 15 15
+15 X X X X X X X X X X X X X X X 15
+15 X X X X X X X X X X X X X X X 15
+15 X X X X X X X X X X X X X X X 15
+15 15 X X X X X X X X X X X X X 15 15
+15 19 X X X X X X X X X X X X X 19 15
+15 15 X X X X X X X X X X X X X 15 15
+15 19 X X X X X X X X X X X X X 19 15
+15 15 X X X X X X X X X X X X X 15 15
+15 17 X X X X X X X X X X X X X 17 15
+15 X X X 15 X 15 X X X 15 X 15 X X X 15
+15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15</wall>
+    <cliff>X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X</cliff>
+    <props>
+      <Library-LampBig position="4.5625,16.4375" localScale="1,1,1" />
+      <Library-LampBig position="12.5625,16.5" localScale="1,1,1" />
+      <Library-LampBig position="4.5625,3.8125" localScale="1,1,1" />
+      <Library-LampBig position="12.5625,3.8125" localScale="1,1,1" />
+      <Barrel00 position="2.875,5.75" localScale="1,1,1" />
+      <Barrel00 position="2.9375,6.4375" localScale="1,1,1" />
+      <Box00 position="3.75,5.4375" localScale="1,1,1" />
+      <Box01 position="3.75,6.25" localScale="1,1,1" />
+      <Box01 position="3.8125,7.3125" localScale="1,1,1" />
+      <Library-Book002 position="9.3125,11.75" localScale="1,1,1" />
+      <Library-Ladder position="6.4375,16.4375" localScale="1,1,1" />
+      <Library-Pot position="2.8125,12.625" localScale="1,1,1" />
+      <Library-Pot position="14.3125,6.6875" localScale="1,1,1" />
+      <Torch-Stand position="10.5625,15.5" localScale="1,1,1" />
+      <Torch-Stand position="2.5625,11.4375" localScale="1,1,1" />
+      <Torch-Stand position="14.25,7.5" localScale="1,1,1" />
+      <Library-Godray0 position="9.6875,10.875" localScale="1,1,1" />
+    </props>
+  </mainLayer>
+  <passagepoints>
+    <passagepoint position="8,17" dir="0" />
+    <passagepoint position="7,0" dir="2" />
+    <passagepoint position="0,10" dir="3" />
+    <passagepoint position="16,10" dir="1" />
+  </passagepoints>
+</room>
