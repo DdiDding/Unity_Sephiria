@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: ebf5410af3e0abc4b83653d964adfcc9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2109771517967053402
+    second: PrologueRole-Tree116_0
+  - first:
+      213: 8833126599876024211
+    second: PrologueRole-Tree116_1
+  - first:
+      213: 2135818950683382349
+    second: PrologueRole-Tree116_2
+  - first:
+      213: -8583564146996096257
+    second: PrologueRole-Tree116_3
+  - first:
+      213: -8291576224060671097
+    second: PrologueRole-Tree116_4
+  - first:
+      213: -4892707590193889850
+    second: PrologueRole-Tree116_5
+  - first:
+      213: 3646636291832443395
+    second: PrologueRole-Tree116_6
+  - first:
+      213: -4225320165516017807
+    second: PrologueRole-Tree116_7
+  - first:
+      213: 2847119970982631448
+    second: PrologueRole-Tree116_8
+  - first:
+      213: -1784744296279062787
+    second: PrologueRole-Tree116_9
+  - first:
+      213: -294635330179618457
+    second: PrologueRole-Tree116_10
+  - first:
+      213: -2109547024014636490
+    second: PrologueRole-Tree116_11
+  - first:
+      213: 900731694470827417
+    second: PrologueRole-Tree116_12
+  - first:
+      213: -3888720961615370378
+    second: PrologueRole-Tree116_13
+  - first:
+      213: -5497382286647071390
+    second: PrologueRole-Tree116_14
+  - first:
+      213: -6281316358898369982
+    second: PrologueRole-Tree116_15
+  - first:
+      213: 2537839945384294269
+    second: PrologueRole-Tree116_16
+  - first:
+      213: -1926922547912048389
+    second: PrologueRole-Tree116_17
+  - first:
+      213: -1441862003818287879
+    second: PrologueRole-Tree116_18
+  - first:
+      213: -4445782009043246523
+    second: PrologueRole-Tree116_19
+  - first:
+      213: -98553490942560591
+    second: PrologueRole-Tree116_20
+  - first:
+      213: -8629225904817724404
+    second: PrologueRole-Tree116_21
+  - first:
+      213: -3101028720648658218
+    second: PrologueRole-Tree116_22
+  - first:
+      213: 2751042350705254417
+    second: PrologueRole-Tree116_23
+  - first:
+      213: 3388890840533189171
+    second: PrologueRole-Tree116_24
+  - first:
+      213: 3606636603932658847
+    second: PrologueRole-Tree116_25
+  - first:
+      213: 8967752418132325626
+    second: PrologueRole-Tree116_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_0
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 177
+        width: 7
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad46528bf598b2e0800000000000000
+      internalID: -2109771517967053402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 212
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3971aa9b7d1959a70800000000000000
+      internalID: 8833126599876024211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 200
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42d7040504f3ad10800000000000000
+      internalID: 2135818950683382349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 237
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2d48fc2ed01e880800000000000000
+      internalID: -8583564146996096257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 177
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bf9c8da576eec80800000000000000
+      internalID: -8291576224060671097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 140
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdb2a09e5c991cb0800000000000000
+      internalID: -4892707590193889850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 140
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30278bff2647b9230800000000000000
+      internalID: 3646636291832443395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 140
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f7f1832b5ac55c0800000000000000
+      internalID: -4225320165516017807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_8
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 124
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81817576780038720800000000000000
+      internalID: 2847119970982631448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 124
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6c16db4805b37e0800000000000000
+      internalID: -1784744296279062787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 124
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7692d5e6abe39ebf0800000000000000
+      internalID: -294635330179618457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_11
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 130
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a00a4982269b2e0800000000000000
+      internalID: -2109547024014636490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_12
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 111
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d8ede24ba008c00800000000000000
+      internalID: 900731694470827417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 110
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677ec4483ec780ac0800000000000000
+      internalID: -3888720961615370378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 98
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d60e9cfef55b3b0800000000000000
+      internalID: -5497382286647071390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_15
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 98
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a330a2d0844d8a0800000000000000
+      internalID: -6281316358898369982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_16
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 98
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d777d69fbf7383320800000000000000
+      internalID: 2537839945384294269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 155
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf00306e6223245e0800000000000000
+      internalID: -1926922547912048389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc2747952a7dfbe0800000000000000
+      internalID: -1441862003818287879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542a72a41d86d42c0800000000000000
+      internalID: -4445782009043246523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_20
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 43
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b67ef44f1ed1aef0800000000000000
+      internalID: -98553490942560591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 43
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04adb852c4de3880800000000000000
+      internalID: -8629225904817724404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2e37bfecee6f4d0800000000000000
+      internalID: -3101028720648658218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110a7db317aad2620800000000000000
+      internalID: 2751042350705254417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3324e8ca342c70f20800000000000000
+      internalID: 3388890840533189171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_25
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cc35be1e85d0230800000000000000
+      internalID: 3606636603932658847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrologueRole-Tree116_26
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af47d64af4bd37c70800000000000000
+      internalID: 8967752418132325626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PrologueRole-Tree116_0: -2109771517967053402
+      PrologueRole-Tree116_1: 8833126599876024211
+      PrologueRole-Tree116_10: -294635330179618457
+      PrologueRole-Tree116_11: -2109547024014636490
+      PrologueRole-Tree116_12: 900731694470827417
+      PrologueRole-Tree116_13: -3888720961615370378
+      PrologueRole-Tree116_14: -5497382286647071390
+      PrologueRole-Tree116_15: -6281316358898369982
+      PrologueRole-Tree116_16: 2537839945384294269
+      PrologueRole-Tree116_17: -1926922547912048389
+      PrologueRole-Tree116_18: -1441862003818287879
+      PrologueRole-Tree116_19: -4445782009043246523
+      PrologueRole-Tree116_2: 2135818950683382349
+      PrologueRole-Tree116_20: -98553490942560591
+      PrologueRole-Tree116_21: -8629225904817724404
+      PrologueRole-Tree116_22: -3101028720648658218
+      PrologueRole-Tree116_23: 2751042350705254417
+      PrologueRole-Tree116_24: 3388890840533189171
+      PrologueRole-Tree116_25: 3606636603932658847
+      PrologueRole-Tree116_26: 8967752418132325626
+      PrologueRole-Tree116_3: -8583564146996096257
+      PrologueRole-Tree116_4: -8291576224060671097
+      PrologueRole-Tree116_5: -4892707590193889850
+      PrologueRole-Tree116_6: 3646636291832443395
+      PrologueRole-Tree116_7: -4225320165516017807
+      PrologueRole-Tree116_8: 2847119970982631448
+      PrologueRole-Tree116_9: -1784744296279062787
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

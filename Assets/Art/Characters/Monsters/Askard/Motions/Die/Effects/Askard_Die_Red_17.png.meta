@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 410aa32c129538843b330602a86ac2e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1017739567333417197
+    second: Askard_Die_Red_17_0
+  - first:
+      213: -8353928730020097922
+    second: Askard_Die_Red_17_1
+  - first:
+      213: 529904096285824299
+    second: Askard_Die_Red_17_2
+  - first:
+      213: -8839769286308849247
+    second: Askard_Die_Red_17_3
+  - first:
+      213: -2593465333403741040
+    second: Askard_Die_Red_17_4
+  - first:
+      213: -5715918173535669638
+    second: Askard_Die_Red_17_5
+  - first:
+      213: 6995653454657173779
+    second: Askard_Die_Red_17_6
+  - first:
+      213: 3935272803428318474
+    second: Askard_Die_Red_17_7
+  - first:
+      213: 354298305053903042
+    second: Askard_Die_Red_17_8
+  - first:
+      213: 6910415846292501008
+    second: Askard_Die_Red_17_9
+  - first:
+      213: -8510901584628813116
+    second: Askard_Die_Red_17_10
+  - first:
+      213: -7540316705139705070
+    second: Askard_Die_Red_17_11
+  - first:
+      213: 503433035910327336
+    second: Askard_Die_Red_17_12
+  - first:
+      213: 7566542415149665467
+    second: Askard_Die_Red_17_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Askard_Die_Red_17_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 103
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0a4c88ebcbf1e00800000000000000
+      internalID: 1017739567333417197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Die_Red_17_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 88
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70d830c412e01c80800000000000000
+      internalID: -8353928730020097922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Die_Red_17_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 71
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b251420d7f89a5700800000000000000
+      internalID: 529904096285824299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Die_Red_17_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 55
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a917215ba4d25580800000000000000
+      internalID: -8839769286308849247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Die_Red_17_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0941e212509220cd0800000000000000
+      internalID: -2593465333403741040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Die_Red_17_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 47
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72f43594bafca0b0800000000000000
+      internalID: -5715918173535669638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Die_Red_17_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 33
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3193390a0cd851160800000000000000
+      internalID: 6995653454657173779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Die_Red_17_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 33
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0db996c3c5ec9630800000000000000
+      internalID: 3935272803428318474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Die_Red_17_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 35
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8c2496e68bae400800000000000000
+      internalID: 354298305053903042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Die_Red_17_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 24
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012be78699ab6ef50800000000000000
+      internalID: 6910415846292501008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Die_Red_17_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 28
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2f3e9f91433e980800000000000000
+      internalID: -8510901584628813116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Die_Red_17_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b343038e96b5790800000000000000
+      internalID: -7540316705139705070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Die_Red_17_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 7
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ca1a9cdad8cf600800000000000000
+      internalID: 503433035910327336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Askard_Die_Red_17_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc0ce0cc32c10960800000000000000
+      internalID: 7566542415149665467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Askard_Die_Red_17_0: 1017739567333417197
+      Askard_Die_Red_17_1: -8353928730020097922
+      Askard_Die_Red_17_10: -8510901584628813116
+      Askard_Die_Red_17_11: -7540316705139705070
+      Askard_Die_Red_17_12: 503433035910327336
+      Askard_Die_Red_17_13: 7566542415149665467
+      Askard_Die_Red_17_2: 529904096285824299
+      Askard_Die_Red_17_3: -8839769286308849247
+      Askard_Die_Red_17_4: -2593465333403741040
+      Askard_Die_Red_17_5: -5715918173535669638
+      Askard_Die_Red_17_6: 6995653454657173779
+      Askard_Die_Red_17_7: 3935272803428318474
+      Askard_Die_Red_17_8: 354298305053903042
+      Askard_Die_Red_17_9: 6910415846292501008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 941122e004dc4a040bc4bfcb3db52e75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6524097843319881206
+    second: BabaMerchant_Attack_ChargeSwing_FX06_0
+  - first:
+      213: 2213857383781644241
+    second: BabaMerchant_Attack_ChargeSwing_FX06_1
+  - first:
+      213: 3953567279940924716
+    second: BabaMerchant_Attack_ChargeSwing_FX06_2
+  - first:
+      213: 8608310449610372642
+    second: BabaMerchant_Attack_ChargeSwing_FX06_3
+  - first:
+      213: 6432875346441099662
+    second: BabaMerchant_Attack_ChargeSwing_FX06_4
+  - first:
+      213: 7521241507858146976
+    second: BabaMerchant_Attack_ChargeSwing_FX06_5
+  - first:
+      213: -5232389167418556851
+    second: BabaMerchant_Attack_ChargeSwing_FX06_6
+  - first:
+      213: -6077696621243338517
+    second: BabaMerchant_Attack_ChargeSwing_FX06_7
+  - first:
+      213: -2304541267383535395
+    second: BabaMerchant_Attack_ChargeSwing_FX06_8
+  - first:
+      213: 3675375652458266678
+    second: BabaMerchant_Attack_ChargeSwing_FX06_9
+  - first:
+      213: 7381943989909687880
+    second: BabaMerchant_Attack_ChargeSwing_FX06_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_ChargeSwing_FX06_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd39fe1c604a8a50800000000000000
+      internalID: 6524097843319881206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_ChargeSwing_FX06_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d73eaf9f8339be10800000000000000
+      internalID: 2213857383781644241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_ChargeSwing_FX06_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c257c748e74edd630800000000000000
+      internalID: 3953567279940924716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_ChargeSwing_FX06_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2263f41cebcd67770800000000000000
+      internalID: 8608310449610372642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_ChargeSwing_FX06_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e895df47b0a264950800000000000000
+      internalID: 6432875346441099662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_ChargeSwing_FX06_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6eec95d41d06860800000000000000
+      internalID: 7521241507858146976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_ChargeSwing_FX06_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e3a6d46c1d267b0800000000000000
+      internalID: -5232389167418556851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_ChargeSwing_FX06_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0f23ebf1fa7aba0800000000000000
+      internalID: -6077696621243338517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_ChargeSwing_FX06_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd830636def9400e0800000000000000
+      internalID: -2304541267383535395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_ChargeSwing_FX06_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63005e4deae810330800000000000000
+      internalID: 3675375652458266678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabaMerchant_Attack_ChargeSwing_FX06_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e856692fee17660800000000000000
+      internalID: 7381943989909687880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BabaMerchant_Attack_ChargeSwing_FX06_0: 6524097843319881206
+      BabaMerchant_Attack_ChargeSwing_FX06_1: 2213857383781644241
+      BabaMerchant_Attack_ChargeSwing_FX06_10: 7381943989909687880
+      BabaMerchant_Attack_ChargeSwing_FX06_2: 3953567279940924716
+      BabaMerchant_Attack_ChargeSwing_FX06_3: 8608310449610372642
+      BabaMerchant_Attack_ChargeSwing_FX06_4: 6432875346441099662
+      BabaMerchant_Attack_ChargeSwing_FX06_5: 7521241507858146976
+      BabaMerchant_Attack_ChargeSwing_FX06_6: -5232389167418556851
+      BabaMerchant_Attack_ChargeSwing_FX06_7: -6077696621243338517
+      BabaMerchant_Attack_ChargeSwing_FX06_8: -2304541267383535395
+      BabaMerchant_Attack_ChargeSwing_FX06_9: 3675375652458266678
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
