@@ -24,7 +24,10 @@ namespace UnityGameFramework.Runtime
 
         internal static readonly float DefaultWindowScale = 1f;
 
-        private static readonly TextEditor s_TextEditor = new TextEditor();
+        // 오류 발생 : get_font is not allowed to be called from a MonoBehaviour constructor 
+        // 해결: 기존 클래스 로드 시점 실행에서 Awake 이후에 생성
+        private static TextEditor s_TextEditor;
+
         private IDebuggerManager mDebuggerManager = null;
         private Rect mDragRect = new Rect(0f, 0f, float.MaxValue, 25f);
         private Rect mIconRect = DefaultIconRect;
@@ -142,6 +145,11 @@ namespace UnityGameFramework.Runtime
         protected override void Awake()
         {
             base.Awake();
+
+            if (s_TextEditor == null)
+            {
+                s_TextEditor = new TextEditor();
+            }
 
             mDebuggerManager = GameFrameworkEntry.GetModule<IDebuggerManager>();
             if (mDebuggerManager == null)
