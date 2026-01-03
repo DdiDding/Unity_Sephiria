@@ -1,10 +1,12 @@
 using GameFramework.Resource;
 using UnityEditor;
 using UnityEngine;
+using UnityEngine.Tilemaps;
 using UnityGameFramework.Runtime;
 
 public class LoadMap : MonoBehaviour
 {
+    public TileBase tt;
     public bool IsLoadComplete { get; private set; } = false;
 
     public void LoadStage()
@@ -32,7 +34,25 @@ public class LoadMap : MonoBehaviour
                     return;
                 }
 
-                Debug.Log($"Map '{assetName}' loaded in {duration} seconds");
+                // 모든 줄 가져오기
+                string[] lines = txt.text.Split('\n');
+
+                // 최대 3줄까지 처리
+                int rowCount = Mathf.Min(3, lines.Length);
+
+                // 각 줄을 char 배열로 변환하여 2D 배열에 저장
+                char[][] mapRows = new char[rowCount][];
+                for (int y = 0; y < rowCount; y++)
+                {
+                    mapRows[y] = lines[y].Trim().ToCharArray();
+                }
+
+                // 확인용 출력
+                for (int y = 0; y < rowCount; y++)
+                {
+                    string lineStr = new string(mapRows[y]);
+                    Debug.Log($"Row {y}: {lineStr}");
+                }
             },
             // 실패 콜백
             (assetName, status, errorMessage, userData) =>
