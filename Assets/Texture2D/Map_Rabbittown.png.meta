@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 43fae11b26cf1d541b05adb834e9ed63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7825260518976295108
+    second: Map_Rabbittown_0
+  - first:
+      213: -2862266833901816167
+    second: Map_Rabbittown_1
+  - first:
+      213: -5197821845457472963
+    second: Map_Rabbittown_2
+  - first:
+      213: -8700562424347303899
+    second: Map_Rabbittown_3
+  - first:
+      213: 5272978086137651849
+    second: Map_Rabbittown_4
+  - first:
+      213: -7757773804159565358
+    second: Map_Rabbittown_5
+  - first:
+      213: 6105315284514643559
+    second: Map_Rabbittown_6
+  - first:
+      213: 6118952205153393972
+    second: Map_Rabbittown_7
+  - first:
+      213: 8094920779802705080
+    second: Map_Rabbittown_8
+  - first:
+      213: 6844385705402550608
+    second: Map_Rabbittown_9
+  - first:
+      213: 1305481744302951430
+    second: Map_Rabbittown_10
+  - first:
+      213: -5730367763122406917
+    second: Map_Rabbittown_11
+  - first:
+      213: -5482517624971167419
+    second: Map_Rabbittown_12
+  - first:
+      213: -8264155014538310350
+    second: Map_Rabbittown_13
+  - first:
+      213: -2739274863261595481
+    second: Map_Rabbittown_14
+  - first:
+      213: 8103910598458114250
+    second: Map_Rabbittown_15
+  - first:
+      213: -144394077859784122
+    second: Map_Rabbittown_16
+  - first:
+      213: -6610745862768255013
+    second: Map_Rabbittown_17
+  - first:
+      213: 4401406362392107725
+    second: Map_Rabbittown_18
+  - first:
+      213: -4683295880273631325
+    second: Map_Rabbittown_19
+  - first:
+      213: -7789900915765460400
+    second: Map_Rabbittown_20
+  - first:
+      213: 2854341392870871740
+    second: Map_Rabbittown_21
+  - first:
+      213: 3774251996792671844
+    second: Map_Rabbittown_22
+  - first:
+      213: 3484870526275022500
+    second: Map_Rabbittown_23
+  - first:
+      213: -6250776337693715324
+    second: Map_Rabbittown_24
+  - first:
+      213: 8582364407719601950
+    second: Map_Rabbittown_25
+  - first:
+      213: -5941005953834011700
+    second: Map_Rabbittown_26
+  - first:
+      213: 1876062379224081806
+    second: Map_Rabbittown_27
+  - first:
+      213: -4134710331530355165
+    second: Map_Rabbittown_28
+  - first:
+      213: -590699225095667807
+    second: Map_Rabbittown_29
+  - first:
+      213: 2868501872086071017
+    second: Map_Rabbittown_30
+  - first:
+      213: 1969607303758104753
+    second: Map_Rabbittown_31
+  - first:
+      213: -4262198874812840805
+    second: Map_Rabbittown_32
+  - first:
+      213: 3678787588165110299
+    second: Map_Rabbittown_33
+  - first:
+      213: 2886832392364435100
+    second: Map_Rabbittown_34
+  - first:
+      213: -166963343108207257
+    second: Map_Rabbittown_35
+  - first:
+      213: 1476603281283378066
+    second: Map_Rabbittown_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Map_Rabbittown_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 132
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c098746bf8e89c60800000000000000
+      internalID: 7825260518976295108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 153
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99676e0ca7f2748d0800000000000000
+      internalID: -2862266833901816167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 168
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32fdbf1290add7b0800000000000000
+      internalID: -5197821845457472963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 147
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520eaa69294614780800000000000000
+      internalID: -8700562424347303899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 111
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98267a4c1a16d2940800000000000000
+      internalID: 5272978086137651849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 109
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d10d3bd3d9d65490800000000000000
+      internalID: -7757773804159565358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e124767ef6ab450800000000000000
+      internalID: 6105315284514643559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 105
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dd2c96c92eae450800000000000000
+      internalID: 6118952205153393972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 117
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc711d7f8fe65070800000000000000
+      internalID: 8094920779802705080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 82
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059c74439842cfe50800000000000000
+      internalID: 6844385705402550608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c4fedcab00e1210800000000000000
+      internalID: 1305481744302951430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 93
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf93db651e4a970b0800000000000000
+      internalID: -5730367763122406917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 105
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54976c8844f2ae3b0800000000000000
+      internalID: -5482517624971167419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 89
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d4ea5bcc2df4d80800000000000000
+      internalID: -8264155014538310350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 87
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8c22176042cf9d0800000000000000
+      internalID: -2739274863261595481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 85
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac08e90c0cfd67070800000000000000
+      internalID: 8103910598458114250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 79
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a5f79e9520ffdf0800000000000000
+      internalID: -144394077859784122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 77
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf905db9a9e144a0800000000000000
+      internalID: -6610745862768255013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca968654cfe41d30800000000000000
+      internalID: 4401406362392107725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 87
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a76d36c537910fb0800000000000000
+      internalID: -4683295880273631325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_20
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 68
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0524f48c366b4e390800000000000000
+      internalID: -7789900915765460400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_21
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 85
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb213c5bf58ac9720800000000000000
+      internalID: 2854341392870871740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 57
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ec2a9b136d06430800000000000000
+      internalID: 3774251996792671844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_23
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 59
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aee9dea74fbc5030800000000000000
+      internalID: 3484870526275022500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_24
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 47
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4845955f908c049a0800000000000000
+      internalID: -6250776337693715324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 51
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17251f15feaa1770800000000000000
+      internalID: 8582364407719601950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 64
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc33e31df8e4d8da0800000000000000
+      internalID: -5941005953834011700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_27
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 50
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85202a4bcc190a10800000000000000
+      internalID: 1876062379224081806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_28
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 53
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32edeff2cde8e96c0800000000000000
+      internalID: -4134710331530355165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 22
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aff2173f2a6dc7f0800000000000000
+      internalID: -590699225095667807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6bb333147fec720800000000000000
+      internalID: 2868501872086071017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 31
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b844874863755b10800000000000000
+      internalID: 1969607303758104753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_32
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9406b894b0a9d4c0800000000000000
+      internalID: -4262198874812840805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_33
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 12
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a82b402ddad0330800000000000000
+      internalID: 3678787588165110299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9629f804c6101820800000000000000
+      internalID: 2886832392364435100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d068b59b3deadf0800000000000000
+      internalID: -166963343108207257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Rabbittown_36
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b62176cd2fd7410800000000000000
+      internalID: 1476603281283378066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Map_Rabbittown_0: 7825260518976295108
+      Map_Rabbittown_1: -2862266833901816167
+      Map_Rabbittown_10: 1305481744302951430
+      Map_Rabbittown_11: -5730367763122406917
+      Map_Rabbittown_12: -5482517624971167419
+      Map_Rabbittown_13: -8264155014538310350
+      Map_Rabbittown_14: -2739274863261595481
+      Map_Rabbittown_15: 8103910598458114250
+      Map_Rabbittown_16: -144394077859784122
+      Map_Rabbittown_17: -6610745862768255013
+      Map_Rabbittown_18: 4401406362392107725
+      Map_Rabbittown_19: -4683295880273631325
+      Map_Rabbittown_2: -5197821845457472963
+      Map_Rabbittown_20: -7789900915765460400
+      Map_Rabbittown_21: 2854341392870871740
+      Map_Rabbittown_22: 3774251996792671844
+      Map_Rabbittown_23: 3484870526275022500
+      Map_Rabbittown_24: -6250776337693715324
+      Map_Rabbittown_25: 8582364407719601950
+      Map_Rabbittown_26: -5941005953834011700
+      Map_Rabbittown_27: 1876062379224081806
+      Map_Rabbittown_28: -4134710331530355165
+      Map_Rabbittown_29: -590699225095667807
+      Map_Rabbittown_3: -8700562424347303899
+      Map_Rabbittown_30: 2868501872086071017
+      Map_Rabbittown_31: 1969607303758104753
+      Map_Rabbittown_32: -4262198874812840805
+      Map_Rabbittown_33: 3678787588165110299
+      Map_Rabbittown_34: 2886832392364435100
+      Map_Rabbittown_35: -166963343108207257
+      Map_Rabbittown_36: 1476603281283378066
+      Map_Rabbittown_4: 5272978086137651849
+      Map_Rabbittown_5: -7757773804159565358
+      Map_Rabbittown_6: 6105315284514643559
+      Map_Rabbittown_7: 6118952205153393972
+      Map_Rabbittown_8: 8094920779802705080
+      Map_Rabbittown_9: 6844385705402550608
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
