@@ -58,10 +58,14 @@ namespace UnityGameFramework.Runtime
             transform.localScale = Vector3.one;
 
             mFileSystemManager.SetFileSystemHelper(fileSystemHelper);
+
+
+            CreateFileSystem("Main.fs", FileSystemAccess.ReadWrite, 1024, 4096);
         }
 
         private void Start()
         {
+
         }
 
         public bool HasFileSystem(string fullPath)
