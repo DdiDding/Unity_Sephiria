@@ -18,20 +18,26 @@ public class LoadMap : MonoBehaviour
         public string[] ground;
         public string[] upperGround;
     }
-    MapData testMapp;
+    MapData mapData;
 
     void ParseMap(TextAsset textAsset)
     {
+        // 텍스트 파일 파싱
         XmlDocument xmlDoc = new XmlDocument();
         xmlDoc.LoadXml(textAsset.text);
-        XmlNode roomNode = xmlDoc.SelectSingleNode("//room");
-        testMapp.SpawnMonster = bool.Parse(roomNode.Attributes["spawnMonster"].Value);
-        Debug.Log($"SpawnMonster: {testMapp.SpawnMonster}");
 
+        // Room node
+        XmlNode roomNode = xmlDoc.SelectSingleNode("//room");
+        mapData.SpawnMonster = bool.Parse(roomNode.Attributes["spawnMonster"].Value);
+        Debug.Log($"SpawnMonster: {mapData.SpawnMonster}");
+
+        // Main Layer
         XmlNode groundNode = xmlDoc.SelectSingleNode("//ground");
         string gtile = groundNode.InnerText;
-        Debug.Log($"Ground Data \n {gtile}");
 
+        string[] gtileSplit = gtile.Split('\n', StringSplitOptions.RemoveEmptyEntries);
+
+        int a = 3;
         //XmlNode upperNode = xmlDoc.SelectSingleNode("//upperGround");
         //Debug.Log($"Upper size: {upperTiles.GetLength(0)}x{upperTiles.GetLength(1)}");
     }
@@ -39,17 +45,22 @@ public class LoadMap : MonoBehaviour
     public void LoadStage()
     {
 
+        // 가져올 경로
         string path = "Assets/Resources/Rooms/Test_Moleland.txt";
 
-
         // ResourceComponent 가져오기
-        var resource = GameEntry.GetComponent<ResourceComponent>();
-        if (resource == null)
+        ResourceComponent resource;
         {
-            int a = 3;
+            resource = GameEntry.GetComponent<ResourceComponent>();
+            if (resource == null)
+            {
+                int a = 3;
+                return;
+            }
         }
 
-        // 콜백 정의
+
+        // LoadAsset의 콜백 정의
         LoadAssetCallbacks callbacks = new LoadAssetCallbacks(
             // 성공 콜백
             (assetName, asset, duration, userData) =>
@@ -60,34 +71,11 @@ public class LoadMap : MonoBehaviour
                     Debug.LogError($"Asset '{assetName}' is not TextAsset!");
                     return;
                 }
-
+                
                 string[] entries = txt.text.Split(new char[] { '<', '>' }, StringSplitOptions.RemoveEmptyEntries);
 
-
-                // 임시 Debug 코드
-                {
-                    ParseMap(txt);
-
-                    // 모든 줄 가져오기
-                    string[] lines = txt.text.Split('\n');
-
-                    // 최대 3줄까지 처리
-                    int rowCount = Mathf.Min(3, lines.Length);
-
-                    // 각 줄을 char 배열로 변환하여 2D 배열에 저장
-                    char[][] mapRows = new char[rowCount][];
-                    for (int y = 0; y < rowCount; y++)
-                    {
-                        mapRows[y] = lines[y].Trim().ToCharArray();
-                    }
-
-                    // 확인용 출력
-                    for (int y = 0; y < rowCount; y++)
-                    {
-                        string lineStr = new string(mapRows[y]);
-                        Debug.Log($"Row {y}: {lineStr}");
-                    }
-                }
+                // 불러온 텍스트 파일을 파싱
+                ParseMap(txt);
             },
             // 실패 콜백
             (assetName, status, errorMessage, userData) =>
