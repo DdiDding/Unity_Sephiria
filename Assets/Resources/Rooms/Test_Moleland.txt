@@ -1,63 +1,62 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<room spawnMonster="true" monsterDensity="1" teleportPoint="13.5,9.5" type="0" passages="11110000" tag="">
-  <customSpawnArea lb="5,4" rt="21,14" />
+<room spawnMonster="true" monsterDensity="1" teleportPoint="13,9" type="0" passages="01010000" tag="">
   <mainLayer>
     <ground>X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X 114 114 114 X X X 114 114 114 114 X X X X 114 114 X X X X 
-X X X X X 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 X X X 
-X X 114 X 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 X X 
-X X 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 X X 
-X X X X X 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 X X 
-X X X X 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 X X 
-X X X X 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 X X 
-X X 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 X X 
-X X 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 X X 
-X X 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 X X 
-X X X 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 X X X 
-X X X 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 X X X 
-X X X 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 114 X X X X X X 
-X X 114 114 X X X X 114 114 114 114 114 114 114 114 114 114 114 114 X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X 0 0 0 0 0 0 0 0 0 0 0 0 0 0 X X X X X X 
+X X X X X X 0 0 0 0 0 0 0 0 0 0 0 0 0 0 X X X X X X 
+X X X X X X 0 0 0 0 0 0 0 0 0 0 0 0 0 0 X X X X X X 
+X X X X X X 0 0 0 0 0 0 0 0 0 0 0 0 0 0 X X X X X X 
+X X X X X X 0 0 0 0 0 0 0 0 0 0 0 0 0 0 X X X X X X 
+X X X X X X 0 0 0 0 0 0 0 0 0 0 0 0 0 0 X X X X X X 
+X X X X X X 0 0 0 0 0 0 0 0 0 0 0 0 0 0 X X X X X X 
+X X X X X X 0 0 0 0 0 0 0 0 0 0 0 0 0 0 X X X X X X 
+X X X X X X 0 0 0 0 0 0 0 0 0 0 0 0 0 0 X X X X X X 
+X X X X X X 0 0 0 0 0 0 0 0 0 0 0 0 0 0 X X X X X X 
+X X X X X X 0 0 0 0 0 0 0 0 0 0 0 0 0 0 X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 </ground>
     <upperGround>X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X 115 115 115 X X X X X X X X X X X 117 117 X X X X 
-X X X X X 115 115 115 115 115 115 X X X X X X X 117 117 117 117 117 X X X 
-X X 115 X 115 115 115 115 115 X X X X X X X X X X 117 117 117 117 X X X 
-X X 115 115 115 115 115 X X 117 X X X X X X X X X X 117 X 117 117 X X 
-X X X X X 115 X X 117 117 117 117 X X X X X X X X X X X X X X 
-X X X X X X X 117 117 117 117 X X X X X X X X X X X X X X X 
-X X X X X X 117 117 117 117 X X X X X X 117 117 X X X X X X X X 
-X X X X X 117 117 117 117 X 117 X X X X X X 117 117 X X X X X X X 
-X X X X X X X X X X X X X X X X X 117 X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X 117 117 X X X X X X X X X X 117 117 117 X X X X X X X X 
-X X X 117 117 117 X X X X X X X X 117 117 117 117 117 X X X X X X X 
-X X X 117 117 X X X X X X X X 117 117 117 117 X X X X X X X X X 
-X X 117 117 X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X 8 8 8 8 X X X X X X X X X X X X X X X X 
+X X X X X X 8 8 8 X X X X X X X X X X X X X X X X X 
+X X X X X X X 8 8 8 9 X X X X X X X X X X X X X X X 
+X X X X X X X X X 8 9 9 X X X X X X X X X X X X X X 
+X X X X X X X X X X X 9 9 9 9 X X X 9 9 X X X X X X 
+X X X X X X X X X X X 9 9 9 X X X X 9 X X X X X X X 
+X X X X X X X X X X X X 9 9 X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X 11 11 X X X X X X X X 
+X X X X X X X X X X X X X X X 11 11 11 X 11 X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 </upperGround>
-    <wall>29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 
-29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 
-29 29 29 29 29 29 X X X 29 29 29 X X X X 29 29 29 29 X X 29 29 29 29 
-29 29 29 29 29 X X X X X X X X X X X X X X X X X X 29 29 29 
-29 29 X 29 X X X X X X X X X X X X X X X X X X X X 29 29 
-29 29 X X X X X X X X X X X X X X X X X X X X X X 29 29 
-29 29 29 29 29 X X X X X X X X X X X X X X X X X X X 29 29 
-29 29 29 29 X X X X X X X X X X X X X X X X X X X X 29 29 
-29 29 29 29 X X X X X X X X X X X X X X X X X X X X 29 29 
-29 29 X X X X X X X X X X X X X X X X X X X X X X 29 29 
-29 29 X X X X X X X X X X X X X X X X X X X X X X 29 29 
-29 29 X X X X X X X X X X X X X X X X X X X X X X 29 29 
-29 29 29 X X X X X X X X X X X X X X X X X X X X 29 29 29 
-29 29 29 X X X X X X X X X X X X X X X X X X X X 29 29 29 
-29 29 29 X X X X X X X X X X X X X X X X X 29 29 29 29 29 29 
-29 29 X X 29 29 29 29 X X X X X X X X X X X X 29 29 29 29 29 29 
-29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 
-29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 29 
+    <wall>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 14 0 12 0 0 14 0 0 13 0 0 14 0 0 0 0 0 0 0 
+0 0 0 0 0 0 X X X X X X X X X X X X X X 0 0 0 0 0 0 
+0 0 0 0 0 0 X X X X X X X X X X X X X X 0 0 0 0 0 0 
+0 0 0 0 0 0 X X X X X X X X X X X X X X 0 0 0 0 0 0 
+0 0 0 0 0 0 X X X X X X X X X X X X X X 0 0 0 0 0 0 
+0 0 0 0 0 0 X X X X X X X X X X X X X X 0 0 0 0 0 0 
+0 0 0 0 0 0 X X X X X X X X X X X X X X 0 0 0 0 0 0 
+0 0 0 0 0 0 X X X X X X X X X X X X X X 0 0 0 0 0 0 
+0 0 0 0 0 0 X X X X X X X X X X X X X X 0 0 0 0 0 0 
+0 0 0 0 0 0 X X X X X X X X X X X X X X 0 0 0 0 0 0 
+0 0 0 0 0 0 X X X X X X X X X X X X X X 0 0 0 0 0 0 
+0 0 0 0 0 0 X X X X X X X X X X X X X X 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
 </wall>
     <cliff>X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
@@ -79,27 +78,37 @@ X X X X X X X X X X X X X X X X X X X X X X X X X X
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 </cliff>
     <props>
-      <DeepCaveGround_0 position="16.25,9.375" localScale="1,1,1" />
-      <DeepCaveGround_1 position="4.6875,6.625" localScale="1,1,1" />
-      <DeepCaveRoot_0 position="14.28125,7.1875" localScale="1,1,1" />
-      <DeepCaveRoot_1 position="19.1875,3.5625" localScale="1,1,1" />
-      <DeepCaveGround_4 position="22.6875,8.1875" localScale="1,1,1" />
-      <DeepCaveMushroom_2 position="20.5625,15.5" localScale="1,1,1" />
-      <DeepCaveMushroom_2 position="21.25,15.75" localScale="1,1,1" />
-      <DeepCaveMushroom_2 position="21.6875,14.9375" localScale="1,1,1" />
-      <DeepCaveWallCrystal_1_0 position="23.5,14" localScale="1,1,1" />
-      <DeepCaveWallCrystal_0_4 position="4.4375,14" localScale="1,1,1" />
-      <DeepCaveCrystal_S_4 position="15,6.5625" localScale="1,1,1" />
-      <Box00 position="17.625,14.4375" localScale="1,1,1" />
-      <Box01 position="18.6875,14.5625" localScale="1,1,1" />
-      <Barrel00 position="18.1875,14.125" localScale="1,1,1" />
+      <Box01 position="13.875,12.8125" localScale="1,1,1" />
+      <Box00 position="12.9375,13.25" localScale="1,1,1" />
+      <Barricade_V position="11.625,13" localScale="1,1,1" />
+      <Barricade_V position="12.6875,11.625" localScale="1,1,1" />
+      <Barricade_V position="12.8125,5.8125" localScale="1,1,1" />
+      <Barricade_V position="11.625,4.4375" localScale="1,1,1" />
+      <Box00 position="10.375,13.125" localScale="1,1,1" />
+      <Box00 position="14,4.75" localScale="1,1,1" />
+      <CaveFloorProp_0 position="14.875,9" localScale="1,1,1" />
+      <CaveFloorProp_1 position="16.125,11.875" localScale="1,1,1" />
+      <CaveFloorProp_1 position="8.5625,5.875" localScale="1,1,1" />
+      <CaveFloorProp_3 position="9.75,8.3125" localScale="1,1,1" />
+      <CaveFloorProp_4 position="17,6.9375" localScale="1,1,1" />
+      <Mushroom2 position="15.9375,4.1875" localScale="1,1,1" />
+      <Mushroom1 position="16.75,5" localScale="1,1,1" />
+      <Mushroom0 position="18.625,4.6875" localScale="1,1,1" />
+      <PackagedWood position="9.875,5.375" localScale="1,1,1" />
+      <Pouch position="11.375,12.25" localScale="1,1,1" />
+      <Stone_0 position="14.8125,13.4375" localScale="1,1,1" />
+      <Stone_2 position="15.25,13.25" localScale="1,1,1" />
+      <Brazier position="15.625,10.5625" localScale="1,1,1" />
+      <MoleCaveGround_2 position="18.375,12.5" localScale="1,1,1" />
+      <MoleCaveGround_4 position="7.1875,5.15625" localScale="1,1,1" />
+      <Chapter4_DeepCaveSmallRootEye position="15.75,5.625" localScale="1,1,1" />
     </props>
   </mainLayer>
-  <passageLayer0 position="10,14" size="6,4">
-    <ground>X X X X X X X X X X 114 114 114 114 114 114 X X X X X X X X X X 
-X X X X X X X X X X 114 114 114 114 114 114 X X X X X X X X X X 
-X X X X X X X X X X 114 114 114 114 114 114 X X X X X X X X X X 
-X X X X X X X X X X 114 114 114 114 114 114 X X X X X X X X X X 
+  <passageLayer0 position="0,0" size="0,0">
+    <ground>X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
@@ -174,22 +183,22 @@ X X X X X X X X X X X X X X X X X X X X X X X X X X
 </cliff>
     <props />
   </passageLayer0>
-  <passageLayer1 position="21,6" size="5,6">
+  <passageLayer1 position="20,3" size="6,11">
     <ground>X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X 114 114 114 114 114 
-X X X X X X X X X X X X X X X X X X X X X 114 114 114 114 114 
-X X X X X X X X X X X X X X X X X X X X X 114 114 114 114 114 
-X X X X X X X X X X X X X X X X X X X X X 114 114 114 114 114 
-X X X X X X X X X X X X X X X X X X X X X 114 114 114 114 114 
-X X X X X X X X X X X X X X X X X X X X X 114 114 114 114 114 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 0 0 X X X X 
+X X X X X X X X X X X X X X X X X X X X 0 0 X X X X 
+X X X X X X X X X X X X X X X X X X X X 0 0 0 0 0 0 
+X X X X X X X X X X X X X X X X X X X X 0 0 0 0 0 0 
+X X X X X X X X X X X X X X X X X X X X 0 0 0 0 0 0 
+X X X X X X X X X X X X X X X X X X X X 0 0 0 0 0 0 
+X X X X X X X X X X X X X X X X X X X X 0 0 0 0 0 0 
+X X X X X X X X X X X X X X X X X X X X 0 0 0 0 0 0 
+X X X X X X X X X X X X X X X X X X X X 0 0 X X X X 
+X X X X X X X X X X X X X X X X X X X X 0 0 X X X X 
+X X X X X X X X X X X X X X X X X X X X 0 0 X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
@@ -198,15 +207,15 @@ X X X X X X X X X X X X X X X X X X X X X X X X X X
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X 9 X X X X X 
+X X X X X X X X X X X X X X X X X X X X 9 9 X X X X 
+X X X X X X X X X X X X X X X X X X X X 9 9 X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X 9 9 X 
+X X X X X X X X X X X X X X X X X X X X X X 9 9 9 X 
+X X X X X X X X X X X X X X X X X X X X 9 X 9 9 X X 
+X X X X X X X X X X X X X X X X X X X X 9 X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X 9 X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
@@ -217,17 +226,17 @@ X X X X X X X X X X X X X X X X X X X X X X X X X X
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X 0 0 0 0 
+X X X X X X X X X X X X X X X X X X X X X X 0 0 0 0 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X 0 0 0 0 
+X X X X X X X X X X X X X X X X X X X X X X 0 0 0 0 
+X X X X X X X X X X X X X X X X X X X X X X 0 0 0 0 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
@@ -252,10 +261,12 @@ X X X X X X X X X X X X X X X X X X X X X X X X X X
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 </cliff>
     <props>
-      <DeepCaveGround_4 position="23.75,9.9375" localScale="1,1,1" />
+      <CaveFloorProp_3 position="23.375,11.375" localScale="1,1,1" />
+      <CaveFloorProp_2 position="24.25,7.625" localScale="1,1,1" />
+      <CaveBone_1 position="23.625,7.375" localScale="1,1,1" />
     </props>
   </passageLayer1>
-  <passageLayer2 position="10,0" size="6,5">
+  <passageLayer2 position="0,0" size="0,0">
     <ground>X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
@@ -269,11 +280,11 @@ X X X X X X X X X X X X X X X X X X X X X X X X X X
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X 114 114 114 114 114 114 X X X X X X X X X X 
-X X X X X X X X X X 114 114 114 114 114 114 X X X X X X X X X X 
-X X X X X X X X X X 114 114 114 114 114 114 X X X X X X X X X X 
-X X X X X X X X X X 114 114 114 114 114 114 X X X X X X X X X X 
-X X X X X X X X X X 114 114 114 114 114 114 X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X X 
 </ground>
     <upperGround>X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
@@ -334,22 +345,22 @@ X X X X X X X X X X X X X X X X X X X X X X X X X X
 </cliff>
     <props />
   </passageLayer2>
-  <passageLayer3 position="0,6" size="7,6">
+  <passageLayer3 position="0,3" size="6,11">
     <ground>X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-114 114 114 114 114 114 114 X X X X X X X X X X X X X X X X X X X 
-114 114 114 114 114 114 114 X X X X X X X X X X X X X X X X X X X 
-114 114 114 114 114 114 114 X X X X X X X X X X X X X X X X X X X 
-114 114 114 114 114 114 114 X X X X X X X X X X X X X X X X X X X 
-114 114 114 114 114 114 114 X X X X X X X X X X X X X X X X X X X 
-114 114 114 114 114 114 114 X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X 0 0 X X X X X X X X X X X X X X X X X X X X 
+X X X X 0 0 X X X X X X X X X X X X X X X X X X X X 
+0 0 0 0 0 0 X X X X X X X X X X X X X X X X X X X X 
+0 0 0 0 0 0 X X X X X X X X X X X X X X X X X X X X 
+0 0 0 0 0 0 X X X X X X X X X X X X X X X X X X X X 
+0 0 0 0 0 0 X X X X X X X X X X X X X X X X X X X X 
+0 0 0 0 0 0 X X X X X X X X X X X X X X X X X X X X 
+0 0 0 0 0 0 X X X X X X X X X X X X X X X X X X X X 
+X X X X 0 0 X X X X X X X X X X X X X X X X X X X X 
+X X X X 0 0 X X X X X X X X X X X X X X X X X X X X 
+X X X X 0 0 X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
@@ -358,15 +369,15 @@ X X X X X X X X X X X X X X X X X X X X X X X X X X
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X 9 X X X X X X X X X X X X X X X X X X X X X 
+X X X X 9 9 X X X X X X X X X X X X X X X X X X X X 
+X 9 9 X X X X X X X X X X X X X X X X X X X X X X X 
+X 9 9 9 9 9 X X X X X X X X X X X X X X X X X X X X 
+X X X X 9 9 X X X X X X X X X X X X X X X X X X X X 
+X 9 9 9 X X X X X X X X X X X X X X X X X X X X X X 
+9 9 9 X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X 117 X X X X X X X X X X X X X X X X X X X 
-X X X X X 117 117 X X X X X X X X X X X X X X X X X X X 
-X X X X X X 117 X X X X X X X X X X X X X X X X X X X 
-X 117 X X X X X X X X X X X X X X X X X X X X X X X X 
-117 117 117 X X X X X X X X X X X X X X X X X X X X X X X 
-X 117 117 X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X 9 9 X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
@@ -377,17 +388,17 @@ X X X X X X X X X X X X X X X X X X X X X X X X X X
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
+0 0 0 0 X X X X X X X X X X X X X X X X X X X X X X 
+0 0 0 0 X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
-X X X X X X X X X X X X X X X X X X X X X X X X X X 
+0 0 0 0 X X X X X X X X X X X X X X X X X X X X X X 
+0 0 0 0 X X X X X X X X X X X X X X X X X X X X X X 
+0 0 0 0 X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
@@ -412,7 +423,10 @@ X X X X X X X X X X X X X X X X X X X X X X X X X X
 X X X X X X X X X X X X X X X X X X X X X X X X X X 
 </cliff>
     <props>
-      <DeepCaveGround_1 position="3.25,9.875" localScale="1,1,1" />
+      <CaveFloorProp_1 position="1.125,8" localScale="1,1,1" />
+      <CaveFloorProp_2 position="3.9375,11.8125" localScale="1,1,1" />
+      <Stone_3 position="3.9375,7.25" localScale="1,1,1" />
+      <Stone_1 position="4.3125,7.5" localScale="1,1,1" />
     </props>
   </passageLayer3>
 </room>

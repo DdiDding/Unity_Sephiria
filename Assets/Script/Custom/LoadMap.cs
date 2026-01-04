@@ -1,4 +1,6 @@
 using GameFramework.Resource;
+using System;
+using System.Xml;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.Tilemaps;
@@ -6,17 +8,42 @@ using UnityGameFramework.Runtime;
 
 public class LoadMap : MonoBehaviour
 {
-    public TileBase tt;
-    public bool IsLoadComplete { get; private set; } = false;
+    struct MapData
+    {
+        public bool SpawnMonster;
+        public uint monsterDensity;
+        public Vector2 teleportPoint;
+        public uint type;
+        public string passages;
+        public string[] ground;
+        public string[] upperGround;
+    }
+    MapData testMapp;
+
+    void ParseMap(TextAsset textAsset)
+    {
+        XmlDocument xmlDoc = new XmlDocument();
+        xmlDoc.LoadXml(textAsset.text);
+        XmlNode roomNode = xmlDoc.SelectSingleNode("//room");
+        testMapp.SpawnMonster = bool.Parse(roomNode.Attributes["spawnMonster"].Value);
+        Debug.Log($"SpawnMonster: {testMapp.SpawnMonster}");
+
+        XmlNode groundNode = xmlDoc.SelectSingleNode("//ground");
+        string gtile = groundNode.InnerText;
+        Debug.Log($"Ground Data \n {gtile}");
+
+        //XmlNode upperNode = xmlDoc.SelectSingleNode("//upperGround");
+        //Debug.Log($"Upper size: {upperTiles.GetLength(0)}x{upperTiles.GetLength(1)}");
+    }
 
     public void LoadStage()
     {
-        IsLoadComplete = false;
 
-        string path = "Assets/Resources/Rooms/DeepCave_Combat_00.txt";
-    
+        string path = "Assets/Resources/Rooms/Test_Moleland.txt";
 
-    var resource = GameEntry.GetComponent<ResourceComponent>();
+
+        // ResourceComponent 가져오기
+        var resource = GameEntry.GetComponent<ResourceComponent>();
         if (resource == null)
         {
             int a = 3;
@@ -34,24 +61,32 @@ public class LoadMap : MonoBehaviour
                     return;
                 }
 
-                // 모든 줄 가져오기
-                string[] lines = txt.text.Split('\n');
+                string[] entries = txt.text.Split(new char[] { '<', '>' }, StringSplitOptions.RemoveEmptyEntries);
 
-                // 최대 3줄까지 처리
-                int rowCount = Mathf.Min(3, lines.Length);
 
-                // 각 줄을 char 배열로 변환하여 2D 배열에 저장
-                char[][] mapRows = new char[rowCount][];
-                for (int y = 0; y < rowCount; y++)
+                // 임시 Debug 코드
                 {
-                    mapRows[y] = lines[y].Trim().ToCharArray();
-                }
+                    ParseMap(txt);
 
-                // 확인용 출력
-                for (int y = 0; y < rowCount; y++)
-                {
-                    string lineStr = new string(mapRows[y]);
-                    Debug.Log($"Row {y}: {lineStr}");
+                    // 모든 줄 가져오기
+                    string[] lines = txt.text.Split('\n');
+
+                    // 최대 3줄까지 처리
+                    int rowCount = Mathf.Min(3, lines.Length);
+
+                    // 각 줄을 char 배열로 변환하여 2D 배열에 저장
+                    char[][] mapRows = new char[rowCount][];
+                    for (int y = 0; y < rowCount; y++)
+                    {
+                        mapRows[y] = lines[y].Trim().ToCharArray();
+                    }
+
+                    // 확인용 출력
+                    for (int y = 0; y < rowCount; y++)
+                    {
+                        string lineStr = new string(mapRows[y]);
+                        Debug.Log($"Row {y}: {lineStr}");
+                    }
                 }
             },
             // 실패 콜백
@@ -65,36 +100,12 @@ public class LoadMap : MonoBehaviour
         resource.LoadAsset(path, callbacks);
     }
 
-    public static class MapLoader
-    {
-        public static int[,] Parse(string text)
-        {
-            var lines = text.Split('\n');
-            int rows = lines.Length;
-            int cols = lines[0].Trim().Length;
-
-            int[,] map = new int[rows, cols];
-
-            for (int y = 0; y < rows; y++)
-            {
-                var line = lines[y].Trim();
-                for (int x = 0; x < cols; x++)
-                {
-                    map[y, x] = line[x] - '0'; // '0' → 0, '1' → 1 ...
-                }
-            }
-            return map;
-        }
-    }
-
     bool once = false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         once = true;
     }
-
-    
     // Update is called once per frame
     void Update()
     {
