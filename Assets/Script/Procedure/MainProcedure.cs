@@ -4,6 +4,7 @@ using ProcedureOwner = GameFramework.Fsm.IFsm<GameFramework.Procedure.IProcedure
 
 public class MainProcedure : ProcedureBase
 {
+    public TileMapData mapData = new TileMapData();
     protected override void OnEnter(ProcedureOwner procedureOwner)
     {
         base.OnEnter(procedureOwner);
@@ -12,7 +13,8 @@ public class MainProcedure : ProcedureBase
         Log.Info("Game Start: ProcedureLaunch Entered.");
         //
         //¸ã µ¥ÀÌÅÍ µñ¼Å´Ï¸¦ ÀúÀå
-        TileMapData mapData;
         mapData.LoadTiles();
+
+        int a;
     }
 }

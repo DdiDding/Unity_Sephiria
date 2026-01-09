@@ -37,7 +37,6 @@ public class LoadMap : MonoBehaviour
 
         string[] gtileSplit = gtile.Split('\n', StringSplitOptions.RemoveEmptyEntries);
 
-        int a = 3;
         //XmlNode upperNode = xmlDoc.SelectSingleNode("//upperGround");
         //Debug.Log($"Upper size: {upperTiles.GetLength(0)}x{upperTiles.GetLength(1)}");
     }

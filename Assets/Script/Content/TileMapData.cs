@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class TileMapData
 {
-    public Dictionary<int, RuleTile> ruleTiles;
+    public Dictionary<int, RuleTile> ruleTiles = new Dictionary<int, RuleTile>();
 
     public void LoadTiles()
     {
@@ -45,6 +45,5 @@ public class TileMapData
         resource.LoadAsset(path, callbacks);
         //Debug.Log($"");
     }
-
 
 }
