@@ -6,7 +6,7 @@ using UnityEngine;
 using UnityEngine.Tilemaps;
 using Unity.Collections;
 
-public class TileMapData
+public class TileProvider
 {
     public Dictionary<int, TileBase> ruleTiles = new Dictionary<int, TileBase>();
     public Tilemap tilemap;
@@ -22,7 +22,6 @@ public class TileMapData
             resource = GameEntry.GetComponent<ResourceComponent>();
             if (resource == null) return;
         }
-
 
         resource.LoadAsset(path, new LoadAssetCallbacks(
             // 성공 콜백
