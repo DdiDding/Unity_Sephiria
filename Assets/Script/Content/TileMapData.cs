@@ -3,14 +3,18 @@ using GameFramework.Resource;
 using System.Collections.Generic;
 using UnityGameFramework.Runtime;
 using UnityEngine;
+using UnityEngine.Tilemaps;
+using Unity.Collections;
 
 public class TileMapData
 {
-    public Dictionary<int, RuleTile> ruleTiles = new Dictionary<int, RuleTile>();
+    public Dictionary<int, TileBase> ruleTiles = new Dictionary<int, TileBase>();
+    public Tilemap tilemap;
 
     public void LoadTiles()
     {
         string path = "Assets/MonoBehaviour/GroundTile/0-Cave.asset";
+        Tilemap tilemap = GameObject.Find("Tilemap").GetComponent<Tilemap>();
 
         // ResourceComponent 가져오기
         ResourceComponent resource;
@@ -19,12 +23,12 @@ public class TileMapData
             if (resource == null) return;
         }
 
-        // LoadAsset의 콜백 정의
-        LoadAssetCallbacks callbacks = new LoadAssetCallbacks(
+
+        resource.LoadAsset(path, new LoadAssetCallbacks(
             // 성공 콜백
             (assetName, asset, duration, userData) =>
             {
-                RuleTile tile = asset as RuleTile;
+                TileBase tile = asset as TileBase;
 
                 // null check
                 if (tile == null)
@@ -33,17 +37,17 @@ public class TileMapData
                     return;
                 }
 
-                ruleTiles.Add(0, tile);
+                // 룰타일 Dictionary에 저장
+                ruleTiles[0] = tile;
+
+                // 테스트로 타일 깔아보기
+                tilemap.SetTile(new Vector3Int(0, 0, 0), tile);
             },
             // 실패 콜백
             (assetName, status, errorMessage, userData) =>
             {
                 Debug.LogError($"Failed to load asset '{assetName}': {errorMessage}");
-            }
+            })
         );
-
-        resource.LoadAsset(path, callbacks);
-        //Debug.Log($"");
     }
-
 }
