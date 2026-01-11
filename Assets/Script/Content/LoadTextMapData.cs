@@ -74,6 +74,8 @@ namespace Game.Map.IO
                     MapData mapData = ParseMap(txt);
 
                     // 여기서 다른 함수로 넘기기
+                    EventComponent eventComponent = GameEntry.GetComponent<EventComponent>();
+                    eventComponent.Fire(this, MapLoadedEventArgs.Create(mapData));
 
                 },
                 // 실패 콜백
