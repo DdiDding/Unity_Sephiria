@@ -5,7 +5,7 @@ using ProcedureOwner = GameFramework.Fsm.IFsm<GameFramework.Procedure.IProcedure
 public class LoadResourceProcedure : ProcedureBase
 {
     public TileProvider mapData = new TileProvider();
-    public LoadTextMapData loadTextMapData = new LoadTextMapData();
+    //public LoadTextMapData loadTextMapData = new LoadTextMapData();
     protected override void OnInit(ProcedureOwner procedureOwner)
     {
         base.OnInit(procedureOwner);
@@ -19,7 +19,7 @@ public class LoadResourceProcedure : ProcedureBase
         base.OnEnter(procedureOwner);
 
         // 텍스트 맵 데이터 가져와 불러오기
-        MapData mapData = new MapData();
+        //MapData mapData = new MapData();
         //TileMapInstaller.Install(loadTextMapData.LoadTextMap(ref mapData));
     }
 
