@@ -11,7 +11,7 @@ namespace Game.Map
     {
         public void OnMapLoaded(MapData data)
         {
-            InstallGround(data.ground);
+            //InstallGround(data.ground);
             //InstallWall(data.wall);
             //InstallUpper(data.upperGround);
         }

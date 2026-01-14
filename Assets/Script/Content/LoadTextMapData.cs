@@ -88,7 +88,6 @@ namespace Game.Map
             mapData.SpawnMonster = bool.Parse(roomNode.Attributes["spawnMonster"].Value);
     
             // Main Layer
-            XmlNode groundNode = xmlDoc.SelectSingleNode("//ground");
             mapData.ground = ParseInt2D(xmlDoc.SelectSingleNode("//ground").InnerText);
 
             // upperGround layer
@@ -107,16 +106,20 @@ namespace Game.Map
         {
             string[] lines = text.Split(new[] { '\n', '\r' }, StringSplitOptions.RemoveEmptyEntries);
             int height = lines.Length;
-            int width = lines[0].Length; // 모든 줄 길이 동일하다고 가정
+            int width = lines[0].Split(' ', StringSplitOptions.RemoveEmptyEntries).Length;
 
             int[,] result = new int[height, width];
 
             for (int y = 0; y < height; y++)
             {
+                string[] tokens = lines[y].Split(' ', StringSplitOptions.RemoveEmptyEntries);
                 for (int x = 0; x < width; x++)
                 {
-                    // '0' ~ '9' 문자 → int
-                    result[y, x] = lines[y][x] - '0';
+                    string token = tokens[x];
+                    if (token == "X")
+                        result[y, x] = -1; // 블록 없음
+                    else
+                        result[y, x] = int.Parse(token); // 숫자는 그대로
                 }
             }
 
