@@ -1,5 +1,7 @@
 using GameFramework.Resource;
+using NUnit.Framework;
 using System;
+using System.Collections.Generic;
 using System.Xml;
 using UnityEditor;
 using UnityEditor.U2D.Aseprite;
@@ -16,10 +18,10 @@ namespace Game.Map
         public Vector2 teleportPoint;
         public uint type;
         public string passages;
-        public string[] ground;
-        public string[] upperGround;
-        public string[] wall;
-        public string[] cliff;
+        public int[,] ground;
+        public int[,] upperGround;
+        public int[,] wall;
+        public int[,] cliff;
     }
 
     /**
@@ -58,6 +60,10 @@ namespace Game.Map
                     // 불러온 텍스트 파일을 파싱
                     MapData mapData = ParseMap(txt);
 
+                    // 필요한 타일 넘버 저장
+                    HashSet<int> needTileID = new HashSet<int>();
+
+
                     // 콜백 함수가 있으면 mapData를 매개변수로 호출하고, 없으면 생략하는 의미의 코드
                     onLoaded?.Invoke(mapData);
                 },
@@ -83,19 +89,48 @@ namespace Game.Map
     
             // Main Layer
             XmlNode groundNode = xmlDoc.SelectSingleNode("//ground");
-            mapData.ground = groundNode.InnerText.Split('\n', StringSplitOptions.RemoveEmptyEntries);
-    
-            XmlNode upperGroundNode = xmlDoc.SelectSingleNode("//upperGround");
-            mapData.upperGround = upperGroundNode.InnerText.Split('\n', StringSplitOptions.RemoveEmptyEntries);
-    
-            XmlNode wallNode = xmlDoc.SelectSingleNode("//wall");
-            mapData.wall = wallNode.InnerText.Split('\n', StringSplitOptions.RemoveEmptyEntries);
-    
-            XmlNode cliffNode = xmlDoc.SelectSingleNode("//wall");
-            mapData.cliff = cliffNode.InnerText.Split('\n', StringSplitOptions.RemoveEmptyEntries);
-    
+            mapData.ground = ParseInt2D(xmlDoc.SelectSingleNode("//ground").InnerText);
+
+            // upperGround layer
+            mapData.upperGround = ParseInt2D(xmlDoc.SelectSingleNode("//upperGround").InnerText);
+
+            // wall layer
+            mapData.wall = ParseInt2D(xmlDoc.SelectSingleNode("//wall").InnerText);
+
+            // cliff layer
+            mapData.cliff = ParseInt2D(xmlDoc.SelectSingleNode("//cliff").InnerText);
+
             return mapData;
         }
-    
+
+        private int[,] ParseInt2D(string text)
+        {
+            string[] lines = text.Split(new[] { '\n', '\r' }, StringSplitOptions.RemoveEmptyEntries);
+            int height = lines.Length;
+            int width = lines[0].Length; // 모든 줄 길이 동일하다고 가정
+
+            int[,] result = new int[height, width];
+
+            for (int y = 0; y < height; y++)
+            {
+                for (int x = 0; x < width; x++)
+                {
+                    // '0' ~ '9' 문자 → int
+                    result[y, x] = lines[y][x] - '0';
+                }
+            }
+
+            return result;
+        }
+
+        // 파싱된 데이터를 읽고 필요한 타일의 id를 저장하는 함수
+        private void SaveNeedTileID(ref MapData mapData,ref HashSet<int> needed)
+        {
+            // ground Check
+            foreach (var x in mapData.ground)
+            {
+                needed.Add(x);
+            }
+        }
     }
 }

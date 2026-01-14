@@ -1,5 +1,6 @@
 using Game.Map;
 using GameFramework.Event;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityGameFramework.Runtime;
 
@@ -17,7 +18,8 @@ namespace Game.Map
 
         private void InstallGround(string[] data)
         {
-
+            List<int> v = new List<int>(capacity: 100);
+            
         }
     }
 }
