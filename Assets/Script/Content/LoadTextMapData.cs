@@ -7,9 +7,8 @@ using UnityEngine;
 using UnityEngine.Tilemaps;
 using UnityGameFramework.Runtime;
 
-namespace Game.Map.IO
+namespace Game.Map
 {
-    
     public struct MapData
     {
         public bool SpawnMonster;
@@ -43,10 +42,6 @@ namespace Game.Map.IO
          */
         public void LoadTextMap(string path)
         {
-            // 가져올 경로 임시로ㅇㅇ
-            string tempPath = "Assets/Resources/Rooms/Test_Moleland.txt";
-    
-
             // ResourceComponent 가져오기
             ResourceComponent resource;
             {
@@ -55,8 +50,8 @@ namespace Game.Map.IO
             }
     
 
-            // 비동기 로딩임
-            resource.LoadAsset(tempPath, new LoadAssetCallbacks(
+            // 비동기 로딩
+            resource.LoadAsset(path, new LoadAssetCallbacks(
                 // 성공 콜백
                 (assetName, asset, duration, userData) =>
                 {
@@ -67,15 +62,14 @@ namespace Game.Map.IO
                         return;
                     }
     
-
-                    string[] entries = txt.text.Split(new char[] { '<', '>' }, StringSplitOptions.RemoveEmptyEntries);
-    
                     // 불러온 텍스트 파일을 파싱
                     MapData mapData = ParseMap(txt);
+                    onLoaded?.Invoke(mapData);
 
-                    // 여기서 다른 함수로 넘기기
-                    EventComponent eventComponent = GameEntry.GetComponent<EventComponent>();
-                    eventComponent.Fire(this, MapLoadedEventArgs.Create(mapData));
+                    // 여기서 이벤트 컴포넌트 사용하여 다른 함수로 넘기기
+
+                    //EventComponent eventComponent = GameEntry.GetComponent<EventComponent>();
+                    //eventComponent.Fire(this, MapLoadedEventArgs.Create(mapData));
 
                 },
                 // 실패 콜백
@@ -85,7 +79,6 @@ namespace Game.Map.IO
                 }
             ));
         }
-    
 
         private MapData ParseMap(TextAsset textAsset)
         {
