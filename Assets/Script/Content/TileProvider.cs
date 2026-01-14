@@ -6,11 +6,15 @@ using UnityEngine;
 using UnityEngine.Tilemaps;
 using Unity.Collections;
 
+/**
+ * @class TileProvider
+ * @brief 현재 사용되는 타일을 가지고 있으며, 타일을 요청할 시 제공해준다.
+ * 만약 없다면 
+ */
 public class TileProvider
 {
     public Dictionary<int, TileBase> ruleTiles = new Dictionary<int, TileBase>();
     public Tilemap tilemap;
-
 
     public void LoadTiles()
     {
@@ -40,7 +44,7 @@ public class TileProvider
                 // 룰타일 Dictionary에 저장
                 ruleTiles[0] = tile;
 
-                // 테스트로 타일 깔아보기
+                // 테스트로 타일 깔아보기 -이건 삭제해도 됌
                 tilemap.SetTile(new Vector3Int(0, 0, 0), tile);
             },
             // 실패 콜백

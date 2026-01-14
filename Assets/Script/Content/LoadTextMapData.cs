@@ -28,19 +28,13 @@ namespace Game.Map
 	 */
     public class LoadTextMapData
     {
-        public event Action OnMapLoaded;
-        public void Load()
-        {
-            OnMapLoaded?.Invoke();
-        }
-
         /**
          * @function LoadTextMap
          * @brief 텍스트 파일을 불러와 파싱한 값을 반환
          * @param path 불러올 텍스트 파일 경로
          * @return 파싱한 값을 구조체로 반환
          */
-        public void LoadTextMap(string path)
+        public void LoadTextMap(string path, Action<MapData> onLoaded)
         {
             // ResourceComponent 가져오기
             ResourceComponent resource;
@@ -48,7 +42,6 @@ namespace Game.Map
                 resource = GameEntry.GetComponent<ResourceComponent>();
                 if (resource == null) return;
             }
-    
 
             // 비동기 로딩
             resource.LoadAsset(path, new LoadAssetCallbacks(
@@ -64,13 +57,9 @@ namespace Game.Map
     
                     // 불러온 텍스트 파일을 파싱
                     MapData mapData = ParseMap(txt);
+
+                    // 콜백 함수가 있으면 mapData를 매개변수로 호출하고, 없으면 생략하는 의미의 코드
                     onLoaded?.Invoke(mapData);
-
-                    // 여기서 이벤트 컴포넌트 사용하여 다른 함수로 넘기기
-
-                    //EventComponent eventComponent = GameEntry.GetComponent<EventComponent>();
-                    //eventComponent.Fire(this, MapLoadedEventArgs.Create(mapData));
-
                 },
                 // 실패 콜백
                 (assetName, status, errorMessage, userData) =>
