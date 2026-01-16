@@ -1,57 +1,122 @@
-using GameFramework;
 using GameFramework.Resource;
+using System;
 using System.Collections.Generic;
-using UnityGameFramework.Runtime;
 using UnityEngine;
 using UnityEngine.Tilemaps;
-using Unity.Collections;
+using UnityGameFramework.Runtime;
 
-/**
- * @class TileProvider
- * @brief 현재 사용되는 타일을 가지고 있으며, 타일을 요청할 시 제공해준다.
- * 만약 없다면 
- */
-public class TileProvider
+namespace Game.Map
 {
-    public Dictionary<int, TileBase> ruleTiles = new Dictionary<int, TileBase>();
-    public Tilemap tilemap;
-
-    public void LoadTiles()
+    /**
+     * @class TileProvider
+     * @brief 타일 리소스를 로드하고 캐싱하여 제공
+     */
+    public class TileProvider
     {
-        string path = "Assets/MonoBehaviour/GroundTile/0-Cave.asset";
-        Tilemap tilemap = GameObject.Find("Tilemap").GetComponent<Tilemap>();
+        private readonly Dictionary<int, TileBase> _tileCache =
+            new Dictionary<int, TileBase>();
 
-        // ResourceComponent 가져오기
-        ResourceComponent resource;
+        private ResourceComponent _resource;
+
+        // 비동기 로딩 상태 관리
+        private int _loadingCount;
+        private Action _onAllLoaded;
+
+        public TileProvider()
         {
-            resource = GameEntry.GetComponent<ResourceComponent>();
-            if (resource == null) return;
+            _resource = GameEntry.GetComponent<ResourceComponent>();
+            if (_resource == null)
+            {
+                Debug.LogError("ResourceComponent not found.");
+            }
         }
 
-        resource.LoadAsset(path, new LoadAssetCallbacks(
-            // 성공 콜백
-            (assetName, asset, duration, userData) =>
-            {
-                TileBase tile = asset as TileBase;
+        // ----------------------------------
+        // Public API
+        // ----------------------------------
 
-                // null check
-                if (tile == null)
+        public void LoadTiles(
+            HashSet<int> tileIds,
+            Action onAllLoaded)
+        {
+            _onAllLoaded = onAllLoaded;
+
+            _loadingCount = 0;
+
+            foreach (int tileId in tileIds)
+            {
+                // 이미 로드된 타일이면 스킵
+                if (_tileCache.ContainsKey(tileId))
+                    continue;
+
+                _loadingCount++;
+                LoadTileAsync(tileId);
+            }
+
+            // 로드할 게 하나도 없는 경우
+            if (_loadingCount == 0)
+            {
+                _onAllLoaded?.Invoke();
+            }
+        }
+
+        public TileBase GetTile(int tileId)
+        {
+            _tileCache.TryGetValue(tileId, out TileBase tile);
+            return tile;
+        }
+
+        // ----------------------------------
+        // Internal
+        // ----------------------------------
+
+        private void LoadTileAsync(int tileId)
+        {
+            string path = GetTilePath(tileId);
+
+            _resource.LoadAsset(path, new LoadAssetCallbacks(
+                // 성공
+                (assetName, asset, duration, userData) =>
                 {
-                    Debug.LogError($"Asset '{assetName}' is not TextAsset!");
-                    return;
+                    TileBase tile = asset as TileBase;
+                    if (tile == null)
+                    {
+                        Debug.LogError($"Asset '{assetName}' is not TileBase.");
+                    }
+                    else
+                    {
+                        _tileCache[tileId] = tile;
+                    }
+
+                    OnSingleTileLoaded();
+                },
+                // 실패
+                (assetName, status, errorMessage, userData) =>
+                {
+                    Debug.LogError($"Failed to load tile '{assetName}': {errorMessage}");
+                    OnSingleTileLoaded();
                 }
+            ));
+        }
 
-                // 룰타일 Dictionary에 저장
-                ruleTiles[0] = tile;
+        private void OnSingleTileLoaded()
+        {
+            _loadingCount--;
 
-                // 테스트로 타일 깔아보기 -이건 삭제해도 됌
-                tilemap.SetTile(new Vector3Int(0, 0, 0), tile);
-            },
-            // 실패 콜백
-            (assetName, status, errorMessage, userData) =>
+            if (_loadingCount <= 0)
             {
-                Debug.LogError($"Failed to load asset '{assetName}': {errorMessage}");
-            })
-        );
+                _onAllLoaded?.Invoke();
+            }
+        }
+
+        private string GetTilePath(int tileId)
+        {
+            // 규칙은 여기서만 안다
+            // 예: Assets/Resources/Tiles/Tile_12.asset
+            return $"Assets/Resources/Tiles/Tile_{tileId}.asset";
+        }
     }
 }
+
+//string path = "Assets/MonoBehaviour/GroundTile/0-Cave.asset";
+//Tilemap tilemap = GameObject.Find("Tilemap").GetComponent<Tilemap>();
