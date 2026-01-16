@@ -33,11 +33,11 @@ public class LoadResourceProcedure : ProcedureBase
         // Procedure는 내용을 해석하지 않는다
         // 그냥 다음 작업자에게 넘긴다
 
-        //_installer.Install(
-        //    mapData,
-        //    neededTileIds,
-        //    OnMapInstalled
-        //);
+        _installer.Install(
+            mapData,
+            neededTileIds,
+            OnMapInstalled
+        );
     }
 
     private void OnMapInstalled()

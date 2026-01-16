@@ -47,10 +47,10 @@ namespace Game.Map
 
         private void BindTilemaps()
         {
-            _groundMap = GameObject.Find("GroundTilemap").GetComponent<Tilemap>();
-            _upperGroundMap = GameObject.Find("UpperGroundTilemap").GetComponent<Tilemap>();
-            _wallMap = GameObject.Find("WallTilemap").GetComponent<Tilemap>();
-            _cliffMap = GameObject.Find("CliffTilemap").GetComponent<Tilemap>();
+            _groundMap = GameObject.Find("Ground").GetComponent<Tilemap>();
+            _upperGroundMap = GameObject.Find("UpperGround").GetComponent<Tilemap>();
+            _wallMap = GameObject.Find("Wall").GetComponent<Tilemap>();
+            _cliffMap = GameObject.Find("Cliff").GetComponent<Tilemap>();
         }
 
         // ----------------------------------
