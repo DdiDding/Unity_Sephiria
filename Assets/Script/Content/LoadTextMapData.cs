@@ -73,7 +73,6 @@ namespace Game.Map
         // -------------------------------
         // Parsing
         // -------------------------------
-
         private MapData ParseMap(TextAsset textAsset)
         {
             MapData mapData = new MapData();
@@ -120,7 +119,6 @@ namespace Game.Map
         // -------------------------------
         // Needed Tile ID Collection
         // -------------------------------
-
         private HashSet<int> CollectNeededTileIds(MapData mapData)
         {
             HashSet<int> needed = new HashSet<int>();
