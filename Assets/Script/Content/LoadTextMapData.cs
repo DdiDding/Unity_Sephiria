@@ -1,16 +1,13 @@
 using GameFramework.Resource;
-using NUnit.Framework;
 using System;
 using System.Collections.Generic;
 using System.Xml;
-using UnityEditor;
-using UnityEditor.U2D.Aseprite;
 using UnityEngine;
-using UnityEngine.Tilemaps;
 using UnityGameFramework.Runtime;
 
 namespace Game.Map
 {
+    // 파싱 결과 데이터
     public struct MapData
     {
         public bool SpawnMonster;
@@ -18,6 +15,7 @@ namespace Game.Map
         public Vector2 teleportPoint;
         public uint type;
         public string passages;
+
         public int[,] ground;
         public int[,] upperGround;
         public int[,] wall;
@@ -25,49 +23,46 @@ namespace Game.Map
     }
 
     /**
-	 * @class LoadTextMapData
-	 * @brief 텍스트 맵 파일을 파싱하여 각 데이터를 저장
-	 */
+     * @class LoadTextMapData
+     * @brief 텍스트 맵 파일을 로드하고 파싱하여 MapData를 생성
+     */
     public class LoadTextMapData
     {
         /**
-         * @function LoadTextMap
-         * @brief 텍스트 파일을 불러와 파싱한 값을 반환
-         * @param path 불러올 텍스트 파일 경로
-         * @return 파싱한 값을 구조체로 반환
+         * @brief 텍스트 맵 로드 및 파싱
+         * @param path 리소스 경로
+         * @param onLoaded MapData와 필요한 타일 ID 집합 콜백
          */
-        public void LoadTextMap(string path, Action<MapData> onLoaded)
+        public void LoadTextMap(
+            string path,
+            Action<MapData, HashSet<int>> onLoaded)
         {
-            // ResourceComponent 가져오기
-            ResourceComponent resource;
+            ResourceComponent resource = GameEntry.GetComponent<ResourceComponent>();
+            if (resource == null)
             {
-                resource = GameEntry.GetComponent<ResourceComponent>();
-                if (resource == null) return;
+                Debug.LogError("ResourceComponent not found.");
+                return;
             }
 
-            // 비동기 로딩
             resource.LoadAsset(path, new LoadAssetCallbacks(
-                // 성공 콜백
+                // 성공
                 (assetName, asset, duration, userData) =>
                 {
                     TextAsset txt = asset as TextAsset;
                     if (txt == null)
                     {
-                        Debug.LogError($"Asset '{assetName}' is not TextAsset!");
+                        Debug.LogError($"Asset '{assetName}' is not TextAsset.");
                         return;
                     }
-    
-                    // 불러온 텍스트 파일을 파싱
+
                     MapData mapData = ParseMap(txt);
 
-                    // 필요한 타일 넘버 저장
-                    HashSet<int> needTileID = new HashSet<int>();
+                    // 필요한 타일 ID 계산
+                    HashSet<int> neededTileIds = CollectNeededTileIds(mapData);
 
-
-                    // 콜백 함수가 있으면 mapData를 매개변수로 호출하고, 없으면 생략하는 의미의 코드
-                    onLoaded?.Invoke(mapData);
+                    onLoaded?.Invoke(mapData, neededTileIds);
                 },
-                // 실패 콜백
+                // 실패
                 (assetName, status, errorMessage, userData) =>
                 {
                     Debug.LogError($"Failed to load asset '{assetName}': {errorMessage}");
@@ -75,28 +70,23 @@ namespace Game.Map
             ));
         }
 
+        // -------------------------------
+        // Parsing
+        // -------------------------------
+
         private MapData ParseMap(TextAsset textAsset)
         {
             MapData mapData = new MapData();
-    
-            // 텍스트 파일 파싱
+
             XmlDocument xmlDoc = new XmlDocument();
             xmlDoc.LoadXml(textAsset.text);
-    
-            // Room node
+
             XmlNode roomNode = xmlDoc.SelectSingleNode("//room");
             mapData.SpawnMonster = bool.Parse(roomNode.Attributes["spawnMonster"].Value);
-    
-            // Main Layer
+
             mapData.ground = ParseInt2D(xmlDoc.SelectSingleNode("//ground").InnerText);
-
-            // upperGround layer
             mapData.upperGround = ParseInt2D(xmlDoc.SelectSingleNode("//upperGround").InnerText);
-
-            // wall layer
             mapData.wall = ParseInt2D(xmlDoc.SelectSingleNode("//wall").InnerText);
-
-            // cliff layer
             mapData.cliff = ParseInt2D(xmlDoc.SelectSingleNode("//cliff").InnerText);
 
             return mapData;
@@ -104,7 +94,10 @@ namespace Game.Map
 
         private int[,] ParseInt2D(string text)
         {
-            string[] lines = text.Split(new[] { '\n', '\r' }, StringSplitOptions.RemoveEmptyEntries);
+            string[] lines = text.Split(
+                new[] { '\n', '\r' },
+                StringSplitOptions.RemoveEmptyEntries);
+
             int height = lines.Length;
             int width = lines[0].Split(' ', StringSplitOptions.RemoveEmptyEntries).Length;
 
@@ -115,24 +108,42 @@ namespace Game.Map
                 string[] tokens = lines[y].Split(' ', StringSplitOptions.RemoveEmptyEntries);
                 for (int x = 0; x < width; x++)
                 {
-                    string token = tokens[x];
-                    if (token == "X")
-                        result[y, x] = -1; // 블록 없음
-                    else
-                        result[y, x] = int.Parse(token); // 숫자는 그대로
+                    result[y, x] = tokens[x] == "X"
+                        ? -1        // 빈 칸
+                        : int.Parse(tokens[x]);
                 }
             }
 
             return result;
         }
 
-        // 파싱된 데이터를 읽고 필요한 타일의 id를 저장하는 함수
-        private void SaveNeedTileID(ref MapData mapData,ref HashSet<int> needed)
+        // -------------------------------
+        // Needed Tile ID Collection
+        // -------------------------------
+
+        private HashSet<int> CollectNeededTileIds(MapData mapData)
         {
-            // ground Check
-            foreach (var x in mapData.ground)
+            HashSet<int> needed = new HashSet<int>();
+
+            CollectFromLayer(mapData.ground, needed);
+            CollectFromLayer(mapData.upperGround, needed);
+            CollectFromLayer(mapData.wall, needed);
+            CollectFromLayer(mapData.cliff, needed);
+
+            return needed;
+        }
+
+        private void CollectFromLayer(int[,] layer, HashSet<int> needed)
+        {
+            if (layer == null)
+                return;
+
+            foreach (int tileId in layer)
             {
-                needed.Add(x);
+                if (tileId >= 0) // -1은 빈 칸
+                {
+                    needed.Add(tileId);
+                }
             }
         }
     }

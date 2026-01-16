@@ -17,7 +17,7 @@ public class LoadResourceProcedure : ProcedureBase
         // 가져올 테스트 경로
         string tempPath = "Assets/Resources/Rooms/Test_Moleland.txt";
 
-        // 텍스트 맵 불러오기
+        // 텍스트 맵 파싱 요청
         Game.Map.LoadTextMapData textMapLoader = new Game.Map.LoadTextMapData();
         Game.Map.TileMapInstaller tileMapInstaller = new Game.Map.TileMapInstaller();
         textMapLoader.LoadTextMap(tempPath, tileMapInstaller.OnMapLoaded);
