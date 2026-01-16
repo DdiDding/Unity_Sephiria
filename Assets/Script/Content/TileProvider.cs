@@ -16,6 +16,14 @@ namespace Game.Map
         private readonly Dictionary<int, TileBase> _tileCache = new Dictionary<int, TileBase>();
         private ResourceComponent _resource;
 
+        private readonly Dictionary<int, string> _tilePathTable = new Dictionary<int, string>
+        {
+            { 1, "Assets/Resources/Tiles/1-Grass.asset" },
+            { 2, "Assets/Resources/Tiles/2-Dirt.asset" },
+            { 3, "Assets/Resources/Tiles/3-Stone.asset" },
+        };
+
+
         // 비동기 로딩 상태 관리
         private int _loadingCount;
         private Action _onAllLoaded;
@@ -68,24 +76,27 @@ namespace Game.Map
         private void LoadTileAsync(int tileId)
         {
             string path = GetTilePath(tileId);
+            if (string.IsNullOrEmpty(path))
+            {
+                OnSingleTileLoaded();
+                return;
+            }
 
             _resource.LoadAsset(path, new LoadAssetCallbacks(
-                // 성공
                 (assetName, asset, duration, userData) =>
                 {
                     TileBase tile = asset as TileBase;
-                    if (tile == null)
+                    if (tile != null)
                     {
-                        Debug.LogError($"Asset '{assetName}' is not TileBase.");
+                        _tileCache[tileId] = tile;
                     }
                     else
                     {
-                        _tileCache[tileId] = tile;
+                        Debug.LogError($"Asset '{assetName}' is not TileBase.");
                     }
 
                     OnSingleTileLoaded();
                 },
-                // 실패
                 (assetName, status, errorMessage, userData) =>
                 {
                     Debug.LogError($"Failed to load tile '{assetName}': {errorMessage}");
@@ -93,6 +104,7 @@ namespace Game.Map
                 }
             ));
         }
+
 
         private void OnSingleTileLoaded()
         {
@@ -106,9 +118,13 @@ namespace Game.Map
 
         private string GetTilePath(int tileId)
         {
-            // 규칙은 여기서만 안다
-            // 예: Assets/Resources/Tiles/Tile_12.asset
-            return $"Assets/Resources/Tiles/Tile_{tileId}.asset";
+            if (!_tilePathTable.TryGetValue(tileId, out string path))
+            {
+                Debug.LogError($"Tile path not found for tileId: {tileId}");
+                return null;
+            }
+
+            return path;
         }
     }
 }
