@@ -13,9 +13,7 @@ namespace Game.Map
      */
     public class TileProvider
     {
-        private readonly Dictionary<int, TileBase> _tileCache =
-            new Dictionary<int, TileBase>();
-
+        private readonly Dictionary<int, TileBase> _tileCache = new Dictionary<int, TileBase>();
         private ResourceComponent _resource;
 
         // 비동기 로딩 상태 관리
@@ -35,12 +33,9 @@ namespace Game.Map
         // Public API
         // ----------------------------------
 
-        public void LoadTiles(
-            HashSet<int> tileIds,
-            Action onAllLoaded)
+        public void LoadTiles( HashSet<int> tileIds, Action onAllLoaded)
         {
             _onAllLoaded = onAllLoaded;
-
             _loadingCount = 0;
 
             foreach (int tileId in tileIds)
