@@ -18,7 +18,7 @@ namespace Game.Map
 
         private readonly Dictionary<int, string> _tilePathTable = new Dictionary<int, string>
         {
-            { 1, "Assets/Resources/Tiles/1-Grass.asset" },
+            { 0, "Assets/Resources/Tiles/0-Cave.asset" },
             { 2, "Assets/Resources/Tiles/2-Dirt.asset" },
             { 3, "Assets/Resources/Tiles/3-Stone.asset" },
         };
@@ -88,7 +88,8 @@ namespace Game.Map
                     TileBase tile = asset as TileBase;
                     if (tile != null)
                     {
-                        _tileCache[tileId] = tile;
+                        // ¥Î√º_tileCache[tileId] = tile;
+                        _tileCache[0] = tile;
                     }
                     else
                     {
@@ -118,7 +119,8 @@ namespace Game.Map
 
         private string GetTilePath(int tileId)
         {
-            if (!_tilePathTable.TryGetValue(tileId, out string path))
+            //if (!_tilePathTable.TryGetValue(tileId, out string path))
+            if (!_tilePathTable.TryGetValue(0, out string path))
             {
                 Debug.LogError($"Tile path not found for tileId: {tileId}");
                 return null;

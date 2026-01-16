@@ -39,10 +39,10 @@ namespace Game.Map
             BindTilemaps();
 
             // 필요한 타일 요청
-            //_tileProvider.LoadTiles(
-            //    neededTileIds,
-            //    OnAllTilesLoaded
-            //);
+            _tileProvider.LoadTiles(
+                neededTileIds,
+                OnAllTilesLoaded
+            );
         }
 
         private void BindTilemaps()
@@ -87,11 +87,11 @@ namespace Game.Map
                     if (tileId < 0)
                         continue;
 
-                    //TileBase tile = _tileProvider.GetTile(tileId);
-                    //if (tile == null)
-                    //    continue;
+                    TileBase tile = _tileProvider.GetTile(tileId);
+                    if (tile == null)
+                        continue;
 
-                    //tilemap.SetTile(new Vector3Int(x, -y, 0), tile);
+                    tilemap.SetTile(new Vector3Int(x, -y, 0), tile);
                 }
             }
         }
