@@ -93,8 +93,7 @@ namespace Game.Map
                     TileBase tile = asset as TileBase;
                     if (tile != null)
                     {
-                        // ¥Î√º_tileCache[tileId] = tile;
-                        _tileCache[0] = tile;
+                        _tileCache[tileId] = tile;
                     }
                     else
                     {
@@ -124,8 +123,7 @@ namespace Game.Map
 
         private string GetTilePath(int tileId)
         {
-            //if (!_tilePathTable.TryGetValue(tileId, out string path))
-            if (!_tilePathTable.TryGetValue(0, out string path))
+            if (!_tilePathTable.TryGetValue(tileId, out string path))
             {
                 Debug.LogError($"Tile path not found for tileId: {tileId}");
                 return null;
