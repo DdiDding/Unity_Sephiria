@@ -20,7 +20,12 @@ namespace Game.Map
         {
             { 0, "Assets/Resources/Tiles/0-Cave.asset" },
             { 2, "Assets/Resources/Tiles/2-Dirt.asset" },
-            { 3, "Assets/Resources/Tiles/3-Stone.asset" },
+            { 8, "Assets/Resources/Tiles/8-CavePit.asset" },
+            { 9, "Assets/Resources/Tiles/9-CaveDirt1.asset" },
+            { 11, "Assets/Resources/Tiles/11-CaveGrass.asset" },
+            { 12, "Assets/Resources/Tiles/12-TownPlaza.asset" },
+            { 13, "Assets/Resources/Tiles/13-CaveStone1.asset" },
+            { 14, "Assets/Resources/Tiles/14-CaveStone2.asset" },
         };
 
 
