@@ -203,7 +203,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11494652, guid: adb3eb1c35fcff14f89fba7b05c9d71c, type: 3}
       propertyPath: mEntityGroups.Array.data[0].mInstanceCapacity
-      value: 1
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 11494652, guid: adb3eb1c35fcff14f89fba7b05c9d71c, type: 3}
       propertyPath: mEntityGroups.Array.data[0].mInstancePriority
@@ -4959,11 +4959,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2564611848005730097, guid: f2557005d1594314c9776d5cfc5cec99, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.65
+      value: 8.32
       objectReference: {fileID: 0}
     - target: {fileID: 2564611848005730097, guid: f2557005d1594314c9776d5cfc5cec99, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.02
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 2564611848005730097, guid: f2557005d1594314c9776d5cfc5cec99, type: 3}
       propertyPath: m_LocalPosition.z
