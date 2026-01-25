@@ -25,9 +25,9 @@ namespace Game.Map
             { 11, "Assets/Resources/Tiles/11-CaveGrass.asset" },
             { 12, "Assets/Resources/Tiles/12-TownPlaza.asset" },
             { 13, "Assets/Resources/Tiles/13-CaveStone1.asset" },
-            { 14, "Assets/Resources/Tiles/14-CaveStone2.asset" },
+            { 14, "Assets/Resources/Tiles/14-CaveStone2.asset" }
         };
-
+        // TODO WallRoot 타일 테이블 따로 구현
 
         // 비동기 로딩 상태 관리
         private int _loadingCount;
@@ -133,6 +133,3 @@ namespace Game.Map
         }
     }
 }
-
-//string path = "Assets/MonoBehaviour/GroundTile/0-Cave.asset";
-//Tilemap tilemap = GameObject.Find("Tilemap").GetComponent<Tilemap>();

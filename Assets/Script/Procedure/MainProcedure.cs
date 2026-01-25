@@ -1,4 +1,5 @@
 using GameFramework.Procedure;
+using UnityEngine;
 using UnityGameFramework.Runtime;
 using ProcedureOwner = GameFramework.Fsm.IFsm<GameFramework.Procedure.IProcedureManager>;
 
@@ -9,5 +10,10 @@ public class MainProcedure : ProcedureBase
     {
         base.OnEnter(procedureOwner);
 
+        GameEntry.GetComponent<EntityComponent>().ShowEntity<Player>(
+            (int)EntityId.Player,
+            "Assets/Game/Entities/Player.prefab",
+            "Player"
+            );
     }
 }

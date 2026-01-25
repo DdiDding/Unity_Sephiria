@@ -33,9 +33,7 @@ namespace Game.Map
          * @param path 리소스 경로
          * @param onLoaded MapData와 필요한 타일 ID 집합 콜백
          */
-        public void LoadTextMap(
-            string path,
-            Action<MapData, HashSet<int>> onLoaded)
+        public void LoadTextMap(string path, Action<MapData, HashSet<int>> onLoaded)
         {
             ResourceComponent resource = GameEntry.GetComponent<ResourceComponent>();
             if (resource == null)

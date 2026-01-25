@@ -32,7 +32,6 @@ public class LoadResourceProcedure : ProcedureBase
     {
         // Procedure는 내용을 해석하지 않는다
         // 그냥 다음 작업자에게 넘긴다
-
         _installer.Install(
             mapData,
             neededTileIds,
@@ -43,9 +42,6 @@ public class LoadResourceProcedure : ProcedureBase
     private void OnMapInstalled()
     {
         // 모든 타일 설치 완료
-        // 다음 상태로 전환
-
-        //ChangeState<EnterGameProcedure>();
     }
 
     protected override void OnLeave(ProcedureOwner procedureOwner, bool isShutdown)

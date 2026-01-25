@@ -56,7 +56,6 @@ namespace Game.Map
         // ----------------------------------
         // Tile Loaded Callback
         // ----------------------------------
-
         private void OnAllTilesLoaded()
         {
             InstallLayer(_mapData.ground, _groundMap);
