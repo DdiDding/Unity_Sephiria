@@ -12,6 +12,7 @@ public class Player : EntityLogic
 
     protected internal override void OnShow(object userData)
     {
+        Debug.Log("Player Show");
         base.OnShow(userData);
         CreateFsm();
     }
@@ -31,6 +32,15 @@ public class Player : EntityLogic
             new PlayerIdleState(),
             new PlayerMoveState()
             );
+
+        m_Fsm.Start<PlayerIdleState>();
+    }
+    private void UpdateFsm()
+    {
+        if(m_Fsm != null)
+        {
+            //m_Fsm.Update()
+        }
     }
 
     private void DestoryFsm()

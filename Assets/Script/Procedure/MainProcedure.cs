@@ -12,8 +12,13 @@ public class MainProcedure : ProcedureBase
 
         GameEntry.GetComponent<EntityComponent>().ShowEntity<Player>(
             (int)EntityId.Player,
-            "Assets/Game/Entities/Player.prefab",
-            "Player"
-            );
+            "Assets/Prefabs/Entities/Player.prefab",
+            "Player" // entityGroupName
+        );
+
+        // With priority and user data
+        //GameEntry.GetComponent<EntityComponent>().ShowEntity<PlayerEntity>(
+        //    1, "Assets/Game/Entities/Player.prefab", "Player", 100, userData
+        //);
     }
 }
