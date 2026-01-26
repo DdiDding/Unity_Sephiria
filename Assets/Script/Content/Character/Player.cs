@@ -12,9 +12,10 @@ public class Player : EntityLogic
 
     protected internal override void OnShow(object userData)
     {
-        Debug.Log("Player Show");
         base.OnShow(userData);
+        Debug.Log("Player Show");
         CreateFsm();
+        m_Fsm.Start<PlayerIdleState>();
     }
     protected internal override void OnHide(bool isShutdown, object userData)
     {
@@ -32,8 +33,6 @@ public class Player : EntityLogic
             new PlayerIdleState(),
             new PlayerMoveState()
             );
-
-        m_Fsm.Start<PlayerIdleState>();
     }
     private void UpdateFsm()
     {

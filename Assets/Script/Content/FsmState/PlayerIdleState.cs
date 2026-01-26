@@ -1,5 +1,7 @@
 using GameFramework.Fsm;
+using UnityEditor.EventSystems;
 using UnityEngine;
+using UnityGameFramework.Runtime;
 
 public class PlayerIdleState : FsmState<Player>
 {
@@ -13,8 +15,8 @@ public class PlayerIdleState : FsmState<Player>
 
     protected override void OnUpdate(IFsm<Player> fsm, float elapseSeconds, float realElapseSeconds)
     {
-        Debug.Log("PlayerIdle Update!");
         base.OnUpdate(fsm, elapseSeconds, realElapseSeconds);
+        Debug.Log("PlayerIdle Update!");
 
     }
 }
