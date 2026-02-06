@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e394035da5e397bbeb3de2f2f2bdbe61, type: 3}
+  m_Name: 15-Puddle
+  m_EditorClassIdentifier:
+  id: 15
+  tile: {fileID: 11400000, guid: e8b40e8229fad0847bdfd7d793910d39, type: 2}
+  waterTile: {fileID: 11400000, guid: c5974338d43f3964ca28bf430fa2e8ab, type: 2}
+  layer: 1
+  type: 0
+  pitFallPlopFxPrefab: {fileID: 0}
+  pitFallPlopSoundEvent:
+    Guid:
+      Data1: 0
+      Data2: 0
+      Data3: 0
+      Data4: 0
