@@ -20,7 +20,6 @@ public class PlayerIdleState : FsmState<Player>
     protected override void OnUpdate(IFsm<Player> fsm, float elapseSeconds, float realElapseSeconds)
     {
         base.OnUpdate(fsm, elapseSeconds, realElapseSeconds);
-        Debug.Log("PlayerIdle Update!");
 
         Vector2 move = input.Move;
         if (move.sqrMagnitude > 0f)

@@ -5,18 +5,26 @@ using UnityGameFramework.Runtime;
 public class Player : EntityLogic
 {
     private IFsm<Player> m_Fsm;
+    private Animator animator;
     protected internal override void OnInit(object userData)
     {
         base.OnInit(userData);
+        animator = GetComponent<Animator>();
     }
 
     protected internal override void OnShow(object userData)
     {
         base.OnShow(userData);
-        Debug.Log("Player Show");
         CreateFsm();
         m_Fsm.Start<PlayerIdleState>();
     }
+
+    protected internal override void OnUpdate(float elapseSeconds, float realElapseSeconds)
+    {
+        base.OnUpdate(elapseSeconds, realElapseSeconds);
+        Loging();
+    }
+
     protected internal override void OnHide(bool isShutdown, object userData)
     {
         base.OnHide(isShutdown, userData);
@@ -34,13 +42,6 @@ public class Player : EntityLogic
             new PlayerMoveState()
             );
     }
-    private void UpdateFsm()
-    {
-        if(m_Fsm != null)
-        {
-            //m_Fsm.Update()
-        }
-    }
 
     private void DestoryFsm()
     {
@@ -49,5 +50,15 @@ public class Player : EntityLogic
             GameEntry.GetComponent<FsmComponent>().DestroyFsm(m_Fsm);
             m_Fsm = null;
         }
+    }
+    private void Loging()
+    {
+        Debug.Log("플레이어 상태 : " + m_Fsm.CurrentState.GetType().Name);
+
+    }
+
+    public void SetMove(bool moving)
+    {
+        animator.SetBool("IsMove", moving);
     }
 }
