@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6079305fd77255beea5a8bbe941e6cb6, type: 3}
+  m_Name: Wall-LibraryPillar1
+  m_EditorClassIdentifier:
+  m_DefaultSprite: {fileID: 21304260, guid: 95be38480a6a60945ae1d7d58ab0ede9, type: 3}
+  m_DefaultGameObject: {fileID: 0}
+  m_DefaultColliderType: 2
+  m_TilingRules: []
+  specifiedCompare:
+  - {fileID: 11400000, guid: f82fce0b2edfb5e409cae0436146370e, type: 2}
+  - {fileID: 11400000, guid: bd78953b33736a14da28bf1957c120b5, type: 2}
+  - {fileID: 11400000, guid: b912ef3ab302f944c823b5bdd3f9db52, type: 2}
+  - {fileID: 11400000, guid: 371cf80d3620bc1478ac7430ef6fefd9, type: 2}
+  - {fileID: 11400000, guid: 284481d26a7e2eb4f9d81e5a6d127734, type: 2}
+  - {fileID: 11400000, guid: a279d0bf6e8773241911001405394094, type: 2}
+  checkSelf: 1
