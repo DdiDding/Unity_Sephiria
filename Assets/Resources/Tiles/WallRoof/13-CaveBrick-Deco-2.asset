@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b8c2a4a375f629014d4981bf241b11bd, type: 3}
-  m_Name: 1-Cave
+  m_Name: 13-CaveBrick-Deco-2
   m_EditorClassIdentifier:
-  id: 1
-  wallTile: {fileID: 11400000, guid: 8a21c1a72a106314ca9278690082963a, type: 2}
-  roofTile: {fileID: 11400000, guid: 56a8bb66f360a224ca5f2e43579e14e5, type: 2}
+  id: 13
+  wallTile: {fileID: 11400000, guid: 78e82ab283620094da93075c8b959da4, type: 2}
+  roofTile: {fileID: 11400000, guid: 6036ea63d32bbc34c9613e12d330d909, type: 2}
   hiddenWallTile: {fileID: 0}
-  hiddenRoofTile: {fileID: 11400000, guid: 92d3878a7791d0d4c9ddb879fc200620, type: 2}
+  hiddenRoofTile: {fileID: 11400000, guid: d0ffa479d9d5e8e4c9b2dbb1f5f39cdd, type: 2}
   overwriteGround: {fileID: 0}
   overwriteUpperGround: {fileID: 0}
   makeTransparentTileToAbove: 1
