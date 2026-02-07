@@ -9,12 +9,20 @@ namespace Game.Map
 {
     /**
      * @class TileProvider
-     * @brief 타일 리소스를 로드하고 캐싱하여 제공
+     * @brief 타일 Entity를 로드하고 캐싱하여 제공
      */
     public class TileProvider
     {
         private readonly Dictionary<int, TileBase> _tileCache = new Dictionary<int, TileBase>();
         private ResourceComponent _resource;
+
+
+        //각 타일 Entity들을 저장해 두는 Dictionoary,타일 ID를 key로 가진다.
+        private readonly Dictionary<int, GroundTileEntity>  mGroundTileEntities = new Dictionary<int, GroundTileEntity>();
+        private readonly Dictionary<int, WallRoofTileEntity> mWallRoofTileEntities = new Dictionary<int, WallRoofTileEntity>();
+        private readonly Dictionary<int, CliffTileEntity> mCliffTileEntities = new Dictionary<int, CliffTileEntity>();
+
+
 
         private readonly Dictionary<int, string> _tilePathTable = new Dictionary<int, string>
         {
@@ -27,7 +35,7 @@ namespace Game.Map
             { 13, "Assets/Resources/Tiles/13-CaveStone1.asset" },
             { 14, "Assets/Resources/Tiles/14-CaveStone2.asset" }
         };
-        // TODO WallRoot 타일 테이블 따로 구현
+
 
         // 비동기 로딩 상태 관리
         private int _loadingCount;
@@ -46,8 +54,16 @@ namespace Game.Map
         // Public API
         // ----------------------------------
 
+        public void Initialize()
+        {
+
+        }
+
+
         public void LoadTiles( HashSet<int> tileIds, Action onAllLoaded)
         {
+            // Load GroundTile
+
             _onAllLoaded = onAllLoaded;
             _loadingCount = 0;
 
@@ -77,7 +93,6 @@ namespace Game.Map
         // ----------------------------------
         // Internal
         // ----------------------------------
-
         private void LoadTileAsync(int tileId)
         {
             string path = GetTilePath(tileId);
