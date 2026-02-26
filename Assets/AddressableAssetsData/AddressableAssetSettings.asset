@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 12628d8d4fd5b76469106a9ca3f7a830
   m_currentHash:
     serializedVersion: 2
-    Hash: 8c1d8cf7b419cc3b554b39a01d0244aa
+    Hash: 00000000000000000000000000000000
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 0
   m_CatalogRequestsTimeout: 0
@@ -54,7 +54,7 @@ MonoBehaviour:
     m_Id: 
   m_RemoteCatalogLoadPath:
     m_Id: 
-  m_ContentStateBuildPathProfileVariableName: 
+  m_ContentStateBuildPathProfileVariableName: <default settings path>
   m_CustomContentStateBuildPath: 
   m_ContentStateBuildPath: 
   m_BuildAddressablesWithPlayerBuild: 0
@@ -62,7 +62,7 @@ MonoBehaviour:
   m_GroupAssets:
   - {fileID: 11400000, guid: 728daa617a6416243968f96a124132e0, type: 2}
   - {fileID: 11400000, guid: 19fce68382a1ac24088b2c6d3034acd3, type: 2}
-  - {fileID: 11400000, guid: de444f26bebfc184aa7fbf843502a653, type: 2}
+  - {fileID: 11400000, guid: dcd93876bfe0af649921028c9a05bdcd, type: 2}
   m_BuildSettings:
     m_LogResourceManagerExceptions: 1
     m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
@@ -103,6 +103,7 @@ MonoBehaviour:
     m_LabelNames:
     - default
     - Test
+    - Tile
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 030efbab100c6f747b38cca5b34d3776, type: 2}

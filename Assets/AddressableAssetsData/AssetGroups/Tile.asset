@@ -10,14 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: GroundTileEntity
+  m_Name: Tile
   m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
-  m_GroupName: GroundTileEntity
-  m_GUID: f71fff26c6c34c648bae0e7bd1e158c5
-  m_SerializeEntries: []
+  m_GroupName: Tile
+  m_GUID: 72d429be4dda9544c88a11e86d377810
+  m_SerializeEntries:
+  - m_GUID: 8a21c1a72a106314ca9278690082963a
+    m_Address: Wall-Cave
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Tile
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 3a588b1d88023f04cbe491ce7974b44e, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: f80b30e0164fcaf46bf8348111dbf3f0, type: 2}
-    - {fileID: 11400000, guid: bea0018c03a879144823de8c46b895a2, type: 2}
+    - {fileID: 11400000, guid: 5402e345225e8a448bba1c092642815a, type: 2}
+    - {fileID: 11400000, guid: 7d09f73e64768624ca23a45b9c5f5870, type: 2}
