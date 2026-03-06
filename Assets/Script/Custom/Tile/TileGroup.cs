@@ -7,17 +7,20 @@ using UnityEngine.Rendering;
  * @briff 각 TileEntity를 모아둔 Dictionary를 관리
  */
 [CreateAssetMenu(fileName = "TileGroup", menuName = "Scriptable Objects/TileGroup")]
-public class TileGroup : ScriptableObject
+public class TileGroup<T> : ScriptableObject
+    where T : TileEntityBase
 {
     [SerializeField]
-    public SerializedDictionary<int, GroundTileEntity> grounds = new SerializedDictionary<int, GroundTileEntity>();
-    public IReadOnlyDictionary<int, GroundTileEntity> Grounds => grounds;
+    private SerializedDictionary<int, T> tiles;
+    public IReadOnlyDictionary<int, T> Tiles => tiles;
 
-    [SerializeField]
-    public SerializedDictionary<int, WallRoofTileEntity> walls;
-    public IReadOnlyDictionary<int, WallRoofTileEntity> Walls => walls;
+    public T Get(int id)
+    {
+        return tiles[id];
+    }
 
-    [SerializeField]
-    public SerializedDictionary<int, CliffTileEntity> cliffs;
-    public IReadOnlyDictionary<int, CliffTileEntity> Cliffs=> cliffs;
+    public bool TryGet(int id, out T entity)
+    {
+        return tiles.TryGetValue(id, out entity);
+    }
 }

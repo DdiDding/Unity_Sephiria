@@ -5,6 +5,5 @@ using UnityGameFramework.Runtime;
 
 public class TileComponent : GameFrameworkComponent
 {
-    
-    private Dictionary<int, TileGroup> m_TileGroups;
+    //private Dictionary<int, TileGroup> m_TileGroups;
 }
