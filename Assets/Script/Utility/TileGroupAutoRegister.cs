@@ -3,10 +3,10 @@ using UnityEngine;
 using UnityEditor;
 
 /**
- * @class TileEntityAutoRegistrar
+ * @class TileGroupAutoRegister
  * @briff TileEntityRegistry에 TileEntity를 자동으로 등록하는 툴
  */
-public static class TileEntityAutoRegistrar
+public static class TileGroupAutoRegister
 {
     [MenuItem("Tools/TileEntity/Auto Populate Container")]
     public static void ShowWindow()
@@ -20,7 +20,7 @@ public static class TileEntityAutoRegistrar
      */
     private class tileEntityAutoRegistrarWindow : EditorWindow
     {
-        private TileEntityRegistry targetContainer;
+        private TileGroup targetContainer;
 
         public static void ShowWindow()
         {
@@ -34,10 +34,10 @@ public static class TileEntityAutoRegistrar
         {
             EditorGUILayout.LabelField("채울 Registry 선택", EditorStyles.boldLabel);
 
-            targetContainer = (TileEntityRegistry)EditorGUILayout.ObjectField(
+            targetContainer = (TileGroup)EditorGUILayout.ObjectField(
                 "Target Container",
                 targetContainer,
-                typeof(TileEntityRegistry),
+                typeof(TileGroup),
                 false);
 
             EditorGUILayout.Space();
@@ -55,7 +55,7 @@ public static class TileEntityAutoRegistrar
     /**
      * @briff TileEntity를 등록하는 로직
      */
-    public static void Populate(TileEntityRegistry registry)
+    public static void Populate(TileGroup registry)
     {
         // Regist GroundTileEntity
         // 각 entity의 guid를 가져온다.

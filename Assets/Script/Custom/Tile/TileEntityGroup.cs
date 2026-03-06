@@ -3,11 +3,11 @@ using UnityEngine;
 using UnityEngine.Rendering;
 
 /**
- * @class TileEntityRegistry
+ * @class TileGroup
  * @briff 각 TileEntity를 모아둔 Dictionary를 관리
  */
-[CreateAssetMenu(fileName = "TileEntityRegistry", menuName = "Scriptable Objects/TileEntityRegistry")]
-public class TileEntityRegistry : ScriptableObject
+[CreateAssetMenu(fileName = "TileEntityGroup", menuName = "Scriptable Objects/TileEntityGroup")]
+public class TileGroup : ScriptableObject
 {
     public SerializedDictionary<int, GroundTileEntity> grounds = new SerializedDictionary<int, GroundTileEntity>();
     public IReadOnlyDictionary<int, GroundTileEntity> Grounds => grounds;
@@ -22,6 +22,3 @@ public class TileEntityRegistry : ScriptableObject
     public SerializedDictionary<int, CliffTileEntity> cliffs;
     public IReadOnlyDictionary<int, CliffTileEntity> Cliffs=> cliffs;
 }
-
-//에셋 번들?
-//Addressable assset
