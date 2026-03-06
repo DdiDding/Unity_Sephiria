@@ -9,6 +9,7 @@ using UnityEngine.Rendering;
 [CreateAssetMenu(fileName = "TileGroup", menuName = "Scriptable Objects/TileGroup")]
 public class TileGroup : ScriptableObject
 {
+    [SerializeField]
     public SerializedDictionary<int, GroundTileEntity> grounds = new SerializedDictionary<int, GroundTileEntity>();
     public IReadOnlyDictionary<int, GroundTileEntity> Grounds => grounds;
 

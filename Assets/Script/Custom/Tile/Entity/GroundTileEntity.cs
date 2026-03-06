@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.Tilemaps;
 
 [CreateAssetMenu(fileName = "New Ground Tile", menuName = "Tile/Ground Tile")]
-public class GroundTileEntity : ScriptableObject
+public class GroundTileEntity : TileEntityBase
 {
 	public enum ELayer
 	{
@@ -16,8 +16,6 @@ public class GroundTileEntity : ScriptableObject
 		Pit = 1,
 		Water = 2
 	}
-
-	public int id;
 
 	public TileBase tile;
 
