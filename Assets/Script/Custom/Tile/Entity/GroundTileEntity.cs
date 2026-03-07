@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
-[CreateAssetMenu(fileName = "New Ground Tile", menuName = "Tile/Ground Tile")]
+[CreateAssetMenu(menuName = "Tile/Entity/Ground Tile")]
 public class GroundTileEntity : TileEntityBase
 {
 	public enum ELayer

@@ -1,6 +1,7 @@
 #if UNITY_EDITOR
 using UnityEngine;
 using UnityEditor;
+using GameFramework.Sound;
 
 /**
  * @class TileGroupAutoRegister
@@ -8,10 +9,10 @@ using UnityEditor;
  */
 public static class TileGroupAutoRegister
 {
-    [MenuItem("Tools/TileEntity/Auto Populate Container")]
+    [MenuItem("Tools/Tile/TileGroup Auto Register")]
     public static void ShowWindow()
     {
-        //tileEntityAutoRegistrarWindow.ShowWindow();
+        tileEntityAutoRegistrarWindow.ShowWindow();
     }
 
     /**
@@ -20,37 +21,56 @@ public static class TileGroupAutoRegister
      */
     private class tileEntityAutoRegistrarWindow : EditorWindow
     {
-    //    private TileGroup targetContainer;
+        private TileGroupType tileType;
+        private GroundTileGroup groundGroup;
+        private WallTileGroup wallGroup;
+        //private CliffTileGroup cliffGroups;
 
-    //    public static void ShowWindow()
-    //    {
-    //        var window = GetWindow<tileEntityAutoRegistrarWindow>("Auto Populate Tiles");
-    //        window.minSize = new Vector2(300, 120);
+        public static void ShowWindow()
+        {
+            var window = GetWindow<tileEntityAutoRegistrarWindow>("TileGroup Auto Register");
+            window.minSize = new Vector2(300, 120);
+            window.position = new Rect(800, 300, 350, 150);
+        }
 
-    //        window.position = new Rect(800, 300, 350, 150);
-    //    }
+        private void OnGUI()
+        {
+            EditorGUILayout.LabelField("채울 Registry 선택", EditorStyles.boldLabel);
 
-    //    private void OnGUI()
-    //    {
-    //        EditorGUILayout.LabelField("채울 Registry 선택", EditorStyles.boldLabel);
+            // 설정하려는 Tile entity 종류 선택
+            tileType = (TileGroupType)EditorGUILayout.EnumPopup("Tile Tpye", tileType);
 
-    //        targetContainer = (TileGroup)EditorGUILayout.ObjectField(
-    //            "Target Container",
-    //            targetContainer,
-    //            typeof(TileGroup),
-    //            false);
+            // Tile entity에 맞는 삽입할 컨테이너(TileGroup Obj)선택
+            switch (tileType)
+            {
+                case TileGroupType.Ground:
+                    groundGroup = (GroundTileGroup)EditorGUILayout.ObjectField(
+                    "Ground Group",
+                        groundGroup,
+                        typeof(GroundTileGroup),
+                        false);
+                    break;
 
-    //        EditorGUILayout.Space();
+                case TileGroupType.Wall:
+                    wallGroup = (WallTileGroup)EditorGUILayout.ObjectField(
+                        "Wall Group",
+                        wallGroup,
+                        typeof(WallTileGroup),
+                        false);
+                    break;
+            }
 
-    //        if (GUILayout.Button("Populate"))
-    //        {
-    //            if (targetContainer != null)
-    //                Populate(targetContainer);
-    //            else
-    //                EditorUtility.DisplayDialog("Error", "TileEntityContainer를 선택하세요.", "OK");
-    //        }
-    //    }
-    //}
+            EditorGUILayout.Space();
+
+            if (GUILayout.Button("Populate"))
+            {
+                if (targetContainer != null)
+                    Populate(targetContainer);
+                else
+                    EditorUtility.DisplayDialog("Error", "TileEntityContainer를 선택하세요.", "OK");
+            }
+        }
+    }
 
     ///**
     // * @briff TileEntity를 등록하는 로직
@@ -68,6 +88,5 @@ public static class TileGroupAutoRegister
     //        // 등록
     //        registry.grounds.Add(i, AssetDatabase.LoadAssetAtPath<GroundTileEntity>(path));
     //    }
-    }
 }
 #endif
