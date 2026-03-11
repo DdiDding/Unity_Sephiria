@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c2a4a375f629014d4981bf241b11bd, type: 3}
+  m_Name: 15_Library
+  m_EditorClassIdentifier: 
+  id: 15
+  wallTile: {fileID: 11400000, guid: d1f2b79a029047a4abb871aa309c7dcf, type: 2}
+  roofTile: {fileID: 11400000, guid: bd5118265210b704ea950ab69bc33bd8, type: 2}
+  hiddenWallTile: {fileID: 0}
+  hiddenRoofTile: {fileID: 11400000, guid: 05cff5f518b4a294d9a645237f530b8e, type: 2}
+  overwriteGround: {fileID: 11400000, guid: 653cdd2c2142c004b8b0af01082e5c9d, type: 2}
+  overwriteUpperGround: {fileID: 0}
+  makeTransparentTileToAbove: 1

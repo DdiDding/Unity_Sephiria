@@ -55,7 +55,10 @@ public static class TileGroupAutoRegister
             if (GUILayout.Button("Populate"))
             {
                 if (tileGroup != null)
+                {
                     Populate(tileGroup, tileType);
+                    EditorUtility.DisplayDialog("Success", "작업을 수행했습니다.", "OK");
+                }
                 else
                     EditorUtility.DisplayDialog("Error", "TileEntityContainer를 선택하세요.", "OK");
             }
@@ -107,6 +110,8 @@ public static class TileGroupAutoRegister
             // tiles[id] = asset
             //tileGroup.Add(id, asset);
         }
+
+
     }
 
     /**
@@ -117,13 +122,12 @@ public static class TileGroupAutoRegister
         switch (type)
         {
             case TileGroupType.Ground:
-                return "Assets/ScriptableObjects/Tiles/TileEntity/GroundTiles";
+                return "Assets/ScriptableObjects/Tiles/TileEntity/Ground";
             case TileGroupType.Wall:
-                return "Assets/ScriptableObjects/Tiles/TileEntity/WallTiles";
+                return "Assets/ScriptableObjects/Tiles/TileEntity/WallRoof";
         }
 
         return "";
     }
 }
 #endif
-

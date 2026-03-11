@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c2a4a375f629014d4981bf241b11bd, type: 3}
+  m_Name: 21_DesertCliffWall_Base
+  m_EditorClassIdentifier: 
+  id: 21
+  wallTile: {fileID: 11400000, guid: 4805de8993fdea147a23db72b1a74f2a, type: 2}
+  roofTile: {fileID: 0}
+  hiddenWallTile: {fileID: 0}
+  hiddenRoofTile: {fileID: 0}
+  overwriteGround: {fileID: 11400000, guid: fcb8daa1aa0b5eb4c980a5ecf6acf562, type: 2}
+  overwriteUpperGround: {fileID: 0}
+  makeTransparentTileToAbove: 1
