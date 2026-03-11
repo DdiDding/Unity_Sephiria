@@ -18,8 +18,7 @@ MonoBehaviour:
   - m_GUID: 6c0889af629e01b4e8eaa80bc0d4fba0
     m_Address: GroundTileGroup
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - TileGroup
+    m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 3a588b1d88023f04cbe491ce7974b44e, type: 2}
