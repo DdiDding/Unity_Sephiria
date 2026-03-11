@@ -17,8 +17,6 @@ public class GroundTileEntity : TileEntityBase
 		Water = 2
 	}
 
-	public TileBase tile;
-
 	public TileBase waterTile;
 
 	[Header("Allowed layer")]

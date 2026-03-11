@@ -2,6 +2,8 @@
 using UnityEngine;
 using UnityEditor;
 using GameFramework.Sound;
+using TreeEditor;
+using System.Text.RegularExpressions;
 
 /**
  * @class TileGroupAutoRegister
@@ -24,6 +26,7 @@ public static class TileGroupAutoRegister
         private TileGroupType tileType;
         private GroundTileGroup groundGroup;
         private WallTileGroup wallGroup;
+        private TileGroupBase tileGroup;
         //private CliffTileGroup cliffGroups;
 
         public static void ShowWindow()
@@ -40,53 +43,87 @@ public static class TileGroupAutoRegister
             // 설정하려는 Tile entity 종류 선택
             tileType = (TileGroupType)EditorGUILayout.EnumPopup("Tile Tpye", tileType);
 
-            // Tile entity에 맞는 삽입할 컨테이너(TileGroup Obj)선택
-            switch (tileType)
-            {
-                case TileGroupType.Ground:
-                    groundGroup = (GroundTileGroup)EditorGUILayout.ObjectField(
-                    "Ground Group",
-                        groundGroup,
-                        typeof(GroundTileGroup),
-                        false);
-                    break;
 
-                case TileGroupType.Wall:
-                    wallGroup = (WallTileGroup)EditorGUILayout.ObjectField(
-                        "Wall Group",
-                        wallGroup,
-                        typeof(WallTileGroup),
+            tileGroup = (TileGroupBase)EditorGUILayout.ObjectField(
+                        "Target Tile Group",
+                        tileGroup,
+                        typeof(TileGroupBase),
                         false);
-                    break;
-            }
 
-            EditorGUILayout.Space();
+            EditorGUILayout.Space(15);
 
             if (GUILayout.Button("Populate"))
             {
-                if (targetContainer != null)
-                    Populate(targetContainer);
+                if (tileGroup != null)
+                    Populate(tileGroup, tileType);
                 else
                     EditorUtility.DisplayDialog("Error", "TileEntityContainer를 선택하세요.", "OK");
             }
         }
     }
 
-    ///**
-    // * @briff TileEntity를 등록하는 로직
-    // */
-    //public static void Populate(TileGroup registry)
-    //{
-    //    // Regist GroundTileEntity
-    //    // 각 entity의 guid를 가져온다.
-    //    string[] guids = AssetDatabase.FindAssets("t:GroundTileEntity", new[] { "Assets/Resources/Tiles/TileEntities/GroundTiles" });
+    /**
+     * @briff TileEntity를 등록하는 로직
+     */
+    public static void Populate(TileGroupBase tileGroup, TileGroupType tileType)
+    {
+        tileGroup.Clear();
 
-    //    for (int i = 0; i < guids.Length; i++)
-    //    {
-    //        // guid 이용해 경로 가져오기
-    //        string path = AssetDatabase.GUIDToAssetPath(guids[i]);
-    //        // 등록
-    //        registry.grounds.Add(i, AssetDatabase.LoadAssetAtPath<GroundTileEntity>(path));
-    //    }
+        // TileType에 맞는 폴더 경로 가져오기
+        string folder = GetFolder(tileType);
+
+        // 해당 폴더에서 TileEntityBase 검색하여 guid 가져오기
+        string[] guids = AssetDatabase.FindAssets("t:TileEntityBase", new[] { folder });
+
+        // TODO : index기반일시 다시 실행하기
+        // 그룹 사이즈 설정
+        //tileGroup.SetSize(guids.Length);
+
+        // 검색된 모든 Asset을 순회
+        foreach (var guid in guids)
+        {
+            // GUID → 실제 Asset 경로로 변환
+            // 예: Assets/Tiles/TileEntities/Ground/0-Cave.asset
+            string path = AssetDatabase.GUIDToAssetPath(guid);
+
+            // 경로에서 Asset을 로드
+            // type이 GroundTileEntity라면 해당 타입으로 로드된다.
+            var asset = AssetDatabase.LoadAssetAtPath<TileEntityBase>(path);
+
+            //경로에서 파일 이름만 추출(확장자 제거)
+            //예: "0-Cave"
+            string fileName = System.IO.Path.GetFileNameWithoutExtension(path);
+            
+            // '-' 기준으로 문자열 분리
+            //["0", "Cave"]
+            string[] parts = fileName.Split('_');
+            
+            //첫 번째 요소를 ID로 변환
+            // "0" → 0
+            int id = int.Parse(parts[0]);
+            
+            tileGroup.Add(asset);
+            //ID를 List index로 사용하여 TileGroup에 저장
+            // tiles[id] = asset
+            //tileGroup.Add(id, asset);
+        }
+    }
+
+    /**
+     * @briff 설정한 TileType에 따라 폴더를 자동으로 매핑해주는 함수
+     */
+    private static string GetFolder(TileGroupType type)
+    {
+        switch (type)
+        {
+            case TileGroupType.Ground:
+                return "Assets/ScriptableObjects/Tiles/TileEntity/GroundTiles";
+            case TileGroupType.Wall:
+                return "Assets/ScriptableObjects/Tiles/TileEntity/WallTiles";
+        }
+
+        return "";
+    }
 }
 #endif
+
