@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.Tilemaps;
-public enum TileGroupType
+public enum ETileGroupType
 {
     Ground = 0,
     Wall,

@@ -4,75 +4,72 @@ using UnityGameFramework.Runtime;
 
 public class RoomGenerator
 {
-    
-    // room생성
-    public void GenerateRoom(int[,] groundRoomData, int[,] upperGroundRoomData)
+    // --------------------------------------------
+    // Public functions
+    // --------------------------------------------
+    public RoomGenerator(TileComponent tileComponent)
     {
-        BindTilemaps();
+        mTileComponent = tileComponent;
 
-        // tileComponent 가져오기
-        if (tileComponent == null)
+        Debug.Assert(mTileComponent != null);
+        if (mTileComponent == null)
         {
-            tileComponent = GameEntry.GetComponent<TileComponent>();
-            if (tileComponent == null)
-            {
-                Debug.LogError("TileComponent not found.");
-                return;
-            }
+            Debug.LogError("TileComponent not found.");
         }
-
-        // TODO : Test room data로 테스트 후 삭제 하기
-        int[,] testGroundRoomData =
-        {
-            { 1, 1, 1, 1 },
-            { 0, 1, 1, 0 },
-            { 2, 3, 4, 1 }
-        };
-
-        GenerateGroundRoom(testGroundRoomData, testGroundRoomData);
     }
 
-    /**
-    * @brief 2차원배열대로 Ground, UpperGround Tile을 설치하는 함수
-    */
-    private bool GenerateGroundRoom(int[,] groundRoomData, int[,] upperGroundRoomData)
+    // room생성
+    public RoomEntity GenerateRoom(int[,] groundRoomData, int[,] upperGroundRoomData)
     {
-        // Ground tile 생성
-        Tilemap tileMap;
-        GroundTileGroup tileGroup = tileComponent.GetTileGroup(TileGroupType.Ground) as GroundTileGroup;
-        int y= groundRoomData.GetLength(0);
-        int x = groundRoomData.GetLength(1);
+        // TODO : 룸 여러개일때 이름은?
+        GameObject roomObj = new GameObject("Room");
+        RoomEntity room = roomObj.AddComponent<RoomEntity>();
 
-        for (int i = 0; i < y; ++i)
+        setGroundTile(room.GetTilemap(ETileLayerType.Ground), groundRoomData, upperGroundRoomData);
+        return room;
+    }
+
+    // --------------------------------------------
+    // Private functions
+    // --------------------------------------------
+
+    /**
+     * @brief 2차원배열대로 Ground, UpperGround Tile을 설치하는 함수
+     * @param groundRoomData Ground레이어 타일 데이터
+     * @param upperGroundRoomData Upper Ground레이어 타일 데이터
+     * @return 타일 설치 성공 여부
+     */
+    private bool setGroundTile(Tilemap tilemap, int[,] groundRoomData, int[,] upperGroundRoomData)
+    {
+        GroundTileGroup tileGroup = mTileComponent.GetTileGroup(ETileGroupType.Ground) as GroundTileGroup;
+        int dataY = groundRoomData.GetLength(0);
+        int dataX = groundRoomData.GetLength(1);
+
+        //TODO "X" 처리하기
+
+        // Ground Tile 생성
         {
-            for (int j = 0; j < x; ++x)
+            // 2차원 배열 room data 순회하면서 타일 설치
+            for (int y = 0; y < dataY; ++y)
             {
-                int tileId = groundRoomData[i, j];
-                TileBase tile = tileGroup.Get(tileId).tile;
+                for (int x = 0; x < dataX; ++x)
+                {
+                    int tileNum = groundRoomData[y, x];
+                    TileBase tile = tileGroup.Get(tileNum).tile;
 
-
+                    Vector3Int tilePosition = new Vector3Int(x, -y, 0);
+                    tilemap.SetTile(tilePosition, tile);
+                }
             }
         }
 
-        // Upper Ground tile 생성
         return true;
     }
 
-    private void BindTilemaps()
-    {
-        groundMap = GameObject.Find("Ground").GetComponent<Tilemap>();
-        upperGroundMap = GameObject.Find("UpperGround").GetComponent<Tilemap>();
-        wallMap = GameObject.Find("Wall").GetComponent<Tilemap>();
-        cliffMap = GameObject.Find("Cliff").GetComponent<Tilemap>();
-    }
 
     // --------------------------------------------
     // Private values
     // --------------------------------------------
     // 타일맵 참조 (외부에서 주입받는 것이 이상적)
-    private Tilemap groundMap;
-    private Tilemap upperGroundMap;
-    private Tilemap wallMap;
-    private Tilemap cliffMap;
-    private TileComponent tileComponent;
+    private TileComponent mTileComponent;
 }

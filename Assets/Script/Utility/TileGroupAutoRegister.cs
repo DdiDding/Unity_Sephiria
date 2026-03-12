@@ -23,7 +23,7 @@ public static class TileGroupAutoRegister
      */
     private class tileEntityAutoRegistrarWindow : EditorWindow
     {
-        private TileGroupType tileType;
+        private ETileGroupType tileType;
         private GroundTileGroup groundGroup;
         private WallTileGroup wallGroup;
         private TileGroupBase tileGroup;
@@ -41,7 +41,7 @@ public static class TileGroupAutoRegister
             EditorGUILayout.LabelField("채울 Registry 선택", EditorStyles.boldLabel);
 
             // 설정하려는 Tile entity 종류 선택
-            tileType = (TileGroupType)EditorGUILayout.EnumPopup("Tile Tpye", tileType);
+            tileType = (ETileGroupType)EditorGUILayout.EnumPopup("Tile Tpye", tileType);
 
 
             tileGroup = (TileGroupBase)EditorGUILayout.ObjectField(
@@ -68,7 +68,7 @@ public static class TileGroupAutoRegister
     /**
      * @briff TileEntity를 등록하는 로직
      */
-    public static void Populate(TileGroupBase tileGroup, TileGroupType tileType)
+    public static void Populate(TileGroupBase tileGroup, ETileGroupType tileType)
     {
         tileGroup.Clear();
 
@@ -117,13 +117,13 @@ public static class TileGroupAutoRegister
     /**
      * @briff 설정한 TileType에 따라 폴더를 자동으로 매핑해주는 함수
      */
-    private static string GetFolder(TileGroupType type)
+    private static string GetFolder(ETileGroupType type)
     {
         switch (type)
         {
-            case TileGroupType.Ground:
+            case ETileGroupType.Ground:
                 return "Assets/ScriptableObjects/Tiles/TileEntity/Ground";
-            case TileGroupType.Wall:
+            case ETileGroupType.Wall:
                 return "Assets/ScriptableObjects/Tiles/TileEntity/WallRoof";
         }
 

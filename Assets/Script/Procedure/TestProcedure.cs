@@ -11,5 +11,7 @@ public class TestProcedure : ProcedureBase
         base.OnEnter(procedureOwner);
 
         // 방 데이터 불러오기?
+        FloorComponent floorComponent = GameEntry.GetComponent<FloorComponent>();
+        floorComponent.CreateRoom();
     }
 }

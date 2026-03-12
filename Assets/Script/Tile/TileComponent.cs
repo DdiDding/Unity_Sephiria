@@ -10,10 +10,32 @@ using UnityGameFramework.Runtime;
 
 public class TileComponent : GameFrameworkComponent
 {
+    // --------------------------------------------
+    // Private valebles
+    // --------------------------------------------
+
+    private Dictionary<ETileGroupType, TileGroupBase> tileGroups;
+    private ResourceComponent resourceComponent;
+
+    // --------------------------------------------
+    // Life cycle
+    // --------------------------------------------
+
+    protected override void Awake()
+    {
+        base.Awake();
+        tileGroups = new();
+    }
+
+    private void Start()
+    {
+        resourceComponent = GameEntry.GetComponent<ResourceComponent>();
+    }
 
     // --------------------------------------------
     // Public functions
     // --------------------------------------------
+
     /**
      * @brief 타일 그룹을 로드한다.
      * @param OnTileLoadComplete 로드가 완료되면 콜백할 델리게이트용 함수
@@ -37,9 +59,9 @@ public class TileComponent : GameFrameworkComponent
      * @brief 타일 타입에 맞는 타일 그룹을 반환한다.
      * @param tileType 얻으려는 타일 그룹의 타입
      */
-    public TileGroupBase GetTileGroup(TileGroupType tileType)
+    public TileGroupBase GetTileGroup(ETileGroupType tileType)
     {
-        return tileGroups[TileGroupType.Ground];
+        return tileGroups[ETileGroupType.Ground];
     }
 
     // --------------------------------------------
@@ -57,7 +79,8 @@ public class TileComponent : GameFrameworkComponent
             Debug.LogError($"Asset '{assetName}' is null");
             return;
         }
-        Debug.Log("성공");
+
+        tileGroups.Add(ETileGroupType.Ground, tileGroup);
 
         Action onLoadFinished = userData as Action;
         onLoadFinished?.Invoke();
@@ -71,10 +94,5 @@ public class TileComponent : GameFrameworkComponent
         Debug.Log("실패");
     }
 
-    // --------------------------------------------
-    // Private valebles
-    // --------------------------------------------
 
-    private Dictionary<TileGroupType, TileGroupBase> tileGroups = new();
-    private ResourceComponent resourceComponent;
 }
