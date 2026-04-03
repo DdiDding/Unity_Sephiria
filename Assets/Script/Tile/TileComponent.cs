@@ -4,6 +4,7 @@ using GameFramework.Resource;
 using NUnit.Framework.Constraints;
 using System;
 using System.Collections.Generic;
+using TreeEditor;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 using UnityGameFramework.Runtime;
@@ -49,8 +50,9 @@ public class TileComponent : GameFrameworkComponent
             return;
         }
 
-        // Ground tile group 로드
-        resourceComponent.LoadAsset("Assets/ScriptableObjects/Tiles/TileGroup/GroundTileGroup.asset", typeof(GroundTileGroup),
+        
+        // 모든 tile group이 들어있는 database 로드
+        resourceComponent.LoadAsset("Assets/ScriptableObjects/Tiles/TileGroup/TileGroupDataBase.asset", typeof(TileGroupDataBase),
             new GameFramework.Resource.LoadAssetCallbacks(OnTileLoadedSuccess, OnTileLoadedFailure), OnTileLoadComplete
             );
     }
@@ -61,7 +63,7 @@ public class TileComponent : GameFrameworkComponent
      */
     public TileGroupBase GetTileGroup(ETileGroupType tileType)
     {
-        return tileGroups[ETileGroupType.Ground];
+        return tileGroups[tileType];
     }
 
     // --------------------------------------------
@@ -73,14 +75,16 @@ public class TileComponent : GameFrameworkComponent
      */
     private void OnTileLoadedSuccess(string assetName, object asset, float duration, object userData)
     {
-        TileGroupBase tileGroup = asset as TileGroupBase;
-        if (tileGroup == null)
+        TileGroupDataBase tileGroupDB = asset as TileGroupDataBase;
+        if (tileGroupDB == null)
         {
             Debug.LogError($"Asset '{assetName}' is null");
             return;
         }
 
-        tileGroups.Add(ETileGroupType.Ground, tileGroup);
+
+        tileGroups.Add(ETileGroupType.Ground, tileGroupDB.groundTileGroup);
+        tileGroups.Add(ETileGroupType.Wall, tileGroupDB.wallTileGroup);
 
         Action onLoadFinished = userData as Action;
         onLoadFinished?.Invoke();

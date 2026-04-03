@@ -30,7 +30,7 @@ public class RoomEntity : MonoBehaviour
             tilemaps[(int)ETileLayerType.Ground] = createTilemap("Ground", -100);
             tilemaps[(int)ETileLayerType.UpperGround] = createTilemap("UpperGround", -99);
             tilemaps[(int)ETileLayerType.Cliff] = createTilemap("Cliff", -98);
-            tilemaps[(int)ETileLayerType.Wall] = createTilemap("Wall", -97);
+            tilemaps[(int)ETileLayerType.Wall] = createTilemap("Wall", -97, 0.5f, 0.0f);
             tilemaps[(int)ETileLayerType.Roof] = createTilemap("Roof", -96);
         }
     }
@@ -56,12 +56,13 @@ public class RoomEntity : MonoBehaviour
     // --------------------------------------------
     // Private functions
     // --------------------------------------------
-    private Tilemap createTilemap(string name, int sortingOrder)
+    private Tilemap createTilemap(string name, int sortingOrder, float tileAnchorX = 0.5f, float tileAnchorY = 0.5f)
     {
         GameObject tilemapObj = new GameObject(name);
         tilemapObj.transform.parent = grid.transform;
 
         Tilemap tilemap = tilemapObj.AddComponent<Tilemap>();
+        tilemap.tileAnchor = new Vector3(tileAnchorX, tileAnchorY, 0.0f);
         TilemapRenderer renderer = tilemapObj.AddComponent<TilemapRenderer>();
         renderer.sortingOrder = sortingOrder;
         

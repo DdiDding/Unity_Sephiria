@@ -5,13 +5,31 @@ using ProcedureOwner = GameFramework.Fsm.IFsm<GameFramework.Procedure.IProcedure
 
 public class TestProcedure : ProcedureBase
 {
-    // 한 번만 호출된다는 보장이 없다.
+    // --------------------------------------------
+    // Private valiables
+    // --------------------------------------------
+    private FloorComponent floorComponent;
+
+    // --------------------------------------------
+    // Life cycle
+    // --------------------------------------------
+
     protected override void OnEnter(ProcedureOwner procedureOwner)
     {
         base.OnEnter(procedureOwner);
 
-        // 방 데이터 불러오기?
-        FloorComponent floorComponent = GameEntry.GetComponent<FloorComponent>();
-        floorComponent.CreateRoom();
+        floorComponent = GameEntry.GetComponent<FloorComponent>();
+
+        // TODO : 후에 지금처럼 하나씩이 아닌 배열로 한 번에 room data받아와서, 한번에 방생성하기
+        string testPath = "Assets/Resources/RoomDatas/Test_Moleland.txt";
+        RoomDataParser.LoadTextFile(testPath, OnRoomDataLoaded);
+    }
+
+    // --------------------------------------------
+    // Private functions
+    // --------------------------------------------
+    void OnRoomDataLoaded(RoomData roomData)
+    {
+        floorComponent.CreateRoom(roomData);
     }
 }

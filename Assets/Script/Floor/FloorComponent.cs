@@ -28,26 +28,9 @@ public class FloorComponent : GameFrameworkComponent
     // --------------------------------------------
     // Public functions
     // --------------------------------------------
-    public bool CreateRoom()
+    public bool CreateRoom(RoomData roomData)
     {
-
-        // TODO : Test room data로 테스트 후 삭제 하기
-        int[,] testGroundRoomData =
-        {
-            { 1, 1, 1, 1 },
-            { 0, 1, 1, 0 },
-            { 2, 3, 4, 1 }
-        };
-
-        int[,] testUpperGroundRoomData =
-        {
-            { 0, 0, 0, 0},
-            { 0, 8, 9, 0 },
-            { 0, 0, 0, 0}
-        };
-
-        roomGenerator.GenerateRoom(testGroundRoomData, testUpperGroundRoomData);
-
+        roomGenerator.GenerateRoom(roomData);
         return true;
     }
 
