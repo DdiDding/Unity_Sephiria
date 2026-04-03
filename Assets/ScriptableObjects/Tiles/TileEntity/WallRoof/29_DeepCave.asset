@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c2a4a375f629014d4981bf241b11bd, type: 3}
+  m_Name: 29_DeepCave
+  m_EditorClassIdentifier: 
+  id: 29
+  wallTile: {fileID: 11400000, guid: 06a161a010a7067438560a994f7d44e8, type: 2}
+  roofTile: {fileID: 11400000, guid: 6bf07f7969fdbcc46a1b07f8b2d57e3d, type: 2}
+  hiddenWallTile: {fileID: 11400000, guid: 3a6b0fee850a75c44943822f0c1ca0ce, type: 2}
+  hiddenRoofTile: {fileID: 11400000, guid: f7e6a56c7533f024dbff6508d341bb5f, type: 2}
+  overwriteGround: {fileID: 11400000, guid: d9f4441bbea678947bb8c13406b232ed, type: 2}
+  overwriteUpperGround: {fileID: 0}
+  makeTransparentTileToAbove: 1

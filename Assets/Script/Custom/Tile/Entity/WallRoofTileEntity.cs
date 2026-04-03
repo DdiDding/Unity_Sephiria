@@ -1,11 +1,9 @@
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
-[CreateAssetMenu(fileName = "New Wall Tile", menuName = "Tile/Wall Roof Tile")]
-public class WallRoofTileEntity : ScriptableObject
+[CreateAssetMenu(menuName = "Tile/Entity/Wall Roof Tile")]
+public class WallRoofTileEntity : TileEntityBase
 {
-	public int id;
-
 	public TileBase wallTile;
 
 	public TileBase roofTile;

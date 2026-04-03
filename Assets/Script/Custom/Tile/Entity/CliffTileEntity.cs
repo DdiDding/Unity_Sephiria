@@ -1,7 +1,10 @@
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
-[CreateAssetMenu(fileName = "New Cliff Tile", menuName = "Tile/Cliff Tile")]
+
+// TODO : 상속을 ScriptableObject에서 TileEntityBase로 변경해야함.
+// 리소스를 가져오면 변경하기
+[CreateAssetMenu(menuName = "Tile/Entity/Cliff Tile")]
 public class CliffTileEntity : ScriptableObject
 {
 	public int id;

@@ -11,7 +11,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6079305fd77255beea5a8bbe941e6cb6, type: 3}
   m_Name: Wall-Cave
-  m_EditorClassIdentifier:
+  m_EditorClassIdentifier: 
   m_DefaultSprite: {fileID: 21304670, guid: 95be38480a6a60945ae1d7d58ab0ede9, type: 3}
   m_DefaultGameObject: {fileID: 0}
   m_DefaultColliderType: 2
